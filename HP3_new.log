@@ -1,94 +1,86 @@
-This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.3) (format=lualatex 2022.8.29)  1 SEP 2023 09:19
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2023.1.16)  17 SEP 2023 08:31
  restricted system commands enabled.
 **HP3_new.tex
 (./HP3_new.tex
-LaTeX2e <2022-06-01> patch level 3
-Lua module: luaotfload 2022-06-15 3.22 Lua based OpenType font support
-Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
+LaTeX2e <2022-11-01> patch level 1
+Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
+Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
 ollection.
-luaotfload | conf : Root cache directory is "C:/Users/Mitsuyo/AppData/Local/MiKT
-eX/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2022-06-15.lua" from kpse-res
-olved path "C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload
-/fontloader-2022-06-15.lua".
+luaotfload | conf : Root cache directory is "C:/Users/demoto/AppData/Local/MiKTe
+X/2.9/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
+olved path "C:/Program Files MD/MiKTeX 2.9/tex/luatex/luaotfload/fontloader-2022
+-10-03.lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.120
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "C:/Users/Mitsuyo/AppData/Local/MiKT
-eX/luatex-cache/generic/names".
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+luaotfload | conf : Root cache directory is "C:/Users/demoto/AppData/Local/MiKTe
+X/2.9/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
-Inserting `luaotfload.harf.glyphstream' at position 1 in `glyph_stream_provider'
-.
-Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
-er'.
-Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
-Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
-Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
-Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
 Lua-only attribute luaotfload.letterspace_done = 3
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
-t'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2022-06-16>
-Inserting `tracingstacklevels' at position 1 in `input_level_string'. (./Preamb
-leNew_rm.tex
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/memoir/memoir.cls
-Document Class: memoir 2022/02/20 v3.7q configurable book, report, article docu
-ment class
-
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'. L3 programm
+ing layer <2022-12-17>
+Inserting `tracingstacklevels' in `input_level_string'. (./PreambleNew_rm.tex
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/memoir/memoir.cls"
+Document Class: memoir 2022/11/17 v3.7.19 configurable book, report, article do
+cument class
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/etoolbox/etoolbox.sty"
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count183
 )
-\onelineskip=\skip47
-\lxvchars=\skip48
-\xlvchars=\skip49
+\onelineskip=\skip48
+\lxvchars=\skip49
+\xlvchars=\skip50
 \@memcnta=\count184
 \c@@memmarkcntra=\count185
- (C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/iftex/iftex.sty"
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-\stockheight=\skip50
-\stockwidth=\skip51
-\trimtop=\skip52
-\trimedge=\skip53
+\stockheight=\dimen139
+\stockwidth=\dimen140
+\trimtop=\skip51
+\trimedge=\skip52
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem10.clo
-File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
-luaotfload | db : Font names database loaded from C:/Users/Mitsuyo/AppData/Local
-/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\binding=\skip54
-\spinemargin=\skip55
-\foremargin=\skip56
-\uppermargin=\skip57
-\lowermargin=\skip58
-\headdrop=\skip59
-\normalrulethickness=\skip60
-\mem@maxheadheight=\skip61
-\mem@maxfootheight=\skip62
-\headwidth=\skip63
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/memoir/mem10.clo"
+File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
+luaotfload | db : Font names database loaded from C:/Users/demoto/AppData/Local/
+MiKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\binding=\skip53
+\spinemargin=\skip54
+\foremargin=\skip55
+\uppermargin=\skip56
+\lowermargin=\skip57
+\headdrop=\skip58
+\normalrulethickness=\skip59
+\mem@maxheadheight=\skip60
+\mem@maxfootheight=\skip61
+\headwidth=\skip62
 \c@storedpagenumber=\count186
-\memPD=\dimen137
-\m@mabparskip=\skip64
-\thanksmarkwidth=\skip65
-\thanksmarksep=\skip66
-\droptitle=\skip67
+\memPD=\dimen141
+\m@mabparskip=\skip63
+\thanksmarkwidth=\skip64
+\thanksmarksep=\skip65
+\droptitle=\skip66
 \c@book=\count187
 \c@part=\count188
 \c@chapter=\count189
@@ -97,230 +89,230 @@ luaotfload | db : Font names database loaded from C:/Users/Mitsuyo/AppData/Local
 \c@subsubsection=\count192
 \c@paragraph=\count193
 \c@subparagraph=\count194
-\beforechapskip=\skip68
-\midchapskip=\skip69
-\afterchapskip=\skip70
-\chapindent=\skip71
-\bottomsectionskip=\skip72
-\secindent=\skip73
-\beforesecskip=\skip74
-\aftersecskip=\skip75
-\subsecindent=\skip76
-\beforesubsecskip=\skip77
-\aftersubsecskip=\skip78
-\subsubsecindent=\skip79
-\beforesubsubsecskip=\skip80
-\aftersubsubsecskip=\skip81
-\paraindent=\skip82
-\beforeparaskip=\skip83
-\afterparaskip=\skip84
-\subparaindent=\skip85
-\beforesubparaskip=\skip86
-\aftersubparaskip=\skip87
-\pfbreakskip=\skip88
+\beforechapskip=\skip67
+\midchapskip=\skip68
+\afterchapskip=\skip69
+\chapindent=\skip70
+\bottomsectionskip=\skip71
+\secindent=\skip72
+\beforesecskip=\skip73
+\aftersecskip=\skip74
+\subsecindent=\skip75
+\beforesubsecskip=\skip76
+\aftersubsecskip=\skip77
+\subsubsecindent=\skip78
+\beforesubsubsecskip=\skip79
+\aftersubsubsecskip=\skip80
+\paraindent=\skip81
+\beforeparaskip=\skip82
+\afterparaskip=\skip83
+\subparaindent=\skip84
+\beforesubparaskip=\skip85
+\aftersubparaskip=\skip86
+\pfbreakskip=\skip87
 \c@@ppsavesec=\count195
 \c@@ppsaveapp=\count196
-\ragrparindent=\dimen138
-\everylistparindent=\dimen139
-\parsepi=\skip89
-\topsepi=\skip90
-\itemsepi=\skip91
-\parsepii=\skip92
-\topsepii=\skip93
-\topsepiii=\skip94
-\itemsepii=\skip95
-\itemsepiii=\skip96
-\partopsepii=\skip97
-\partopsepiii=\skip98
-\m@msavetopsep=\skip99
-\m@msavepartopsep=\skip100
+\ragrparindent=\dimen142
+\everylistparindent=\dimen143
+\parsepi=\skip88
+\topsepi=\skip89
+\itemsepi=\skip90
+\parsepii=\skip91
+\topsepii=\skip92
+\topsepiii=\skip93
+\itemsepii=\skip94
+\itemsepiii=\skip95
+\partopsepii=\skip96
+\partopsepiii=\skip97
+\m@msavetopsep=\skip98
+\m@msavepartopsep=\skip99
 \@enLab=\toks16
-\abstitleskip=\skip101
-\absleftindent=\skip102
-\abs@leftindent=\dimen140
-\absrightindent=\skip103
-\absparindent=\skip104
-\absparsep=\skip105
+\abstitleskip=\skip100
+\absleftindent=\skip101
+\abs@leftindent=\dimen144
+\absrightindent=\skip102
+\absparindent=\skip103
+\absparsep=\skip104
 \c@vslineno=\count197
 \c@poemline=\count198
 \c@modulo@vs=\count199
 \c@memfvsline=\count266
-\vleftskip=\skip106
-\vrightskip=\skip107
-\stanzaskip=\skip108
-\versewidth=\skip109
-\vgap=\skip110
-\vindent=\skip111
-\vleftmargin=\dimen141
+\vleftskip=\skip105
+\vrightskip=\skip106
+\stanzaskip=\skip107
+\versewidth=\skip108
+\vgap=\skip109
+\vindent=\skip110
+\vleftmargin=\dimen145
 \c@verse=\count267
 \c@chrsinstr=\count268
-\beforepoemtitleskip=\skip112
-\afterpoemtitleskip=\skip113
+\beforepoemtitleskip=\skip111
+\afterpoemtitleskip=\skip112
 \c@poem=\count269
-\beforePoemTitleskip=\skip114
-\midPoemTitleskip=\skip115
-\afterPoemTitleskip=\skip116
+\beforePoemTitleskip=\skip113
+\midPoemTitleskip=\skip114
+\afterPoemTitleskip=\skip115
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen142
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/array.sty"
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen146
 \ar@mcellbox=\box51
-\extrarowheight=\dimen143
+\extrarowheight=\dimen147
 \NC@list=\toks17
-\extratabsurround=\skip117
-\backup@length=\skip118
+\extratabsurround=\skip116
+\backup@length=\skip117
 \ar@cellbox=\box52
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/dcolumn.sty"
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/delarray.sty"
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/tabularx.sty"
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen144
-\TX@old@table=\dimen145
-\TX@old@col=\dimen146
-\TX@target=\dimen147
-\TX@delta=\dimen148
+\TX@col@width=\dimen148
+\TX@old@table=\dimen149
+\TX@old@col=\dimen150
+\TX@target=\dimen151
+\TX@delta=\dimen152
 \TX@cols=\count270
 \TX@ftn=\toks18
 )
-\heavyrulewidth=\dimen149
-\lightrulewidth=\dimen150
-\cmidrulewidth=\dimen151
-\belowrulesep=\dimen152
-\belowbottomsep=\dimen153
-\aboverulesep=\dimen154
-\abovetopsep=\dimen155
-\cmidrulesep=\dimen156
-\cmidrulekern=\dimen157
-\defaultaddspace=\dimen158
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
 \@cmidla=\count271
 \@cmidlb=\count272
-\@aboverulesep=\dimen159
-\@belowrulesep=\dimen160
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
 \@thisruleclass=\count273
 \@lastruleclass=\count274
-\@thisrulewidth=\dimen161
-\ctableftskip=\skip119
-\ctabrightskip=\skip120
+\@thisrulewidth=\dimen165
+\ctableftskip=\skip118
+\ctabrightskip=\skip119
 \abovecolumnspenalty=\count275
 \@linestogo=\count276
 \@cellstogo=\count277
 \@cellsincolumn=\count278
 \crtok=\toks19
-\@mincolumnwidth=\dimen162
+\@mincolumnwidth=\dimen166
 \c@newflo@tctr=\count279
 \mem@margin@floatbox=\box53
-\@contcwidth=\skip121
-\@contindw=\skip122
-\abovecaptionskip=\skip123
-\belowcaptionskip=\skip124
-\subfloattopskip=\skip125
-\subfloatcapskip=\skip126
-\subfloatcaptopadj=\skip127
-\subfloatbottomskip=\skip128
-\subfloatlabelskip=\skip129
-\subfloatcapmargin=\dimen163
+\@contcwidth=\skip120
+\@contindw=\skip121
+\abovecaptionskip=\skip122
+\belowcaptionskip=\skip123
+\subfloattopskip=\skip124
+\subfloatcapskip=\skip125
+\subfloatcaptopadj=\skip126
+\subfloatbottomskip=\skip127
+\subfloatlabelskip=\skip128
+\subfloatcapmargin=\dimen167
 \c@@contsubnum=\count280
 \m@mscap@capbox=\box54
 \m@mscap@fbox=\box55
-\sidecapsep=\dimen164
-\sidecapwidth=\dimen165
-\m@m@tempdima=\dimen166
-\m@mscapraise=\dimen167
-\sidecapraise=\dimen168
-\m@mscapmainwidth=\dimen169
-\m@mscaplkern=\dimen170
-\beforeepigraphskip=\skip130
-\afterepigraphskip=\skip131
-\epigraphwidth=\skip132
-\epigraphrule=\skip133
+\sidecapsep=\dimen168
+\sidecapwidth=\dimen169
+\m@m@tempdima=\dimen170
+\m@mscapraise=\dimen171
+\sidecapraise=\dimen172
+\m@mscapmainwidth=\dimen173
+\m@mscaplkern=\dimen174
+\beforeepigraphskip=\skip129
+\afterepigraphskip=\skip130
+\epigraphwidth=\skip131
+\epigraphrule=\skip132
 LaTeX Info: Redefining \em on input line 7655.
 LaTeX Info: Redefining \emph on input line 7663.
-\tocentryskip=\skip134
-\tocbaseline=\skip135
-\cftparskip=\skip136
-\cftbeforebookskip=\skip137
-\cftbookindent=\dimen171
-\cftbooknumwidth=\dimen172
-\cftbeforepartskip=\skip138
-\cftpartindent=\skip139
-\cftpartnumwidth=\skip140
-\cftbeforechapterskip=\skip141
-\cftchapterindent=\skip142
-\cftchapternumwidth=\skip143
-\cftbeforesectionskip=\skip144
-\cftsectionindent=\skip145
-\cftsectionnumwidth=\skip146
-\cftbeforesubsectionskip=\skip147
-\cftsubsectionindent=\skip148
-\cftsubsectionnumwidth=\skip149
-\cftbeforesubsubsectionskip=\skip150
-\cftsubsubsectionindent=\skip151
-\cftsubsubsectionnumwidth=\skip152
-\cftbeforeparagraphskip=\skip153
-\cftparagraphindent=\skip154
-\cftparagraphnumwidth=\skip155
-\cftbeforesubparagraphskip=\skip156
-\cftsubparagraphindent=\skip157
-\cftsubparagraphnumwidth=\skip158
-\prechapterprecisshift=\dimen173
+\tocentryskip=\skip133
+\tocbaseline=\skip134
+\cftparskip=\skip135
+\cftbeforebookskip=\skip136
+\cftbookindent=\dimen175
+\cftbooknumwidth=\dimen176
+\cftbeforepartskip=\skip137
+\cftpartindent=\skip138
+\cftpartnumwidth=\skip139
+\cftbeforechapterskip=\skip140
+\cftchapterindent=\skip141
+\cftchapternumwidth=\skip142
+\cftbeforesectionskip=\skip143
+\cftsectionindent=\skip144
+\cftsectionnumwidth=\skip145
+\cftbeforesubsectionskip=\skip146
+\cftsubsectionindent=\skip147
+\cftsubsectionnumwidth=\skip148
+\cftbeforesubsubsectionskip=\skip149
+\cftsubsubsectionindent=\skip150
+\cftsubsubsectionnumwidth=\skip151
+\cftbeforeparagraphskip=\skip152
+\cftparagraphindent=\skip153
+\cftparagraphnumwidth=\skip154
+\cftbeforesubparagraphskip=\skip155
+\cftsubparagraphindent=\skip156
+\cftsubparagraphnumwidth=\skip157
+\prechapterprecisshift=\dimen177
 \c@maxsecnumdepth=\count281
-\bibindent=\dimen174
-\bibitemsep=\skip159
-\indexcolsep=\skip160
-\indexrule=\skip161
+\bibindent=\dimen178
+\bibitemsep=\skip158
+\indexcolsep=\skip159
+\indexrule=\skip160
 \indexmarkstyle=\toks20
 \@indexbox=\insert252
-\glossarycolsep=\dimen175
-\glossaryrule=\dimen176
-\sideparvshift=\skip162
+\glossarycolsep=\dimen179
+\glossaryrule=\dimen180
+\sideparvshift=\skip161
 \sideins=\insert251
-\sidebartopsep=\skip163
-\sidebarhsep=\skip164
-\sidebarvsep=\skip165
-\sidebarwidth=\skip166
-\footmarkwidth=\skip167
-\footmarksep=\skip168
-\footparindent=\skip169
-\footinsdim=\skip170
+\sidebartopsep=\skip162
+\sidebarhsep=\skip163
+\sidebarvsep=\skip164
+\sidebarwidth=\skip165
+\footmarkwidth=\skip166
+\footmarksep=\skip167
+\footparindent=\skip168
+\footinsdim=\skip169
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
 \m@m@k=\count282
-\m@m@h=\dimen177
-\m@mipn@skip=\skip171
+\m@m@h=\dimen181
+\m@mipn@skip=\skip170
 \sidefootins=\insert248
-\sidefootadjust=\skip172
-\sidefootheight=\skip173
-\sidefoothsep=\skip174
-\sidefootvsep=\skip175
-\sidefootwidth=\skip176
-\m@mdownsf=\skip177
+\sidefootadjust=\skip171
+\sidefootheight=\skip172
+\sidefoothsep=\skip173
+\sidefootvsep=\skip174
+\sidefootwidth=\skip175
+\m@mdownsf=\skip176
 \c@sidefootnote=\count283
-\sidefootmarkwidth=\skip178
-\sidefootmarksep=\skip179
-\sidefootparindent=\skip180
+\sidefootmarkwidth=\skip177
+\sidefootmarksep=\skip178
+\sidefootparindent=\skip179
 \c@pagenote=\count284
 \c@pagenoteshadow=\count285
-\mem@pn@lastkern=\skip181
+\mem@pn@lastkern=\skip180
 \every@verbatim=\toks21
 \afterevery@verbatim=\toks22
 \verbatim@line=\toks23
 \tab@position=\count286
 \verbatim@in@stream=\read2
-\verbatimindent=\skip182
+\verbatimindent=\skip181
 \verbatim@out=\write3
-\bvboxsep=\skip183
+\bvboxsep=\skip182
 \c@memfbvline=\count287
 \c@bvlinectr=\count288
-\bvnumlength=\skip184
-\fb@frw=\dimen178
-\fb@frh=\dimen179
-\FrameRule=\dimen180
-\FrameSep=\dimen181
+\bvnumlength=\skip183
+\fb@frw=\dimen182
+\fb@frh=\dimen183
+\FrameRule=\dimen184
+\FrameSep=\dimen185
 \c@cp@cntr=\count289
 \c@ism@mctr=\count290
 \c@xsm@mctr=\count291
@@ -337,20 +329,20 @@ LaTeX Info: Redefining \emph on input line 7663.
 \c@lastsheet=\count302
 \c@lastpage=\count303
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty
-Package: textcase 2022/06/12 v1.02 Text only upper/lower case changing (DPC)
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/textcase/textcase.sty"
+Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
 )
 \c@figure=\count304
 \c@lofdepth=\count305
-\cftbeforefigureskip=\skip185
-\cftfigureindent=\skip186
-\cftfigurenumwidth=\skip187
+\cftbeforefigureskip=\skip184
+\cftfigureindent=\skip185
+\cftfigurenumwidth=\skip186
 \c@table=\count306
 \c@lotdepth=\count307
-\cftbeforetableskip=\skip188
-\cfttableindent=\skip189
-\cfttablenumwidth=\skip190
+\cftbeforetableskip=\skip187
+\cfttableindent=\skip188
+\cfttablenumwidth=\skip189
 Package abstract [2008/07/23] emulated by memoir.
 Package appendix [2008/07/23] emulated by memoir.
 Package booktabs [2016/05/16] emulated by memoir.
@@ -402,44 +394,38 @@ Sidefoothsep and sidefootwidth: 7pt and 128pt
 Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/yafoot/fnpos.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/yafoot/fnpos.sty"
 Package: fnpos 2018/09/03 v1.1 
-)
-(./ekdosis.sty
+) (./ekdosis.sty
 Package: ekdosis 2022/01/17 v1.5-dev Typesetting TEI xml-compliant critical edi
 tions
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/expkv-opt/expkv-opt
-.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv-opt/expkv-opt.sty"
 Package: expkv-opt 2021-04-04 v0.2 parse class and package options with expkv
- (C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/expkv/expkv.sty
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/expkv/expkv.tex
+
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/expkv/expkv.sty"
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv/expkv.tex"
 File: expkv.tex 2021-09-20 v1.9a an expandable key=val implementation
 )
 Package: expkv 2021-09-20 v1.9a an expandable key=val implementation
 ))
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/expkv-def/expkv-def.s
-ty
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/expkv-def/expkv-def
-.tex
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/expkv/expkv.tex)
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/expkv-def/expkv-def.sty"
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv-def/expkv-def.tex"
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv/expkv.tex")
 File: expkv-def.tex 2022-01-29 v0.9 a key-defining frontend for expkv
 )
 Package: expkv-def 2022-01-29 v0.9 a key-defining frontend for expkv
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/lualatex/luacode/luacode.st
-y
+("C:/Program Files MD/MiKTeX 2.9/tex/lualatex/luacode/luacode.sty"
 Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifluatex.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/iftex/ifluatex.sty"
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/luatex/luatexbase/luatexbas
-e.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/luatex/luatexbase/luatexbase.sty"
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/luatex/ctablestack/ctablest
-ack.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/luatex/ctablestack/ctablestack.sty"
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 \@catcodetablestackcnt=\count308
 )
@@ -449,7 +435,7 @@ Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 \luacode@lines=\toks24
 \luacode@table@soft=\catcodetable14
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/paracol/paracol.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/paracol/paracol.sty"
 Package: paracol 2018/12/31 v1.35 
 \pcol@currcol=\count309
 \pcol@nextcol=\count310
@@ -461,13 +447,13 @@ Package: paracol 2018/12/31 v1.35
 \pcol@footnotebase=\count316
 \pcol@nfootnotes=\count317
 \pcol@mcid=\count318
-\pcol@prevdepth=\dimen182
-\pcol@colht=\dimen183
-\pcol@textfloatsep=\dimen184
-\pcol@lrmargin=\dimen185
-\pagerim=\dimen186
-\pcol@topskip=\skip191
-\belowfootnoteskip=\skip192
+\pcol@prevdepth=\dimen186
+\pcol@colht=\dimen187
+\pcol@textfloatsep=\dimen188
+\pcol@lrmargin=\dimen189
+\pagerim=\dimen190
+\pcol@topskip=\skip190
+\belowfootnoteskip=\skip191
 \pcol@topfnotes=\box56
 \pcol@prespan=\box57
 \pcol@rightpage=\box58
@@ -477,56 +463,52 @@ Package: paracol 2018/12/31 v1.35
 \pcol@colorins=\insert247
 \pcol@everyvbox=\toks25
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/lineno/lineno.sty
-Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/lineno/lineno.sty"
+Package: lineno 2022/07/30 line numbers on paragraphs v5.0
 \linenopenalty=\count319
 \output=\toks26
 \linenoprevgraf=\count320
-\linenumbersep=\dimen187
-\linenumberwidth=\dimen188
+\linenumbersep=\dimen191
+\linenumberwidth=\dimen192
 \c@linenumber=\count321
 \c@pagewiselinenumber=\count322
 \c@LN@truepage=\count323
 \c@internallinenumber=\count324
 \c@internallinenumbers=\count325
-\quotelinenumbersep=\dimen189
-\bframerule=\dimen190
-\bframesep=\dimen191
+\quotelinenumbersep=\dimen193
+\bframerule=\dimen194
+\bframesep=\dimen195
 \bframebox=\box62
-LaTeX Info: Redefining \\ on input line 3056.
+\linenoamsmath@ams@eqpen=\count326
+LaTeX Info: Redefining \\ on input line 3114.
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/trivfloat/trivfloat.s
-ty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/trivfloat/trivfloat.sty"
 Package: trivfloat 2009/04/23 v1.4 Quick floats in LaTeX
-\c@tfl@float@cnt=\count326
+\c@tfl@float@cnt=\count327
 LaTeX Info: Redefining \tfl@uppercase on input line 223.
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/refcount/refcount.sty"
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/ltxcmds/ltxcmds.sty"
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr
-.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/infwarerr/infwarerr.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-user.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/zref/zref-user.sty"
 Package: zref-user 2022-04-07 v2.34 Module user for zref (HO)
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/zref/zref-base.sty"
 Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/kvsetkeys/kvsetkeys
-.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/kvsetkeys/kvsetkeys.sty"
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefi
-nekeys.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/kvdefinekeys/kvdefinekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcm
-ds.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/pdftexcmds/pdftexcmds.sty"
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -534,67 +516,64 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks27
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.s
-ty
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/etexcmds/etexcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/auxhook/auxhook.sty"
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 ))
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/zref/zref-abspage.sty"
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/atbegshi-ltx.sty"
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count327
+\c@abspage=\count328
 Package zref Info: New property: abspage on input line 65.
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/ifoddpage/ifoddpage.s
-ty
-Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count328
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/ifoddpage/ifoddpage.sty"
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count329
 LaTeX Info: Redefining \checkoddpage on input line 45.
 )
-\ekd@app@height=\dimen192
-\c@ekd@pb=\count329
-\c@ekd@lab=\count330
-\c@ekd@vpnum=\count331
-\vwidth@val=\dimen193
-\ekdspace=\skip193
-) (./sanskrit-poetry.sty
+\ekd@app@height=\dimen196
+\c@ekd@pb=\count330
+\c@ekd@lab=\count331
+\c@ekd@vpnum=\count332
+\vwidth@val=\dimen197
+\ekdspace=\skip192
+)
+(./sanskrit-poetry.sty
 Package: sanskrit-poetry 2021/09/03 v0.3 sanskrit verse typesetting
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/xstring/xstring.tex
-\integerpart=\count332
-\decimalpart=\count333
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/xstring/xstring.sty"
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/xstring/xstring.tex"
+\integerpart=\count333
+\decimalpart=\count334
 )
 Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 )
-\c@ekd@padanum=\count334
-\vnumskip=\skip194
-\c@saved@poemline=\count335
-) (C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+\c@ekd@padanum=\count335
+\vnumskip=\skip193
+\c@saved@poemline=\count336
+)
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty"
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cf
-g
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 227.
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.d
-ef
-File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/graphics-def/luatex.def"
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex-dev/graphics/mathcolo
-r.ltx)
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/graphics/mathcolor.ltx")
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -605,117 +584,46 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
-Package: babel 2022/06/06 3.76 The Babel package
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/babel.sty"
+Package: babel 2022/12/26 3.84 The Babel package
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/luababel.def"
 \bbl@readstream=\read3
-\l@afrikaans=\language2
+\l@french=\language2
 Package babel Info: Non-standard hyphenation setup on input line 118.
-\l@ancientgreek=\language3
-\l@armenian=\language4
-\l@assamese=\language5
-\l@basque=\language6
-\l@belarusian=\language7
-\l@bengali=\language8
-\l@bokmal=\language9
-\l@bulgarian=\language10
-\l@catalan=\language11
-\l@churchslavonic=\language12
-\l@classiclatin=\language13
-\l@coptic=\language14
-\l@croatian=\language15
-\l@czech=\language16
-\l@danish=\language17
-\l@dutch=\language18
-\l@esperanto=\language19
-\l@estonian=\language20
-\l@ethiopic=\language21
-\l@finnish=\language22
-\l@french=\language23
-\l@friulan=\language24
-\l@galician=\language25
-\l@georgian=\language26
-\l@german=\language27
-\l@greek=\language28
-\l@gujarati=\language29
-\l@hindi=\language30
-\l@hungarian=\language31
-\l@icelandic=\language32
-\l@indonesian=\language33
-\l@interlingua=\language34
-\l@irish=\language35
-\l@italian=\language36
-\l@kannada=\language37
-\l@kurmanji=\language38
-\l@latin=\language39
-\l@latvian=\language40
-\l@lithuanian=\language41
-\l@liturgicallatin=\language42
-\l@macedonian=\language43
-\l@malayalam=\language44
-\l@marathi=\language45
-\l@mongolian=\language46
-\l@mongolianlmc=\language47
-\l@monogreek=\language48
-\l@ngerman=\language49
-\l@nynorsk=\language50
-\l@occitan=\language51
-\l@oriya=\language52
-\l@pali=\language53
-\l@panjabi=\language54
-\l@piedmontese=\language55
-\l@polish=\language56
-\l@portuguese=\language57
-\l@romanian=\language58
-\l@romansh=\language59
-\l@russian=\language60
-\l@sanskrit=\language61
-\l@serbian=\language62
-\l@serbianc=\language63
-\l@slovak=\language64
-\l@slovenian=\language65
-\l@spanish=\language66
-\l@swedish=\language67
-\l@swissgerman=\language68
-\l@tamil=\language69
-\l@telugu=\language70
-\l@thai=\language71
-\l@turkish=\language72
-\l@turkmen=\language73
-\l@ukenglish=\language74
-\l@ukrainian=\language75
-\l@uppersorbian=\language76
-\l@usenglishmax=\language77
-\l@welsh=\language78
+\l@german=\language3
+\l@sanskrit=\language4
 \babelcatcodetablenum=\catcodetable15
 \bbl@pattcodes=\catcodetable16
 )
-\babel@savecnt=\count336
-\U@D=\dimen194
-\l@unhyphenated=\language79
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+\babel@savecnt=\count337
+\U@D=\dimen198
+\l@unhyphenated=\language5
+
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/luababel.def"
 \bbl@attr@locale=\attribute4
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/arabi/bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/babel-english/english
-.ldf
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/babel-english/english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language74). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language74). Reported on input line 108.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
 ))
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/en/bab
-el-english.tex
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/locale/en/babel-english.tex"
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (./babel-iast.sty
@@ -723,70 +631,64 @@ Package: babel-iast
 Package babel Info: Importing data for iast
 (babel)             from babel-sa-Deva.ini. Reported on input line 2.
 Package babel Info: Hyphen rules for 'iast' set to \l@sanskrit
-(babel)             (\language61). Reported on input line 2.
-Inserting `Babel.hyphenate' at position 1 in `hyphenate'.)
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpa
-rse.sty
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-06-16 L3 programming layer (loader) 
+(babel)             (\language4). Reported on input line 2.
+Inserting `Babel.hyphenate' in `hyphenate'.)
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/l3packages/xparse/xparse.sty"
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty"
+Package: expl3 2022-12-17 L3 programming layer (loader) 
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-l
-uatex.def
-File: l3backend-luatex.def 2022-04-20 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count337
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/l3backend/l3backend-luatex.def"
+File: l3backend-luatex.def 2022-10-26 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count338
 \l__pdf_internal_box=\box63
 ))
-Package: xparse 2022-06-22 L3 Experimental document command parser
-) (./libertine.sty
+Package: xparse 2022-12-17 L3 Experimental document command parser
+)
+(./libertine.sty
 Package: libertine 2022/09/12 (Bob Tennent) Supports Libertine and Biolinum fon
 ts for all LaTeX engines.
-
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifxetex.sty
+ ("C:/Program Files MD/MiKTeX 2.9/tex/generic/iftex/ifxetex.sty"
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
+) ("C:/Program Files MD/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty"
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
-
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.te
-x
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/xkeyval/xkeyval.tex"
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/xkeyval/xkvutils.tex"
 \XKV@toks=\toks28
 \XKV@tempa@toks=\toks29
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count338
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/xkeyval/keyval.tex"))
+\XKV@depth=\count339
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty
+))
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/textcomp.sty"
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/fontspec/fontspec.sty"
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-lua
-tex.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/fontspec/fontspec-luatex.sty"
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count339
-\l__fontspec_language_int=\count340
-\l__fontspec_strnum_int=\count341
-\l__fontspec_tmp_int=\count342
-\l__fontspec_tmpa_int=\count343
-\l__fontspec_tmpb_int=\count344
-\l__fontspec_tmpc_int=\count345
-\l__fontspec_em_int=\count346
-\l__fontspec_emdef_int=\count347
-\l__fontspec_strong_int=\count348
-\l__fontspec_strongdef_int=\count349
-\l__fontspec_tmpa_dim=\dimen195
-\l__fontspec_tmpb_dim=\dimen196
-\l__fontspec_tmpc_dim=\dimen197
+\l__fontspec_script_int=\count340
+\l__fontspec_language_int=\count341
+\l__fontspec_strnum_int=\count342
+\l__fontspec_tmp_int=\count343
+\l__fontspec_tmpa_int=\count344
+\l__fontspec_tmpb_int=\count345
+\l__fontspec_tmpc_int=\count346
+\l__fontspec_em_int=\count347
+\l__fontspec_emdef_int=\count348
+\l__fontspec_strong_int=\count349
+\l__fontspec_strongdef_int=\count350
+\l__fontspec_tmpa_dim=\dimen199
+\l__fontspec_tmpb_dim=\dimen256
+\l__fontspec_tmpc_dim=\dimen257
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/fontenc.sty"
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
-)))
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/fontspec/fontspec.cfg")))
 
 Package fontspec Info: Font family 'LinLibertine(0)' created for font
 (fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
@@ -1217,28 +1119,21 @@ dflt;"
 LaTeX Info: Redefining \oldstylenums on input line 473.
 LaTeX Info: Redefining \liningnums on input line 474.
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/libertine/LinLibertin
-e_R.tex)
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/libertine/LinBiolinum
-_R.tex)
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/libertine/LinBiolinum
-_K.tex)
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/libertine/LinLibertin
-e_I.tex)
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/libertine/LKey.tex))
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinLibertine_R.tex")
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinBiolinum_R.tex")
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinBiolinum_K.tex")
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinLibertine_I.tex")
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LKey.tex"))
 (./TeX2Tei-Commands.tex)) (./MssNewSigla.tex
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/textgreek/textgreek.s
-ty
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/textgreek/textgreek.sty"
 Package: textgreek 2011/10/09 v0.7 Greek symbols in text
 Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
 input line 39.
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/greek-fontenc/lgrenc.
-def
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/greek-fontenc/lgrenc.def"
 File: lgrenc.def 2023-08-15 2.4 LGR Greek font encoding definitions
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/greek-fontenc/greek-f
-ontenc.def
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/greek-fontenc/greek-fontenc.def"
 File: greek-fontenc.def 2023-08-15 2.4 Common Greek font encoding definitions
 ))
 Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
@@ -1281,8 +1176,8 @@ LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 6.
- (C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+ ("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/ts1cmr.fd"
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
@@ -1295,29 +1190,28 @@ LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 16.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
 6.
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/latex/cbfonts-fd/lgrcmr.fd
+("C:/Program Files MD/MiKTeX 2.9/tex/latex/cbfonts-fd/lgrcmr.fd"
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 16.
-\c@ekdapparatus=\count350
-\c@loadepth=\count351
-\cftbeforeekdapparatusskip=\skip195
-\cftekdapparatusindent=\skip196
-\cftekdapparatusnumwidth=\skip197
+\c@ekdapparatus=\count351
+\c@loadepth=\count352
+\cftbeforeekdapparatusskip=\skip194
+\cftekdapparatusindent=\skip195
+\cftekdapparatusnumwidth=\skip196
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.
-mkii
+("C:/Program Files MD/MiKTeX 2.9/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count352
-\scratchdimen=\dimen198
+\scratchcounter=\count353
+\scratchdimen=\dimen258
 \scratchbox=\box64
-\nofMPsegments=\count353
-\nofMParguments=\count354
+\nofMPsegments=\count354
+\nofMParguments=\count355
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count355
-\MPscratchDim=\dimen199
-\MPnumerator=\count356
-\makeMPintoPDFobject=\count357
+\MPscratchCnt=\count356
+\MPscratchDim=\dimen259
+\MPnumerator=\count357
+\makeMPintoPDFobject=\count358
 \everyMPtoPDFconversion=\toks31
 )
 
@@ -1389,7 +1283,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/b/n on input line 1
 6.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4200.
+(Font)              scaled to size 8.0pt on input line 4209.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Trying to load font information for LGR+LinLibertine(0) on 
@@ -1413,28 +1307,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 4200.
+(Font)              scaled to size 7.0pt on input line 4209.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4200.
+(Font)              <7> on input line 4209.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 4200.
-[1{C:/Users/Mitsuyo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+(Font)              scaled to size 9.0pt on input line 4209.
+[1{C:/Users/demoto/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}
 
-] [2]
-Underfull \hbox (badness 1389) in paragraph at lines 1--4200
-\LGR/LinLibertine(0)/m/n/8 a$[][]$b$[][]$b$[][]$e$[][]$e$[][]$h$[][]$\TU/LinLib
-ertine(0)/m/n/8 ] []daṇḍa-hataḥ[] \LGR/LinLibertine(0)/m/n/8 b$[][]$GDe$[
-][]$h$[][]$q  [][]\TU/LinLibertine(0)/b/n/8 11d [][][]daṇḍākāraḥ[] \TU/
-LinLibertine(0)/m/n/8 cett.] []daṇḍakāraḥ[] \LGR/LinLibertine(0)/m/n/8 e$[][]$  [][][][][]\TU/LinLibertine(0)/b/n/8 pra-j
-āy-ate[]
- []
+]
+[2] [3] [4] [5] [6]
+luaotfload | cache : Lookup cache loaded from C:/Users/demoto/AppData/Local/MiKT
+eX/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
-[3] [4] [5] [6]
-luaotfload | cache : Lookup cache loaded from C:/Users/Mitsuyo/AppData/Local/MiK
-TeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+Package fontspec Info: Could not resolve font "AdishilaSan/BI" (it probably
+(fontspec)             doesn't exist).
 
-Package fontspec Warning: Language 'Sanskrit' not available for font
-(fontspec)                'AdishilaSan' with script 'Devanagari'.
+
+Package fontspec Info: Could not resolve font "AdishilaSan/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "AdishilaSan/I" (it probably
+(fontspec)             doesn't exist).
 
 
 Package fontspec Info: Font family 'AdishilaSan(0)' created for font
@@ -1449,33 +1343,21 @@ rer=Harfbuzz,Scale=1.5].
 (fontspec)             <->s*[1.5]"AdishilaSan:mode=harf;script=deva;language=df
 lt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.5]"AdishilaSan/B:mode=harf;script=deva;language=
-dflt;+tlig;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1.5]"AdishilaSan/I:mode=harf;script=deva;language=
-dflt;+tlig;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1.5]"AdishilaSan/BI:mode=harf;script=deva;language
-=dflt;+tlig;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 4200.
+(Font)              scaled to size 12.0pt on input line 4209.
 
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/loadhyph/
-loadhyph-sa.tex UTF-8 Sanskrit hyphenation patterns
-(C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/
-tex/hyph-sa.tex))
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.tex
+" UTF-8 Sanskrit hyphenation patterns
+("C:/Program Files MD/MiKTeX 2.9/tex/generic/hyph-utf8/patterns/tex/hyph-sa.tex
+"))
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 10.5pt on input line 4200.
+(Font)              scaled to size 10.5pt on input line 4209.
  [7]
-Underfull \hbox (badness 1371) in paragraph at lines 1--4200
+Underfull \hbox (badness 1371) in paragraph at lines 1--4209
 []\TU/LinLibertine(0)/m/n/8 tāt[] \LGR/LinLibertine(0)/m/n/8 h$[][]$ []\TU/Lin
 Libertine(0)/m/it/8 om.[] \LGR/LinLibertine(0)/m/n/8 a$[][]$b$[][]$g$[][]$h$[][
-]$h$[][]$h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33b [][][]yā-vad iyaṃ[] \LGR
+]$h$[][]$h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32b [][][]yā-vad iyaṃ[] \LGR
 /LinLibertine(0)/m/n/8 GDd$[][]$\TU/LinLibertine(0)/m/n/8 ] []sā yā-vad[] \LG
 R/LinLibertine(0)/m/n/8 a$[][]$b$[][]$e$[][]$h$[][]$h$[][]$q []\TU/LinLibertine
 (0)/m/n/8 sā[] \LGR/LinLibertine(0)/m/n/8 e$[][]$ []\TU/LinLibertine(0)/m/n/8 
@@ -1483,94 +1365,69 @@ yā-vad[]
  []
 
 [8]
-Underfull \hbox (badness 1400) in paragraph at lines 1--4200
-[][][]\TU/LinLibertine(0)/b/n/8 33*6a [][][]punaḥ[] \LGR/LinLibertine(0)/m/n/
+Underfull \hbox (badness 1400) in paragraph at lines 1--4209
+[][][]\TU/LinLibertine(0)/b/n/8 32*6a [][][]punaḥ[] \LGR/LinLibertine(0)/m/n/
 8 b$[][]$d$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []puṇāḥ[] \LGR/LinLiber
-tine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*7a [][][]cibukaṃ mūla
+tine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*7a [][][]cibukaṃ mūla
 ṃ[] \LGR/LinLibertine(0)/m/n/8 d$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []cik
 ukaṃ mūlaṃ[] \LGR/LinLibertine(0)/m/n/8 h$[][]$
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 1--4200
+Underfull \hbox (badness 3792) in paragraph at lines 1--4209
 []\TU/LinLibertine(0)/m/n/8 cibukamūla[] \LGR/LinLibertine(0)/m/n/8 b$[][]$  [
-][]\TU/LinLibertine(0)/b/n/8 33*7b [][][]kra-makāritā[] \LGR/LinLibertine(0)/
+][]\TU/LinLibertine(0)/b/n/8 32*7b [][][]kra-makāritā[] \LGR/LinLibertine(0)/
 m/n/8 b$[][]$d$[][]$\TU/LinLibertine(0)/m/n/8 ] []tra-makārikā[] \LGR/LinLibe
 rtine(0)/m/n/8 h$[][]$ []\TU/LinLibertine(0)/m/n/8 yuk-takāritā[] \LGR/LinLib
-ertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*7c [][][]ca[]
+ertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*7c [][][]ca[]
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 1--4200
+Underfull \hbox (badness 1796) in paragraph at lines 1--4209
 \TU/LinLibertine(0)/b/n/8 gaṃ[] \LGR/LinLibertine(0)/m/n/8 b$[][]$d$[][]$\TU/
 LinLibertine(0)/m/n/8 ] []ṣaḍaṅ-gaḥ[] \LGR/LinLibertine(0)/m/n/8 h$[][]
 $ []\TU/LinLibertine(0)/m/n/8 ṣaḍaṃhva[] \LGR/LinLibertine(0)/m/n/8 h$[][
-]$  [][]\TU/LinLibertine(0)/b/n/8 33*12b [][][]yā citiś[] \TU/LinLibertine(0)
+]$  [][]\TU/LinLibertine(0)/b/n/8 32*12b [][][]yā citiś[] \TU/LinLibertine(0)
 /m/it/8 em. \TU/LinLibertine(0)/m/n/8 (cf.Yoginīhṛdaya)] []yāc-i-taś[]
  []
 
 [9]
-Underfull \hbox (badness 2229) in paragraph at lines 1--4200
-\LGR/LinLibertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*17b [][][]
+Underfull \hbox (badness 2229) in paragraph at lines 1--4209
+\LGR/LinLibertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*17b [][][]
 kaṭukaṃ kuṣṭhanāśanam[] \LGR/LinLibertine(0)/m/n/8 b$[][]$d$[][]$h$[]
 []$\TU/LinLibertine(0)/m/n/8 ] []kaṭukuṭiv-ināśanaṃ[] \LGR/LinLibertine
-(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*17c [][][]ghṛta[]
+(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*17c [][][]ghṛta[]
  []
 
 [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 4200.
- [11] [12] [13] [14]
-Overfull \hbox (6.28pt too wide) in paragraph at lines 4200--4200
-[][][][]\TU/LinLibertine(0)/m/n/10 taṃ[] [][][]badhnīyāt[] [][][]sukaraṇam
-ṛdā[] [][][]nāny-athā[] [][][]kāya[]siddhiḥ//$[][]$\TU/LinLibertine(0)/
-m/n/8 (om. \LGR/LinLibertine(0)/m/n/8 a$[][]$D\TU/LinLibertine(0)/m/n/8 )[] [=4.
-25] [][] 
- []
-
-[15] [16] [17] [18] [19]
-Underfull \hbox (badness 1997) in paragraph at lines 1--4200
-[][][]\TU/LinLibertine(0)/b/n/8 72a [][][]kuñ-ca-nenāśu[] \LGR/LinLibertine(
+(Font)              <9> on input line 4209.
+ [11] [12] [13] [14] [15] [16] [17] [18] [19]
+Underfull \hbox (badness 1997) in paragraph at lines 1--4209
+[][][]\TU/LinLibertine(0)/b/n/8 70a [][][]kuñ-ca-nenāśu[] \LGR/LinLibertine(
 0)/m/n/8 h$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []kuñ-ca-ne-naiva[] \LGR/Li
-nLibertine(0)/m/n/8 G  [][]\TU/LinLibertine(0)/b/n/8 72b [][][]saṃko-cane k
+nLibertine(0)/m/n/8 G  [][]\TU/LinLibertine(0)/b/n/8 70b [][][]saṃko-cane k
 ṛte[] \LGR/LinLibertine(0)/m/n/8 h$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []
 saṃko-ca-nena ca[] \LGR/LinLibertine(0)/m/n/8 G
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 1--4200
-[][]\TU/LinLibertine(0)/b/n/8 72c [][][]mad-hye[] \LGR/LinLibertine(0)/m/n/8 h$
+Underfull \hbox (badness 1838) in paragraph at lines 1--4209
+[][]\TU/LinLibertine(0)/b/n/8 70c [][][]mad-hye[] \LGR/LinLibertine(0)/m/n/8 h$
 [][]$\TU/LinLibertine(0)/m/n/8 ] []mad-hya[] \LGR/LinLibertine(0)/m/n/8 Gh$[][]
-$  [][]\TU/LinLibertine(0)/b/n/8 73a [][][]samākuñ-cya[] \LGR/LinLibertine(0)
+$  [][]\TU/LinLibertine(0)/b/n/8 71a [][][]samākuñ-cya[] \LGR/LinLibertine(0)
 /m/n/8 a$[][]$b$[][]$b$[][]$e$[][]$h$[][]$q\TU/LinLibertine(0)/m/n/8 ] []samāk
 ṛṣya[] \LGR/LinLibertine(0)/m/n/8 Ge$[][]$ []\TU/LinLibertine(0)/m/it/8 om.[] \LGR/LinLibertine(0)/m/n/8 Dh$[][]$
  []
 
 [20]
-Overfull \hbox (27.53687pt too wide) in paragraph at lines 4200--4200
+Overfull \hbox (27.53687pt too wide) in paragraph at lines 4209--4209
 [] []\TU/LinLibertine(0)/m/n/10 atratyā va-jrolī [][][]granthānte likhitā[]
 / [][][]kramaprāp-tāpy atra tyaktā[]/ [][][]asād-hāraṇa[]prāṇy-
  []
 
-[21] [22] [23] [24] [25] [26] [27] [28]
-Underfull \hbox (badness 1253) in paragraph at lines 1--4200
-\TU/LinLibertine(0)/m/n/8 taś[] \LGR/LinLibertine(0)/m/n/8 d$[][]$  [][]\TU/Li
-nLibertine(0)/b/n/8 114b [][][]can-drāmb-haḥ[] \LGR/LinLibertine(0)/m/n/8 b$
-[][]$e$[][]$h$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []can-drāb-haḥ[] \LGR/
-LinLibertine(0)/m/n/8 Gq []\TU/LinLibertine(0)/m/n/8 can-drāṃ-taḥ[] \LGR/L
-inLibertine(0)/m/n/8 D []\TU/LinLibertine(0)/m/n/8 caṃ-drāṃgāt[] \LGR/Lin
-Libertine(0)/m/n/8 b$[][]$ []\TU/LinLibertine(0)/m/n/8 caṃ-
- []
-
-
-Overfull \hbox (2.39584pt too wide) in paragraph at lines 4200--4200
-[][][][]\TU/LinLibertine(0)/m/n/10 taṃ[] kāyaṃ ku-rute punar na-vataraṃ 
-[][][]jīrṇa[]drumaskandhavat//$[][]$\TU/LinLibertine(0)/m/n/8 (om. \LGR/LinL
-ibertine(0)/m/n/8 a$[][]$\TU/LinLibertine(0)/m/n/8 )[] [][] 
- []
-
-[29] [30]
-Underfull \hbox (badness 1622) in paragraph at lines 1--4200
+[21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+Underfull \hbox (badness 1622) in paragraph at lines 1--4209
 \TU/LinLibertine(0)/b/n/8 taḥ[] \LGR/LinLibertine(0)/m/n/8 De$[][]$q\TU/LinLi
 bertine(0)/m/n/8 ] []kṛta[] \LGR/LinLibertine(0)/m/n/8 e$[][]$ []\TU/LinLiber
 tine(0)/m/n/8 gu-daḥ[] \LGR/LinLibertine(0)/m/n/8 g$[][]$ []\TU/LinLibertine(
@@ -1582,19 +1439,19 @@ TU/LinLibertine(0)/m/n/8 ]
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 1--4200
+Underfull \hbox (badness 1688) in paragraph at lines 1--4209
 []\TU/LinLibertine(0)/m/n/8 °pāyaṃ[] \LGR/LinLibertine(0)/m/n/8 e$[][]$h$[]
 []$ []\TU/LinLibertine(0)/m/n/8 prakṣālano vāyuḥ[] \LGR/LinLibertine(0)/m
 /n/8 b$[][]$ []\TU/LinLibertine(0)/m/it/8 om.[] \LGR/LinLibertine(0)/m/n/8 g$[]
-[]$  [][]\TU/LinLibertine(0)/b/n/8 123d [][][]kuṇḍalyab-hyāsato vinā[] \L
+[]$  [][]\TU/LinLibertine(0)/b/n/8 121d [][][]kuṇḍalyab-hyāsato vinā[] \L
 GR/LinLibertine(0)/m/n/8 g$[][]$\TU/LinLibertine(0)/m/n/8 ] []kuṇḍa-lyāb-
  []
 
 [31] [32]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 4212.
+(Font)              scaled to size 10.0pt on input line 4221.
 
-Overfull \hbox (23.3841pt too wide) in paragraph at lines 4211--4235
+Overfull \hbox (23.3841pt too wide) in paragraph at lines 4220--4244
 [][] 
  []
 
@@ -1605,30 +1462,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26504 strings out of 477491
+ 26573 strings out of 478381
  100000,2373549 words of node,token memory allocated
- 11111 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 53 glue, 3 kern, 1111 glyph, 628 attribute, 189 glu
-e_spec, 315 attribute_list, 2 write nodes
-   avail lists: 1:1,2:6335,3:1155,4:180,5:463,6:50,7:7095,8:2,9:1208,10:27,11:39
+ 11053 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 52 glue, 3 kern, 1107 glyph, 622 attribute, 188 glu
+e_spec, 312 attribute_list, 2 write nodes
+   avail lists: 1:1,2:6257,3:1155,4:180,5:463,6:50,7:7066,8:2,9:1208,10:27,11:39
 2
- 46961 multiletter control sequences out of 65536+600000
- 95 fonts using 18809031 bytes
- 78i,12n,113p,13312b,957s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/Mitsuyo/AppData/Local/Microsoft/Windows/Fonts/adishilasan.ttf><//?/c:/
-users/mitsuyo/appdata/local/programs/miktex/fonts/opentype/public/libertine/linl
-ibertine_ri.otf><//?/c:/users/mitsuyo/appdata/local/programs/miktex/fonts/openty
-pe/public/libertine/linlibertine_rb.otf><//?/c:/users/mitsuyo/appdata/local/prog
-rams/miktex/fonts/opentype/public/libertine/linlibertine_r.otf><C:/Users/Mitsuyo
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
-s/Mitsuyo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn0600.pfb>
-<C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn0
-700.pfb><C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgre
-ek/grmn0800.pfb><C:/Users/Mitsuyo/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/cbgreek/grmn1000.pfb>
-Output written on HP3_new.pdf (33 pages, 287695 bytes).
+ 46136 multiletter control sequences out of 65536+600000
+ 89 fonts using 17196119 bytes
+ 78i,12n,113p,13128b,964s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/demoto/AppData/Local/Microsoft/Windows/Fonts/adishilasan.ttf><//?/c:/p
+rogram files md/miktex 2.9/fonts/opentype/public/libertine/linlibertine_ri.otf><
+//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linlibertine_
+rb.otf><//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linli
+bertine_r.otf><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+<C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0600.pfb><C:/Prog
+ram Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0700.pfb><C:/Program File
+s MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0800.pfb><C:/Program Files MD/MiK
+TeX 2.9/fonts/type1/public/cbgreek/grmn1000.pfb>
+Output written on HP3_new.pdf (33 pages, 295802 bytes).
 
-PDF statistics: 157 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 158 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

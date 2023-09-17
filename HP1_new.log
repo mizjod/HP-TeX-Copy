@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2023.1.16)  29 AUG 2023 14:52
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2023.1.16)  13 SEP 2023 11:16
  restricted system commands enabled.
 **HP1_new.tex
 (./HP1_new.tex
@@ -1363,11 +1363,11 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 
 ]
 [2]
-Underfull \hbox (badness 1038) in paragraph at lines 1--2196
+Underfull \hbox (badness 1028) in paragraph at lines 1--2196
 [][][]\TU/LinLibertine(0)/b/n/8 13a [][][]al-pad-vāram arandhra[] \TU/LinLiber
 tine(0)/m/n/8 cett.\TU/AdishilaSan(0)/b/n/8 ] []\TU/LinLibertine(0)/m/n/8 ākalp
-advā<<ra>>raṃdhra[] \LGR/LinLibertine(0)/m/n/8 b$[][]$ []\TU/LinLibertine(0)
-/m/n/8 al-pad-vāram aruṃ<<dha>>[] \LGR/LinLibertine(0)/m/n/8 d$[][]$
+advā<<ra>>raṃdhra[] \LGR/LinLibertine(0)/m/n/8 g$[][]$ []\TU/LinLibertine(0)
+/m/n/8 al-pad-vāram aruṃ<<dha>>[] \LGR/LinLibertine(0)/m/n/8 e$[][]$
  []
 
 [3] [4] [5] [6] [7
@@ -1387,13 +1387,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  25085 strings out of 478381
  156265,1977958 words of node,token memory allocated
- 65163 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 167 glue, 3 kern, 8077 glyph, 2129 attribute, 187 g
-lue_spec, 1065 attribute_list, 2 write nodes
-   avail lists: 2:5308,3:1487,4:196,5:365,6:46,7:5689,8:2,9:1034,10:29,11:412
+ 62531 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 167 glue, 3 kern, 7875 glyph, 1723 attribute, 187 g
+lue_spec, 862 attribute_list, 2 write nodes
+   avail lists: 2:5515,3:1489,4:196,5:364,6:46,7:5825,8:2,9:1082,10:29,11:412
  44648 multiletter control sequences out of 65536+600000
  91 fonts using 17920623 bytes
- 92i,12n,113p,12010b,963s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 92i,12n,113p,12090b,963s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linlibertine
 _ri.otf><//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linl
 ibertine_rb.otf><C:/Users/demoto/AppData/Local/Microsoft/Windows/Fonts/adishilas
@@ -1401,7 +1401,7 @@ an.ttf><//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linli
 bertine_r.otf><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn060
 0.pfb><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0800.pfb><C
 :/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0900.pfb>
-Output written on HP1_new.pdf (15 pages, 206867 bytes).
+Output written on HP1_new.pdf (15 pages, 206664 bytes).
 
 PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
