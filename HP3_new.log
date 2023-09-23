@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2023.1.16)  17 SEP 2023 08:31
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2023.1.16)  19 SEP 2023 13:30
  restricted system commands enabled.
 **HP3_new.tex
 (./HP3_new.tex
@@ -1283,7 +1283,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/b/n on input line 1
 6.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4209.
+(Font)              scaled to size 8.0pt on input line 4225.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Trying to load font information for LGR+LinLibertine(0) on 
@@ -1307,11 +1307,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 4209.
+(Font)              scaled to size 7.0pt on input line 4225.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4209.
+(Font)              <7> on input line 4225.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 4209.
+(Font)              scaled to size 9.0pt on input line 4225.
 [1{C:/Users/demoto/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}
 
 ]
@@ -1345,19 +1345,19 @@ lt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 4209.
+(Font)              scaled to size 12.0pt on input line 4225.
 
 ("C:/Program Files MD/MiKTeX 2.9/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.tex
 " UTF-8 Sanskrit hyphenation patterns
 ("C:/Program Files MD/MiKTeX 2.9/tex/generic/hyph-utf8/patterns/tex/hyph-sa.tex
 "))
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 10.5pt on input line 4209.
+(Font)              scaled to size 10.5pt on input line 4225.
  [7]
-Underfull \hbox (badness 1371) in paragraph at lines 1--4209
+Underfull \hbox (badness 1371) in paragraph at lines 1--4225
 []\TU/LinLibertine(0)/m/n/8 tāt[] \LGR/LinLibertine(0)/m/n/8 h$[][]$ []\TU/Lin
 Libertine(0)/m/it/8 om.[] \LGR/LinLibertine(0)/m/n/8 a$[][]$b$[][]$g$[][]$h$[][
-]$h$[][]$h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32b [][][]yā-vad iyaṃ[] \LGR
+]$h$[][]$h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33b [][][]yā-vad iyaṃ[] \LGR
 /LinLibertine(0)/m/n/8 GDd$[][]$\TU/LinLibertine(0)/m/n/8 ] []sā yā-vad[] \LG
 R/LinLibertine(0)/m/n/8 a$[][]$b$[][]$e$[][]$h$[][]$h$[][]$q []\TU/LinLibertine
 (0)/m/n/8 sā[] \LGR/LinLibertine(0)/m/n/8 e$[][]$ []\TU/LinLibertine(0)/m/n/8 
@@ -1365,69 +1365,80 @@ yā-vad[]
  []
 
 [8]
-Underfull \hbox (badness 1400) in paragraph at lines 1--4209
-[][][]\TU/LinLibertine(0)/b/n/8 32*6a [][][]punaḥ[] \LGR/LinLibertine(0)/m/n/
+Underfull \hbox (badness 1400) in paragraph at lines 1--4225
+[][][]\TU/LinLibertine(0)/b/n/8 33*6a [][][]punaḥ[] \LGR/LinLibertine(0)/m/n/
 8 b$[][]$d$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []puṇāḥ[] \LGR/LinLiber
-tine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*7a [][][]cibukaṃ mūla
+tine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*7a [][][]cibukaṃ mūla
 ṃ[] \LGR/LinLibertine(0)/m/n/8 d$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []cik
 ukaṃ mūlaṃ[] \LGR/LinLibertine(0)/m/n/8 h$[][]$
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 1--4209
+Underfull \hbox (badness 3792) in paragraph at lines 1--4225
 []\TU/LinLibertine(0)/m/n/8 cibukamūla[] \LGR/LinLibertine(0)/m/n/8 b$[][]$  [
-][]\TU/LinLibertine(0)/b/n/8 32*7b [][][]kra-makāritā[] \LGR/LinLibertine(0)/
+][]\TU/LinLibertine(0)/b/n/8 33*7b [][][]kra-makāritā[] \LGR/LinLibertine(0)/
 m/n/8 b$[][]$d$[][]$\TU/LinLibertine(0)/m/n/8 ] []tra-makārikā[] \LGR/LinLibe
 rtine(0)/m/n/8 h$[][]$ []\TU/LinLibertine(0)/m/n/8 yuk-takāritā[] \LGR/LinLib
-ertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*7c [][][]ca[]
+ertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*7c [][][]ca[]
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 1--4209
+Underfull \hbox (badness 1796) in paragraph at lines 1--4225
 \TU/LinLibertine(0)/b/n/8 gaṃ[] \LGR/LinLibertine(0)/m/n/8 b$[][]$d$[][]$\TU/
 LinLibertine(0)/m/n/8 ] []ṣaḍaṅ-gaḥ[] \LGR/LinLibertine(0)/m/n/8 h$[][]
 $ []\TU/LinLibertine(0)/m/n/8 ṣaḍaṃhva[] \LGR/LinLibertine(0)/m/n/8 h$[][
-]$  [][]\TU/LinLibertine(0)/b/n/8 32*12b [][][]yā citiś[] \TU/LinLibertine(0)
+]$  [][]\TU/LinLibertine(0)/b/n/8 33*12b [][][]yā citiś[] \TU/LinLibertine(0)
 /m/it/8 em. \TU/LinLibertine(0)/m/n/8 (cf.Yoginīhṛdaya)] []yāc-i-taś[]
  []
 
 [9]
-Underfull \hbox (badness 2229) in paragraph at lines 1--4209
-\LGR/LinLibertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*17b [][][]
+Underfull \hbox (badness 2229) in paragraph at lines 1--4225
+\LGR/LinLibertine(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*17b [][][]
 kaṭukaṃ kuṣṭhanāśanam[] \LGR/LinLibertine(0)/m/n/8 b$[][]$d$[][]$h$[]
 []$\TU/LinLibertine(0)/m/n/8 ] []kaṭukuṭiv-ināśanaṃ[] \LGR/LinLibertine
-(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 32*17c [][][]ghṛta[]
+(0)/m/n/8 h$[][]$  [][]\TU/LinLibertine(0)/b/n/8 33*17c [][][]ghṛta[]
  []
 
 [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 4209.
- [11] [12] [13] [14] [15] [16] [17] [18] [19]
-Underfull \hbox (badness 1997) in paragraph at lines 1--4209
-[][][]\TU/LinLibertine(0)/b/n/8 70a [][][]kuñ-ca-nenāśu[] \LGR/LinLibertine(
+(Font)              <9> on input line 4225.
+ [11] [12] [13] [14]
+Overfull \hbox (6.28pt too wide) in paragraph at lines 4225--4225
+[][][][]\TU/LinLibertine(0)/m/n/10 taṃ[] [][][]badhnīyāt[] [][][]sukaraṇam
+ṛdā[] [][][]nāny-athā[] [][][]kāya[]siddhiḥ//$[][]$\TU/LinLibertine(0)/
+m/n/8 (om. \LGR/LinLibertine(0)/m/n/8 a$[][]$D\TU/LinLibertine(0)/m/n/8 )[] [=4.
+25] [][] 
+ []
+
+[15] [16] [17]
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
+(Font)              scaled to size 6.0pt on input line 1.
+ [18] [19]
+Underfull \hbox (badness 1997) in paragraph at lines 1--4225
+[][][]\TU/LinLibertine(0)/b/n/8 72a [][][]kuñ-ca-nenāśu[] \LGR/LinLibertine(
 0)/m/n/8 h$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []kuñ-ca-ne-naiva[] \LGR/Li
-nLibertine(0)/m/n/8 G  [][]\TU/LinLibertine(0)/b/n/8 70b [][][]saṃko-cane k
+nLibertine(0)/m/n/8 G  [][]\TU/LinLibertine(0)/b/n/8 72b [][][]saṃko-cane k
 ṛte[] \LGR/LinLibertine(0)/m/n/8 h$[][]$h$[][]$\TU/LinLibertine(0)/m/n/8 ] []
 saṃko-ca-nena ca[] \LGR/LinLibertine(0)/m/n/8 G
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 1--4209
-[][]\TU/LinLibertine(0)/b/n/8 70c [][][]mad-hye[] \LGR/LinLibertine(0)/m/n/8 h$
+Underfull \hbox (badness 1838) in paragraph at lines 1--4225
+[][]\TU/LinLibertine(0)/b/n/8 72c [][][]mad-hye[] \LGR/LinLibertine(0)/m/n/8 h$
 [][]$\TU/LinLibertine(0)/m/n/8 ] []mad-hya[] \LGR/LinLibertine(0)/m/n/8 Gh$[][]
-$  [][]\TU/LinLibertine(0)/b/n/8 71a [][][]samākuñ-cya[] \LGR/LinLibertine(0)
+$  [][]\TU/LinLibertine(0)/b/n/8 73a [][][]samākuñ-cya[] \LGR/LinLibertine(0)
 /m/n/8 a$[][]$b$[][]$b$[][]$e$[][]$h$[][]$q\TU/LinLibertine(0)/m/n/8 ] []samāk
 ṛṣya[] \LGR/LinLibertine(0)/m/n/8 Ge$[][]$ []\TU/LinLibertine(0)/m/it/8 om.[] \LGR/LinLibertine(0)/m/n/8 Dh$[][]$
  []
 
 [20]
-Overfull \hbox (27.53687pt too wide) in paragraph at lines 4209--4209
+Overfull \hbox (27.53687pt too wide) in paragraph at lines 4225--4225
 [] []\TU/LinLibertine(0)/m/n/10 atratyā va-jrolī [][][]granthānte likhitā[]
 / [][][]kramaprāp-tāpy atra tyaktā[]/ [][][]asād-hāraṇa[]prāṇy-
  []
 
 [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
-Underfull \hbox (badness 1622) in paragraph at lines 1--4209
+Underfull \hbox (badness 1622) in paragraph at lines 1--4225
 \TU/LinLibertine(0)/b/n/8 taḥ[] \LGR/LinLibertine(0)/m/n/8 De$[][]$q\TU/LinLi
 bertine(0)/m/n/8 ] []kṛta[] \LGR/LinLibertine(0)/m/n/8 e$[][]$ []\TU/LinLiber
 tine(0)/m/n/8 gu-daḥ[] \LGR/LinLibertine(0)/m/n/8 g$[][]$ []\TU/LinLibertine(
@@ -1439,19 +1450,19 @@ TU/LinLibertine(0)/m/n/8 ]
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 1--4209
+Underfull \hbox (badness 1688) in paragraph at lines 1--4225
 []\TU/LinLibertine(0)/m/n/8 °pāyaṃ[] \LGR/LinLibertine(0)/m/n/8 e$[][]$h$[]
 []$ []\TU/LinLibertine(0)/m/n/8 prakṣālano vāyuḥ[] \LGR/LinLibertine(0)/m
 /n/8 b$[][]$ []\TU/LinLibertine(0)/m/it/8 om.[] \LGR/LinLibertine(0)/m/n/8 g$[]
-[]$  [][]\TU/LinLibertine(0)/b/n/8 121d [][][]kuṇḍalyab-hyāsato vinā[] \L
+[]$  [][]\TU/LinLibertine(0)/b/n/8 123d [][][]kuṇḍalyab-hyāsato vinā[] \L
 GR/LinLibertine(0)/m/n/8 g$[][]$\TU/LinLibertine(0)/m/n/8 ] []kuṇḍa-lyāb-
  []
 
 [31] [32]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 4221.
+(Font)              scaled to size 10.0pt on input line 4237.
 
-Overfull \hbox (23.3841pt too wide) in paragraph at lines 4220--4244
+Overfull \hbox (23.3841pt too wide) in paragraph at lines 4236--4260
 [][] 
  []
 
@@ -1462,29 +1473,28 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26573 strings out of 478381
+ 26591 strings out of 478381
  100000,2373549 words of node,token memory allocated
- 11053 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 52 glue, 3 kern, 1107 glyph, 622 attribute, 188 glu
-e_spec, 312 attribute_list, 2 write nodes
-   avail lists: 1:1,2:6257,3:1155,4:180,5:463,6:50,7:7066,8:2,9:1208,10:27,11:39
+ 11047 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 52 glue, 3 kern, 1107 glyph, 620 attribute, 188 glu
+e_spec, 311 attribute_list, 2 write nodes
+   avail lists: 1:1,2:6293,3:1153,4:184,5:463,6:50,7:7082,8:2,9:1208,10:27,11:39
 2
- 46136 multiletter control sequences out of 65536+600000
- 89 fonts using 17196119 bytes
- 78i,12n,113p,13128b,964s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 46154 multiletter control sequences out of 65536+600000
+ 90 fonts using 17579167 bytes
+ 78i,12n,113p,13128b,968s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/demoto/AppData/Local/Microsoft/Windows/Fonts/adishilasan.ttf><//?/c:/p
 rogram files md/miktex 2.9/fonts/opentype/public/libertine/linlibertine_ri.otf><
 //?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linlibertine_
 rb.otf><//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linli
-bertine_r.otf><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-<C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0600.pfb><C:/Prog
-ram Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0700.pfb><C:/Program File
-s MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0800.pfb><C:/Program Files MD/MiK
-TeX 2.9/fonts/type1/public/cbgreek/grmn1000.pfb>
-Output written on HP3_new.pdf (33 pages, 295802 bytes).
+bertine_r.otf><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y8.pfb><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0600.pfb><
+C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0700.pfb><C:/Progr
+am Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0800.pfb><C:/Program Files
+ MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1000.pfb>
+Output written on HP3_new.pdf (33 pages, 288542 bytes).
 
-PDF statistics: 158 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 154 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
