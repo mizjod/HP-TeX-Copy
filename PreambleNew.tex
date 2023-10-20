@@ -90,7 +90,7 @@
         
 % modifications/additions by MM 2022-06-07:
 \NewDocumentEnvironment{altava}{O{}}{
-  \begin{ekdverse}
+  \begin{ekdverse}\color{gray}
     \hspace{-\vgap}}{
   \end{ekdverse}
   \vskip 0.6\baselineskip
@@ -139,6 +139,7 @@
 	%\selectlanguage{iast}
 	%\begin{ekdverse}[type=altrecension]
 	%\color{gray}
+	\small  % added 2023-10-12 MD
 	}
 \def\endaltrecension{
 	%\end{ekdverse}
@@ -147,6 +148,7 @@
   \startvline
   \setvnum{\hindsection.\arabic{poemline}}
 %  \selectlanguage{iast}
+	\normalsize  % added 2023-10-12 MD
 	}
 
 %%%%%%
@@ -154,13 +156,16 @@
 \newcommand{\myfn}[1]{\footnote{\texteng{#1}}}
 \renewcommand{\thefootnote}{\texteng{\arabic{footnote}}}
 \newcommand{\devnote}[1]{\textdev{\scriptsize #1}}
-\newcommand{\outdent}{\hspace{-\vgap}}
+%\newcommand{\outdent}{\hspace{-\vgap}}
 \newcommand{\sgwit}[1]{{\footnotesize (\getsiglum{#1})}}
 \newcommand{\NotIn}[1]{\texteng{\footnotesize (om. \getsiglum{#1})}}
 \newcommand{\lineom}[2]{\texteng{\footnotesize (#1 om. \getsiglum{#2})}}
 \newcommand{\grau}[1]{\textcolor{gray}{#1}} % partial altrecension
 \newcommand{\graus}[1]{\small\textcolor{gray}{#1}\normalsize} % partial altrecension
-\newcommand{\Anm}[1]{\texteng{\footnotesize (#1)}}
+\newcommand{\Anm}[1]{\begin{ekdverse}
+	\texteng{\footnotesize (#1)}
+	\end{ekdverse}
+	\vskip 0.6\baselineskip}
 \newcommand{\anm}[1]{\texteng{\footnotesize [#1]}}
 
 \def\om{\texteng{\emph{om.\kern-0.8ex}}}
@@ -175,6 +180,9 @@
 \def\ante{\texteng{\normalfont\emph{ante\ }}}
 \def\add{\texteng{\normalfont\emph{add.}}}
 \def\post{\texteng{\normalfont\emph{post\ }}}
-\def\marma{\textsuperscript{\#}}
-\def\marmas{\textsuperscript{\#} }
+\def\antecorr{\texteng{\textsubscript{ac}}}
+\def\postcorr{\texteng{\textsubscript{pc}}}
+\def\marma{\texteng{\textsuperscript{\#}}}
+\def\marmas{\texteng{\textsuperscript{\#}} }
+\def\crux{\texteng{\textsuperscript{\textdagger}}}
 

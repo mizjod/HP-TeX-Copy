@@ -15,7 +15,7 @@
 <1-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.1c}~}{\bfseries \selectlanguage {english}yoga} \getsiglum {ceteri}\ekdsep </1-x-1>
 <1-x-1>{\selectlanguage {english}haṭha} \getsiglum {C6,V3}</1-x-1>
 <1-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {K3}</1-x-1>
-<1-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tantrāṇāṃ} \getsiglum {ceteri} (\getsiglum {K3}\,\textsubscript {s.l.})\ekdsep </1-x-1>
+<1-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tantrāṇāṃ} \getsiglum {ceteri} \texteng {(\getsiglum {K3}\,\textsubscript {s.l.})}\ekdsep </1-x-1>
 <1-x-1>{\selectlanguage {english}śāstrāṇā} \getsiglum {K3} \textsubscript {i.t.}</1-x-1>
 <1-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.2b}~}{\bfseries \selectlanguage {english}yadā jāgarti kuṇḍalī} \getsiglum {N3,P11,V3,V15,J10,Jyo}\ekdsep </1-x-1>
 <1-x-1>{\selectlanguage {english}yathā jāgarti kuṇḍalī} \getsiglum {C6,P15,N19,V1}</1-x-1>
@@ -82,7 +82,8 @@
 <1-x-1>{\selectlanguage {english}bhyāsena bodhayet} \getsiglum {C6,Gr2,Gr3a}</1-x-1>
 <2-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.6c}~}{\bfseries \selectlanguage {english}uḍḍiyānaṃ} \getsiglum {N23,K3,C7,J10}\ekdsep </2-x-1>
 <2-x-1>{\selectlanguage {english}uḍiyānaṃ} \getsiglum {C6,V3}</2-x-1>
-<2-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇaṃ} \getsiglum {N3,J7,N19}</2-x-1>
+<2-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇaṃ} \getsiglum {N3pc,J7,N19}</2-x-1>
+<2-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyānaṃ} \getsiglum {N3ac}</2-x-1>
 <2-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇo} \getsiglum {V1}</2-x-1>
 <2-x-1>\ekdsubsep {\selectlanguage {english}uḍyānaṃ} \getsiglum {Jyo}</2-x-1>
 <2-x-1>\ekdsubsep {\selectlanguage {english}uḍyāṇa} \getsiglum {P15,V15}</2-x-1>
@@ -194,7 +195,7 @@
 <3-x-1>{\selectlanguage {english}daṇḍakāraḥ} \getsiglum {N19}</3-x-1>
 <3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}prajāyate} \getsiglum {ceteri}\ekdsep </3-x-1>
 <3-x-1>{\selectlanguage {english}prayujyate} \getsiglum {V1}</3-x-1>
-<3-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {C7} (lost up to 3.19c saṃsthāpya; one folio missing)</3-x-1>
+<3-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {C7} \texteng {(lost up to 3.19c saṃsthāpya; one folio missing)}</3-x-1>
 <3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.12a}~}{\bfseries \selectlanguage {english}ṛjvībhūtā} \getsiglum {P11,J7,V19,K3,V15,V1,J10,Jyo}\ekdsep </3-x-1>
 <3-x-1>{\selectlanguage {english}ṛjvībhūtvā} \getsiglum {C6}</3-x-1>
 <3-x-1>\ekdsubsep {\selectlanguage {english}rujvībhūtvā} \getsiglum {N3,V3}</3-x-1>
@@ -259,7 +260,7 @@
 <3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}doṣā} \getsiglum {ceteri}\ekdsep </3-x-1>
 <3-x-1>{\selectlanguage {english}doṣāḥ} \getsiglum {J10,Jyo}</3-x-1>
 <3-x-1>\ekdsubsep {\selectlanguage {english}doṣa} \getsiglum {J7}</3-x-1>
-<3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.14b}~}{\bfseries \selectlanguage {english}hīyaṃte} \getsiglum {N3}\ekdsep </3-x-1>
+<3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.14b}~}{\bfseries \selectlanguage {english}hīyante} \getsiglum {N3}\ekdsep </3-x-1>
 <3-x-1>{\selectlanguage {english}hrīyaṃte} \getsiglum {J5}</3-x-1>
 <3-x-1>\ekdsubsep {\selectlanguage {english}kṣīyante} \getsiglum {V3,J10,Jyo}</3-x-1>
 <3-x-1>\ekdsubsep {\selectlanguage {english}jīryante} \getsiglum {C6,P11,Gr2,V19,K3,V15,V1}</3-x-1>
@@ -267,7 +268,7 @@
 <3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.14c}~}{\bfseries \selectlanguage {english}mudrāṃ} \getsiglum {C6,V3,V15,J10,Jyo}\ekdsep </3-x-1>
 <3-x-1>{\selectlanguage {english}mudrā[ś]} \getsiglum {V1}</3-x-1>
 <3-x-1>\ekdsubsep {\selectlanguage {english}mudrā} \getsiglum {N3,Gr2,N19}</3-x-1>
-<3-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V19,K3} (Pādas c--d omitted)</3-x-1>
+<3-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V19,K3} \texteng {(Pādas c--d omitted)}</3-x-1>
 <3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ca} \getsiglum {ceteri}\ekdsep </3-x-1>
 <3-x-1>{\selectlanguage {english}tu} \getsiglum {N3}</3-x-1>
 <3-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tenaiva} \getsiglum {ceteri}\ekdsep </3-x-1>
@@ -308,7 +309,7 @@
 <3-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V15}</3-x-1>
 <4-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.16a}~}{\bfseries \selectlanguage {english}na hi pathyam apathyaṃ vā} \getsiglum {ceteri}\ekdsep </4-x-1>
 <4-x-1>{\selectlanguage {english}nāpathyaṃ na hi pathyaṃ ca} \getsiglum {J10}</4-x-1>
-<4-x-1>\ekdsubsep {\selectlanguage {english}na hi madhyaṃ vā} (3 akṣaras missing)  \getsiglum {N19}</4-x-1>
+<4-x-1>\ekdsubsep {\selectlanguage {english}na hi madhyaṃ vā} \texteng {(3 akṣaras missing)}  \getsiglum {N19}</4-x-1>
 <4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.16c}~}{\bfseries \selectlanguage {english}api bhuktaṃ} \getsiglum {ceteri}\ekdsep </4-x-1>
 <4-x-1>{\selectlanguage {english}ahimuktaṃ} \getsiglum {N19,V15}</4-x-1>
 <4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ghoraṃ} \getsiglum {ceteri}\ekdsep </4-x-1>
@@ -338,7 +339,7 @@
 <4-x-1>\ekdsubsep {\selectlanguage {english}yomabhyaset} \getsiglum {V3}</4-x-1>
 <4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.18a}~}{\bfseries \selectlanguage {english}kathiteyaṃ} \getsiglum {ceteri}\ekdsep </4-x-1>
 <4-x-1>{\selectlanguage {english}kathitoyaṃ} \getsiglum {J5,V3,N19}</4-x-1>
-<4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.18b}~}{\bfseries \selectlanguage {english}mahāsiddhikarī nṛṇām} (nṛṇā \getsiglum {V15,V1}) \getsiglum {G4,V3,N19,V15,V1,J10,Jyo}\ekdsep </4-x-1>
+<4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.18b}~}{\bfseries \selectlanguage {english}mahāsiddhikarī nṛṇām} \texteng {(nṛṇā \getsiglum {V15,V1})} \getsiglum {G4,V3,N19,V15,V1,J10,Jyo}\ekdsep </4-x-1>
 <4-x-1>{\selectlanguage {english}jarāmṛtyuvināśinī} \getsiglum {N3,C6,Gr2,V19,K3}</4-x-1>
 <4-x-1>\ekdsubsep {\selectlanguage {english}nṛṇāṃ mṛtyuvināśinī} \getsiglum {J5}</4-x-1>
 <4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.18c}~}{\bfseries \selectlanguage {english}gopanīyā} \getsiglum {ceteri}\ekdsep </4-x-1>
@@ -375,7 +376,7 @@
 <4-x-1>\ekdsubsep {\selectlanguage {english}niṣpīḍya} \getsiglum {Gr2,V19,C7,V1,Jyo}</4-x-1>
 <4-x-1>\ekdsubsep {\selectlanguage {english}nipīḍya} \getsiglum {K3}</4-x-1>
 <4-x-1>\ekdsubsep {\selectlanguage {english}nikṣipya} \getsiglum {J10}</4-x-1>
-<4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.21a}~}{\bfseries \selectlanguage {english}recayec ca śanair eva} (tu for ca \getsiglum {K3}) \getsiglum {N3,J5,Gr3a}\ekdsep </4-x-1>
+<4-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.21a}~}{\bfseries \selectlanguage {english}recayec ca śanair eva} \texteng {(tu for ca \getsiglum {K3})} \getsiglum {N3,J5,Gr3a}\ekdsep </4-x-1>
 <4-x-1>{\selectlanguage {english}dhārayitvā yathāśakti} \getsiglum {C6,Gr2,V1,Jyo}</4-x-1>
 <4-x-1>\ekdsubsep {\selectlanguage {english}dhārayitvā yathāśaktyā} \getsiglum {P11,V3,V15,J10}</4-x-1>
 <4-x-1>\ekdsubsep {\selectlanguage {english}cālayitvā yathāśaktyā} \getsiglum {N19}</4-x-1>
@@ -481,7 +482,7 @@
 <6-x-1>\ekdsubsep {\selectlanguage {english}vinānyathā} \getsiglum {V3}</6-x-1>
 <6-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V15}</6-x-1>
 <6-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.26a}~}{\bfseries \selectlanguage {english}mahābandha} \getsiglum {N3,N19,V15,V1,Jyo}\ekdsep </6-x-1>
-<6-x-1>{\selectlanguage {english}mahābandhaḥ} (followed by a double daṇḍa and corrected to °vedhaḥ)  \getsiglum {J7}</6-x-1>
+<6-x-1>{\selectlanguage {english}mahābandhaḥ} \texteng {(followed by a double daṇḍa and corrected to °vedhaḥ)}  \getsiglum {J7}</6-x-1>
 <6-x-1>\ekdsubsep {\selectlanguage {english}mahābandho} \getsiglum {P11,N23}</6-x-1>
 <6-x-1>\ekdsubsep {\selectlanguage {english}mahāvedhe} \getsiglum {C6,Gr3a}</6-x-1>
 <6-x-1>\ekdsubsep {\selectlanguage {english}mahāvedha} \getsiglum {V3,J10}</6-x-1>
@@ -643,18 +644,15 @@
 <7-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {Jyo}</7-x-1>
 <7-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33}~}{\bfseries \selectlanguage {english}atha} \getsiglum {ceteri}\ekdsep </7-x-1>
 <7-x-1>{\selectlanguage {english}\om } \getsiglum {Gr2,K3}</7-x-1>
-<7-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.32*1a}~}{\bfseries \selectlanguage {english}siddhasadṛśaṃ} \getsiglum {V3,J6,N9}\ekdsep </7-x-1>
-<7-x-1>{\selectlanguage {english}sadṛśaṃ siddhaṃ} \getsiglum {V17}</7-x-1>
 <7-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.32*1b}~}{\bfseries \selectlanguage {english}kumbhaṃ} \getsiglum {emend}\ekdsep </7-x-1>
-<7-x-1>{\selectlanguage {english}kumbha} \getsiglum {V3,N9}</7-x-1>
-<7-x-1>\ekdsubsep {\selectlanguage {english}kumbhaḥ} \getsiglum {V17}</7-x-1>
+<7-x-1>{\selectlanguage {english}kumbha} \getsiglum {V3,N26,N9}</7-x-1>
 <7-x-1>\ekdsubsep {\selectlanguage {english}kuṃbhaka} \getsiglum {J6}</7-x-1>
 <7-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kevalopamam} \getsiglum {emend}\ekdsep </7-x-1>
 <7-x-1>{\selectlanguage {english}kevalokanam} \getsiglum {V3,N9}</7-x-1>
-<7-x-1>\ekdsubsep {\selectlanguage {english}kevalo mataḥ} \getsiglum {V17}</7-x-1>
+<7-x-1>\ekdsubsep {\selectlanguage {english}sadṛśo nilaḥ} \getsiglum {N26}</7-x-1>
 <7-x-1>\ekdsubsep {\selectlanguage {english}samonilaṃ} \getsiglum {J6}</7-x-1>
 <8-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33a}~}{\bfseries \selectlanguage {english}chedana} \getsiglum {V3,N23,V19,C7,J6,V15,V1,Jyo}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}chedanaṃ} \getsiglum {J10,N9,V17}</8-x-1>
+<8-x-1>{\selectlanguage {english}chedanaṃ} \getsiglum {J10,N26,N9}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}chedanaiś} \getsiglum {C6}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}khedana} \getsiglum {K3}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}vedana} \getsiglum {N19}</8-x-1>
@@ -662,221 +660,226 @@
 <8-x-1>\ekdsubsep {\selectlanguage {english}\damaged } \getsiglum {N3}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}cālanadohaiḥ} \getsiglum {J7,Gr3a,J6,N19,V15,V1,Jyo}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}cālajadohaiḥ} \getsiglum {N23}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}cālanaṃ dohaiḥ} \getsiglum {V17}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}cālanaṃ dohaṃ} \getsiglum {N26}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}cālanaṃ dohau} \getsiglum {V3,J10,N9}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}cālanair dāsyai} \getsiglum {C6}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}\damaged } \getsiglum {N3}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kalāṃ} \getsiglum {C6,J7,N19,V1,Jyo}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}kalaṃ} \getsiglum {N23}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}kalāḥ} \getsiglum {N3}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}kalā} \getsiglum {V3,N9,V17}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}kalāḥ} \getsiglum {N3,N26}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}kalā} \getsiglum {V3,N9}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}kāla} \getsiglum {J10}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}jihvāṃ} \getsiglum {Gr3a,J6}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}krameṇa} \getsiglum {V15}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tu} \getsiglum {Gr2}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}vai} \getsiglum {Gr3a}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}jihvāṃ} \getsiglum {V15}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}krameṇa} \getsiglum {N3,C6,V3,N19,V1,J10,N9,V17}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}krameṇa} \getsiglum {N3,C6,V3,N19,V1,J10,N9,N26}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}krameṇātha} \getsiglum {Jyo}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {J6}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saṃvardhayet} \getsiglum {Gr2,J6}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}pravardhayet} \getsiglum {V15,V1,J10}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}vardhayet} \getsiglum {N3,C6,V3,Gr3a,N19,N9,V17,Jyo}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}vardhayet} \getsiglum {N3,C6,V3,Gr3a,N19,N26,N9,Jyo}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tāvat} \getsiglum {C6,J7,Gr3a,J6,N19,V15,Jyo}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}tāt} \getsiglum {J10}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N3,V3,N23,V1,N9,V17}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N3,V3,N23,V1,N26,N9}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33b}~}{\bfseries \selectlanguage {english}yāvad iyaṃ} \getsiglum {Gr2,Gr3a,J6}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}sā yāvad} \getsiglum {N3,C6,V15,V1,J10,Jyo}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}sā} \getsiglum {N19}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}yāvad} \getsiglum {V3,N9,V17}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}madhyaṃ} \getsiglum {ceteri}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}madhya} \getsiglum {V19,V1}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}yāvad} \getsiglum {V3,N26,N9}</8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhrūmadhyaṃ} \getsiglum {ceteri}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}bhrūmadhya} \getsiglum {V19,V1}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}spṛśati} \getsiglum {N26}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}spṛśati} \getsiglum {ceteri}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}sparśati} \getsiglum {N23}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}viśa} \getsiglum {N3}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}bhrūmadhyaṃ} \getsiglum {N26}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tadā khecarīsiddhiḥ} \getsiglum {Gr2,C7,J6,V15,J10,Jyo}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}tadānīṃ khecarīsiddhiḥ} \getsiglum {N3,C6,V3,N9,V17}</8-x-1>
+<8-x-1>{\selectlanguage {english}tadā sidhyati khecarī} \getsiglum {N26}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}tadānīṃ khecarīsiddhiḥ} \getsiglum {N3,C6,V3,N9}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}tadānīṃ hi khecarīsiddhiḥ} \getsiglum {N19}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}tadānī siddhiḥ} \getsiglum {V1}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}tadā khecarī bhavati} \getsiglum {V19}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*1a}~}{\bfseries \selectlanguage {english}snuhī} \getsiglum {J6,V15,V17,Jyo}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}śnuhi} \getsiglum {V3}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*1d}~}{\bfseries \selectlanguage {english}samucchidet} \getsiglum {V3,V17}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}samucchidat} \getsiglum {V17}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}samucchinet} \getsiglum {V15,N9,Jyo}</8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*1a}~}{\bfseries \selectlanguage {english}snuhī} \getsiglum {J6,Jyo}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}snuhi} \getsiglum {V15,N26,N9}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}śnuhi} \getsiglum {V3}</8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*1d}~}{\bfseries \selectlanguage {english}samucchidet} \getsiglum {V3,N26}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}samucchinet} \getsiglum {V15,N9,Jyo}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}samucchiṃdyāt} \getsiglum {J6}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*2a}~}{\bfseries \selectlanguage {english}kṛtvā} \getsiglum {V15,Gr6}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}tataḥ} \getsiglum {Jyo}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saindhavapathyādi} \getsiglum {V3,J6,N9}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}saindhavapathyābhyāṃ} \getsiglum {V17,Jyo}</8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saindhavapathyādi} \getsiglum {V3,N26,N9,J6}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}saindhavapathyābhyāṃ} \getsiglum {Jyo}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}saindhavapakṣyādi} \getsiglum {V15}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*2b}~}{\bfseries \selectlanguage {english}cūrṇitābhyāṃ} \getsiglum {V3,J6,V15,N9,Jyo}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}cūrṇaṃtābhyāṃ} \getsiglum {V17}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}pragharṣayet} \getsiglum {V3,J6,V15,N9,Jyo}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}ca gharṣayet} \getsiglum {V17}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*2d}~}{\bfseries \selectlanguage {english}samucchidet} \getsiglum {V3,N9}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}samucchidat} \getsiglum {V17}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}samucchinet} \getsiglum {Jyo}</8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*2c}~}{\bfseries \selectlanguage {english}punaḥ} \getsiglum {V15,V3,N9,J6,Jyo}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}tataḥ} \getsiglum {N26}</8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*2d}~}{\bfseries \selectlanguage {english}samucchidet} \getsiglum {V3,N26,N9}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}samucchinet} \getsiglum {Jyo}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}punaḥ chidet} \getsiglum {V15}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}samutthiyāt} \getsiglum {J6}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*3a}~}{\bfseries \selectlanguage {english}ṣaṇmāsaṃ} \getsiglum {V3,J6,V17,Jyo}\ekdsep </8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*3a}~}{\bfseries \selectlanguage {english}ṣaṇmāsaṃ} \getsiglum {V3,N26,J6,Jyo}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}ṣaṇmāse} \getsiglum {N9}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}ṣaṇmāsān} \getsiglum {V15}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*3b}~}{\bfseries \selectlanguage {english}nitya} \getsiglum {V3,J6,V15,V17}\ekdsep </8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*3b}~}{\bfseries \selectlanguage {english}nitya} \getsiglum {V3,J6,V15,N26}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}nityaṃ} \getsiglum {Jyo}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}netya} \getsiglum {N9}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}yuktaṃ} \getsiglum {V3,V15,N9,V17}\ekdsep </8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}yuktaṃ} \getsiglum {V3,V15,N26,N9}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}yuktaḥ} \getsiglum {Jyo}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}muktaṃ} \getsiglum {J6}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*3c}~}{\bfseries \selectlanguage {english}ṣaṇmāsād} \getsiglum {Gr6,Jyo}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}ṣaṇmāse} \getsiglum {V15}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}mūla} \getsiglum {V3,J6,N9,Jyo}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}mūlaṃ} \getsiglum {V15,V17}</8-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}mūla} \getsiglum {V3,N26,N9,J6,Jyo}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}mūlaṃ} \getsiglum {V15}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*3d}~}{\bfseries \selectlanguage {english}śarābandhaṃ} \getsiglum {V3}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}śarabaṃdhaṃ} \getsiglum {J6}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}śarābadho} \getsiglum {N9}</8-x-1>
 <8-x-1>\ekdsubsep {\selectlanguage {english}śirābandhaḥ} \getsiglum {V15,Jyo}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}śirobandha} \getsiglum {V17}</8-x-1>
+<8-x-1>\ekdsubsep {\selectlanguage {english}sirābandho} \getsiglum {N26}</8-x-1>
 <8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vinaśyati} \getsiglum {Gr6}\ekdsep </8-x-1>
 <8-x-1>{\selectlanguage {english}praṇaśyati} \getsiglum {V15,Jyo}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*4d}~}{\bfseries \selectlanguage {english}vidhānavit} \getsiglum {V3,J6,V17}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}vidhānataḥ} \getsiglum {N9}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*5a}~}{\bfseries \selectlanguage {english}pramitaṃ} \getsiglum {V3,J6}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}pratima} \getsiglum {N9}</8-x-1>
-<8-x-1>\ekdsubsep {\selectlanguage {english}prathame} \getsiglum {V17}</8-x-1>
-<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dairghyaṃ} \getsiglum {V3,N9,V17}\ekdsep </8-x-1>
-<8-x-1>{\selectlanguage {english}dairghya} (°rghye \textit {pc})  \getsiglum {J6}</8-x-1>
-<9-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*6a}~}{\bfseries \selectlanguage {english}punaḥ} \getsiglum {V3,J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}puṇāḥ} \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*7a}~}{\bfseries \selectlanguage {english}cibukaṃ mūlaṃ} \getsiglum {J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}cikukaṃ mūlaṃ} \getsiglum {V17}</9-x-1>
-<9-x-1>\ekdsubsep {\selectlanguage {english}cibukamūla} \getsiglum {V3}</9-x-1>
+<8-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*4d}~}{\bfseries \selectlanguage {english}vidhānavit} \getsiglum {V3,J6}\ekdsep </8-x-1>
+<8-x-1>{\selectlanguage {english}vidhānataḥ} \getsiglum {N26,N9}</8-x-1>
+<9-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*5a}~}{\bfseries \selectlanguage {english}pramitaṃ} \getsiglum {V3,N26,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}pratima} \getsiglum {N9}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dairghyaṃ} \getsiglum {V3,N9}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}dairghye} \getsiglum {N26,J6pc}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}dairghya} \getsiglum {J6ac}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*5b}~}{\bfseries \selectlanguage {english}vistāraṃ} \getsiglum {V3,N9,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}vistāre} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*5d}~}{\bfseries \selectlanguage {english}veṣṭitāmbara} \getsiglum {V3,N9,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}veṣṭitādhāra} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*7a}~}{\bfseries \selectlanguage {english}cibukaṃ mūlaṃ} \getsiglum {N26,N9,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}cibukamūla} \getsiglum {V3}</9-x-1>
 <9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*7b}~}{\bfseries \selectlanguage {english}kramakāritā} \getsiglum {V3,J6}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}tramakārikā} \getsiglum {N9}</9-x-1>
-<9-x-1>\ekdsubsep {\selectlanguage {english}yuktakāritā} \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*7c}~}{\bfseries \selectlanguage {english}ca} \getsiglum {V3,J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}\om } \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kramati} \getsiglum {V3,N9,V17}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}kramakāritaḥ} \getsiglum {N26}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}tramakārikā} \getsiglum {N9}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*7c}~}{\bfseries \selectlanguage {english}ca} \getsiglum {V3,N9,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}\om } \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kramati} \getsiglum {V3,N9}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}krāmati} \getsiglum {J6}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*7d}~}{\bfseries \selectlanguage {english}saṃkhyā} \getsiglum {V3,J6,V17}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}saṃsthā} \getsiglum {N9}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*8c}~}{\bfseries \selectlanguage {english}randhrāntam} \getsiglum {V3,J6,V17}\ekdsep </9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}kramatī} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*7d}~}{\bfseries \selectlanguage {english}saṃkhyā} \getsiglum {V3,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}saṃsthā} \getsiglum {N26,N9}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*8c}~}{\bfseries \selectlanguage {english}randhrāntam} \getsiglum {V3,N26,J6}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}raṃdhraṃ tam} \getsiglum {N9}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*8d}~}{\bfseries \selectlanguage {english}tiṣṭhet} \getsiglum {V3,J6,V17}\ekdsep </9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*8d}~}{\bfseries \selectlanguage {english}tiṣṭhet} \getsiglum {V3,N26,J6}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}viṣṭaitet} \getsiglum {N9}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}paramavandite} \getsiglum {V3,J6,V17}\ekdsep </9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}paramavandite} \getsiglum {V3,N26,J6}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}paramavidite} \getsiglum {N9}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*9a}~}{\bfseries \selectlanguage {english}tālu} \getsiglum {V3,J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}tālaṃ} \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*11a}~}{\bfseries \selectlanguage {english}bīja} \getsiglum {N9,V17}\ekdsep </9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*11a}~}{\bfseries \selectlanguage {english}bīja} \getsiglum {N26,N9}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}vīya} \getsiglum {V3}</9-x-1>
 <9-x-1>\ekdsubsep {\selectlanguage {english}vīrya} \getsiglum {J6}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*11b}~}{\bfseries \selectlanguage {english}vyākhyātām ati} \getsiglum {V3,J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}vikhyātām api} \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*11c}~}{\bfseries \selectlanguage {english}ṣaḍaṅgaṃ} \getsiglum {V3,J6}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}ṣaḍaṅgaḥ} \getsiglum {V17}</9-x-1>
-<9-x-1>\ekdsubsep {\selectlanguage {english}ṣaḍaṃhva} \getsiglum {N9}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*12b}~}{\bfseries \selectlanguage {english}yā citiś} \getsiglum {emend} \texteng {(cf.\,Yoginīhṛdaya)}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}yācitaś} \getsiglum {N9,V17}</9-x-1>
-<9-x-1>\ekdsubsep {\selectlanguage {english}yā cittaś} \getsiglum {V3}</9-x-1>
-<9-x-1>\ekdsubsep {\selectlanguage {english}°ṇa cittaś} \getsiglum {J6}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}śāśvatodaye} \getsiglum {V3,J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}svāścatodaye} \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*12c}~}{\bfseries \selectlanguage {english}samavāya} \getsiglum {V3,N9,V17}\ekdsep </9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*11b}~}{\bfseries \selectlanguage {english}vyākhyātām ati} \getsiglum {V3,N9,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}vikhyātām api} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*11c}~}{\bfseries \selectlanguage {english}ṣaḍaṅgaṃ} \getsiglum {V3,N26,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}ṣaḍaṃhva} \getsiglum {N9}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*12a}~}{\bfseries \selectlanguage {english}nirasta} \getsiglum {V3,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}cirasta} \getsiglum {N9}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}lirasta} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*12b}~}{\bfseries \selectlanguage {english}yā citiś carati} \getsiglum {emend} \texteng {(cf.\,Yoginīhṛdaya)}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}yācitaś carati} \getsiglum {N9}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}yā cittaś carati} \getsiglum {V3}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}°ṇa cittaś carati} \getsiglum {J6}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}cittam ācarati} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*12c}~}{\bfseries \selectlanguage {english}samavāya} \getsiglum {V3,N26,N9}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}samavāyi} \getsiglum {J6}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kāriṇī} \getsiglum {J6,N9,V17}\ekdsep </9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kāriṇī} \getsiglum {N26,N9,J6}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}kariṇī} \getsiglum {V3}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*12d}~}{\bfseries \selectlanguage {english}bhava} \getsiglum {V3,N9,V17}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}bhavati} \getsiglum {J6}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*13a}~}{\bfseries \selectlanguage {english}prakartavyā} \getsiglum {V3,N9,V17}\ekdsep </9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*12d}~}{\bfseries \selectlanguage {english}ca bhava} \getsiglum {V3,N9}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}\{\{ca\}\} bhavati} \getsiglum {J6}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}bhavati} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*13a}~}{\bfseries \selectlanguage {english}prakartavyā} \getsiglum {V3,N26,N9}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}pravartavyā} \getsiglum {J6}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*13b}~}{\bfseries \selectlanguage {english}bhyāsena} \getsiglum {V3,J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}bhyāsana} \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}varṇini} \getsiglum {V3,N9}\ekdsep </9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*13b}~}{\bfseries \selectlanguage {english}varṇini} \getsiglum {V3,N26,N9}\ekdsep </9-x-1>
 <9-x-1>{\selectlanguage {english}varṇinī} \getsiglum {J6}</9-x-1>
-<9-x-1>\ekdsubsep {\selectlanguage {english}varṇiṇī} \getsiglum {V17}</9-x-1>
-<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*13c}~}{\bfseries \selectlanguage {english}yatate} (yatete \getsiglum {J6}\textsuperscript {ac}) \getsiglum {V3,J6,N9}\ekdsep </9-x-1>
-<9-x-1>{\selectlanguage {english}utpadyate} \getsiglum {V17}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*13c}~}{\bfseries \selectlanguage {english}yatate} \getsiglum {V3,N9,J6pc}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}yatete} \getsiglum {J6ac}</9-x-1>
+<9-x-1>\ekdsubsep {\selectlanguage {english}utpadyate} \getsiglum {N26}</9-x-1>
+<9-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tasya} \getsiglum {V3,N9,J6}\ekdsep </9-x-1>
+<9-x-1>{\selectlanguage {english}samyak} \getsiglum {N26}</9-x-1>
 <10-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*14b}~}{\bfseries \selectlanguage {english}'bhyāso na} \getsiglum {V3,J6}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}bhyāsena} \getsiglum {N9,V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*14c}~}{\bfseries \selectlanguage {english}evaṃ} \getsiglum {J6,N9,V17}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}bhyāsena} \getsiglum {N26,N9}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}priye} \getsiglum {V3,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}kriye} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*14c}~}{\bfseries \selectlanguage {english}evaṃ} \getsiglum {N26,N9,J6}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}eva} \getsiglum {V3}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*14d}~}{\bfseries \selectlanguage {english}dvāraṃ} \getsiglum {V3,J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}dvāre} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}viśed} \getsiglum {J6,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*14d}~}{\bfseries \selectlanguage {english}viśed} \getsiglum {N26,J6}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}vaśed} \getsiglum {N9}</10-x-1>
 <10-x-1>\ekdsubsep {\selectlanguage {english}biśe} \getsiglum {V3}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*15a}~}{\bfseries \selectlanguage {english}bhujagīṃ} \getsiglum {J6}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*15a}~}{\bfseries \selectlanguage {english}vibhidya} \getsiglum {V3,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}vibhedya} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhujagīṃ} \getsiglum {N26,J6}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}bhujaṃgī} \getsiglum {V3}</10-x-1>
-<10-x-1>\ekdsubsep {\selectlanguage {english}bhujaṃgīṃ} \getsiglum {N9,V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}protthāpya} \getsiglum {V3,N9,V17}\ekdsep </10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}bhujaṃgīṃ} \getsiglum {N9}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}protthāpya} \getsiglum {V3,N26,N9}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}protthāya} \getsiglum {J6}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*15c}~}{\bfseries \selectlanguage {english}tat} \getsiglum {V3}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}tal} \getsiglum {J6,N9,V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*15d}~}{\bfseries \selectlanguage {english}pibatī} \getsiglum {J6,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*15b}~}{\bfseries \selectlanguage {english}śirā} \getsiglum {V3,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}śirāṃ} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}rūpaṃ} \getsiglum {V3,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}rūpāṃ} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*15c}~}{\bfseries \selectlanguage {english}tat} \getsiglum {V3,N26}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}tal} \getsiglum {N9,J6}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*15d}~}{\bfseries \selectlanguage {english}pibatī} \getsiglum {N26,J6}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}pibate} \getsiglum {V3,N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}galan} \getsiglum {V3,J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}gataṃ} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}muktaḥ sa sākṣācchivaḥ} \getsiglum {V3,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}muktaḥ sa sākṣācchivaḥ} \getsiglum {V3,N26}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}muktaś ca sākṣācchivaḥ} \getsiglum {J6}</10-x-1>
 <10-x-1>\ekdsubsep {\selectlanguage {english}muktaḥ kṣamāddhivaḥ} \getsiglum {N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16a}~}{\bfseries \selectlanguage {english}yas tūrdhva} \getsiglum {V3,N9,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16a}~}{\bfseries \selectlanguage {english}yas tūrdhva} \getsiglum {V3,N26,N9}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}yasphūrja} \getsiglum {J6}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}jihvo yadi} \getsiglum {emend} (=\,\getsiglum {N26})\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}jihvo yadi} \getsiglum {N26}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}jihvogradi} \getsiglum {V3}</10-x-1>
 <10-x-1>\ekdsubsep {\selectlanguage {english}jihvāgrayā} \getsiglum {J6}</10-x-1>
 <10-x-1>\ekdsubsep {\selectlanguage {english}jihvā yadi} \getsiglum {N9}</10-x-1>
-<10-x-1>\ekdsubsep {\selectlanguage {english}jihvāṃ yadi} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}taughaṃ} \getsiglum {V3,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}taughaṃ} \getsiglum {V3,N26}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}tauṣaṃ} \getsiglum {N9}</10-x-1>
 <10-x-1>\ekdsubsep {\selectlanguage {english}tauccaṃ} \getsiglum {J6}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16b}~}{\bfseries \selectlanguage {english}susvādaṃ} \getsiglum {V3,N9,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16b}~}{\bfseries \selectlanguage {english}susvādaṃ} \getsiglum {V3,N26,N9}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}su[kha]daṃ} \getsiglum {J6}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}śītalāṅgaṃ} \getsiglum {V3,J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}śītalāṅge} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhaya} \getsiglum {V3,J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}maya} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16c}~}{\bfseries \selectlanguage {english}bhavati} \getsiglum {V3,J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}avati} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}mṛtapathā} \getsiglum {N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}mṛtayathā} \getsiglum {V3,V17}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16c}~}{\bfseries \selectlanguage {english}mṛtapathā} \getsiglum {N26,N9}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}mṛtayathā} \getsiglum {V3}</10-x-1>
 <10-x-1>\ekdsubsep {\selectlanguage {english}mṛtaṃ yathā} \getsiglum {J6}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}rogād} \getsiglum {V3,J6,V17}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}śeṣād} \getsiglum {N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhavanti} \getsiglum {V3,N9,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}rogād} \getsiglum {V3,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}rogod} \getsiglum {N26}</10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}śeṣād} \getsiglum {N9}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhavanti} \getsiglum {V3,N9}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}bhavati} \getsiglum {J6}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16d}~}{\bfseries \selectlanguage {english}daurbhāgyaṃ} \getsiglum {J6,V17}\ekdsep </10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}bhavaṃtu} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*16d}~}{\bfseries \selectlanguage {english}daurbhāgyaṃ} \getsiglum {N26,J6}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}daurbhyāgyaṃ} \getsiglum {V3,N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sakalaṃ} \getsiglum {V3,J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}sakala} \getsiglum {V17}</10-x-1>
 <10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kālaṃ} \getsiglum {V3,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}kālo} \getsiglum {J6,V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17a}~}{\bfseries \selectlanguage {english}tīkṣṇakaṃ} \getsiglum {J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}kālo} \getsiglum {N26,J6}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17a}~}{\bfseries \selectlanguage {english}tīkṣṇakaṃ} \getsiglum {N26,J6}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}tīkṣṇake} \getsiglum {V3}</10-x-1>
 <10-x-1>\ekdsubsep {\selectlanguage {english}tīkṣṇako} \getsiglum {N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17b}~}{\bfseries \selectlanguage {english}kaṭukaṃ kuṣṭhanāśanam} \getsiglum {V3,J6,V17}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}kaṭukuṭivināśanaṃ} \getsiglum {N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17c}~}{\bfseries \selectlanguage {english}ghṛta} \getsiglum {V3,J6,V17}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}harate} \getsiglum {V3,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}harati} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17b}~}{\bfseries \selectlanguage {english}kaṭukaṃ kuṣṭhanāśanam} \getsiglum {V3,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}kaṭutvaṃ kuṣṭhanāśanam} \getsiglum {N26}</10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}kaṭukuṭivināśanaṃ} \getsiglum {N9}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17c}~}{\bfseries \selectlanguage {english}ghṛta} \getsiglum {V3,N26,J6}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}dhṛtvā} \getsiglum {N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17d}~}{\bfseries \selectlanguage {english}labhed} \getsiglum {V3,V17}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}labhate} \getsiglum {J6,N9}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*18a}~}{\bfseries \selectlanguage {english}caiva} \getsiglum {V3,J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}caivaṃ} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*18b}~}{\bfseries \selectlanguage {english}udgirate} \getsiglum {V3,N9}\ekdsep </10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*17d}~}{\bfseries \selectlanguage {english}labhed} \getsiglum {V3,N26}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}labhate} \getsiglum {N9,J6}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*18b}~}{\bfseries \selectlanguage {english}udgirate} \getsiglum {V3,N26,N9}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}udgirati} \getsiglum {J6}</10-x-1>
-<10-x-1>\ekdsubsep {\selectlanguage {english}udgire} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bahu} \getsiglum {J6,N9}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}bahuḥ} \getsiglum {V3,V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*18c}~}{\bfseries \selectlanguage {english}laḍḍu} \getsiglum {emend}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}laḍu} \getsiglum {Gr6}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bahu} \getsiglum {N26,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}bahuḥ} \getsiglum {V3}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*18c}~}{\bfseries \selectlanguage {english}laḍḍu} \getsiglum {N26}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}laḍu} \getsiglum {V3,N9,J6}</10-x-1>
 <10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ṣaṇḍakapādyāni} \getsiglum {V3,N9}\ekdsep </10-x-1>
 <10-x-1>{\selectlanguage {english}khaṃḍakapādyāni} \getsiglum {J6}</10-x-1>
-<10-x-1>\ekdsubsep {\selectlanguage {english}piṇḍakaṣādyāni} \getsiglum {V17}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*19a}~}{\bfseries \selectlanguage {english}ramen} \getsiglum {ceteri}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}krīḍen} \getsiglum {J6}</10-x-1>
-<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*19d}~}{\bfseries \selectlanguage {english}kośa} \getsiglum {J6,V17}\ekdsep </10-x-1>
-<10-x-1>{\selectlanguage {english}kauśa} \getsiglum {V3}</10-x-1>
-<10-x-1>\ekdsubsep {\selectlanguage {english}kauṣṭa} \getsiglum {N9}</10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}piṇḍakakhādyāni} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*18d}~}{\bfseries \selectlanguage {english}pakvānnāni} \getsiglum {V3,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}pakvānyanmāny} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*19a}~}{\bfseries \selectlanguage {english}kalpaṃ} \getsiglum {V3,N9,J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}kalpai} \getsiglum {N26}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ramen} \getsiglum {ceteri}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}racen} \getsiglum {N26}</10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}krīḍen} \getsiglum {J6}</10-x-1>
+<10-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.33*19d}~}{\bfseries \selectlanguage {english}kośakārīva} \getsiglum {J6}\ekdsep </10-x-1>
+<10-x-1>{\selectlanguage {english}kauśakārīva} \getsiglum {V3}</10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}koṣakārī ca} \getsiglum {N26}</10-x-1>
+<10-x-1>\ekdsubsep {\selectlanguage {english}kauṣṭakārīva} \getsiglum {N9}</10-x-1>
 <11-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.34b}~}{\bfseries \selectlanguage {english}praviṣṭā viparītagā} \getsiglum {ceteri}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}pra\,+\,+\,+\,+\,+\,+} \getsiglum {N3}</11-x-1>
 <11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.34c}~}{\bfseries \selectlanguage {english}antargatā} \getsiglum {ceteri}\ekdsep </11-x-1>
@@ -924,7 +927,7 @@
 <11-x-1>{\selectlanguage {english}tandrā} \getsiglum {Jyo}</11-x-1>
 <11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.36b}~}{\bfseries \selectlanguage {english}kṣudhā tṛṣā} \getsiglum {ceteri}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}kṣudhā nandaṭ} \getsiglum {C7}</11-x-1>
-<11-x-1>\ekdsubsep {\selectlanguage {english}tṛṣā kṣudhā} (tṛkhā \getsiglum {V19})  \getsiglum {C6,V19}</11-x-1>
+<11-x-1>\ekdsubsep {\selectlanguage {english}tṛṣā kṣudhā} \texteng {(tṛkhā \getsiglum {V19})}  \getsiglum {C6,V19}</11-x-1>
 <11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.36c}~}{\bfseries \selectlanguage {english}ca} \getsiglum {ceteri}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}bhra} \getsiglum {V3}</11-x-1>
 <11-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {C7}</11-x-1>
@@ -937,22 +940,22 @@
 <11-x-1>{\selectlanguage {english}\damaged } \getsiglum {N3}</11-x-1>
 <11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}khecarīm} \getsiglum {J7,V19,K3,N19,V15,V1,J10,Jyo}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}khecarī} \getsiglum {N3,C6,V3,N23,C7}</11-x-1>
-<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.36*1a}~}{\bfseries \selectlanguage {english}pīḍyate} \getsiglum {N3,P11,Jyo}\ekdsep </11-x-1>
+<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.1a}~}{\bfseries \selectlanguage {english}pīḍyate} \getsiglum {N3,P11,Jyo}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}bādhyate} \getsiglum {C6,V3,J10}</11-x-1>
 <11-x-1>\ekdsubsep {\selectlanguage {english}chādyate} \getsiglum {V1}</11-x-1>
 <11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sa} \getsiglum {V3,V1,J10,Jyo}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}ca} \getsiglum {N3,J5,C6,P11}</11-x-1>
-<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.36*1b}~}{\bfseries \selectlanguage {english}lipyate na sa} \getsiglum {C6,V3,V1,J10}\ekdsep </11-x-1>
+<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.1b}~}{\bfseries \selectlanguage {english}lipyate na sa} \getsiglum {C6,V3,V1,J10}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}lipyate na ca} \getsiglum {Jyo}</11-x-1>
 <11-x-1>\ekdsubsep {\selectlanguage {english}na ca lipyati} \getsiglum {J5,P11}</11-x-1>
 <11-x-1>\ekdsubsep {\selectlanguage {english}na ca lipyata} \getsiglum {N3}</11-x-1>
-<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.36*1c}~}{\bfseries \selectlanguage {english}bādhyate} \getsiglum {N3,P11,V3,V1,J10,Jyo}\ekdsep </11-x-1>
+<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.1c}~}{\bfseries \selectlanguage {english}bādhyate} \getsiglum {N3,P11,V3,V1,J10,Jyo}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}khādyate} \getsiglum {C6}</11-x-1>
 <11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sa} \getsiglum {C6,V3,V1,J10,Jyo}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}ca} \getsiglum {N3,J5,P11}</11-x-1>
-<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.36*1d}~}{\bfseries \selectlanguage {english}yo mudrāṃ vetti} \getsiglum {N3,C6,P11,V3,J10,Jyo}\ekdsep </11-x-1>
+<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.1d}~}{\bfseries \selectlanguage {english}yo mudrāṃ vetti} \getsiglum {N3,C6,P11,V3,J10,Jyo}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}yasya mudrāsti} \getsiglum {V1}</11-x-1>
-<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}khecarīṃ} \getsiglum {N3,J10,Jyo}\ekdsep </11-x-1>
+<11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}khecarīm} \getsiglum {N3,J10,Jyo}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}khecarī} \getsiglum {C6,P11,V3,V1}</11-x-1>
 <11-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.37a}~}{\bfseries \selectlanguage {english}cittaṃ} \getsiglum {ceteri}\ekdsep </11-x-1>
 <11-x-1>{\selectlanguage {english}citte} \getsiglum {V19}</11-x-1>
@@ -997,12 +1000,13 @@
 <12-x-1>\ekdsubsep {\selectlanguage {english}yogimaṃḍalaṃ} \getsiglum {N3}</12-x-1>
 <12-x-1>\ekdsubsep {\selectlanguage {english}yonimaṃgalaṃ} \getsiglum {N19}</12-x-1>
 <12-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.39c}~}{\bfseries \selectlanguage {english}vrajaty} \getsiglum {ceteri}\ekdsep </12-x-1>
-<12-x-1>{\selectlanguage {english}jajaty} \getsiglum {N23}</12-x-1>
+<12-x-1>{\selectlanguage {english}vṛjaṃty} \getsiglum {N3}</12-x-1>
+<12-x-1>\ekdsubsep {\selectlanguage {english}jajaty} \getsiglum {N23}</12-x-1>
 <12-x-1>\ekdsubsep {\selectlanguage {english}vrajan} \getsiglum {C7}</12-x-1>
 <12-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ūrdhvaṃ} \getsiglum {ceteri}\ekdsep </12-x-1>
 <12-x-1>{\selectlanguage {english}pūrvaṃ} \getsiglum {C7}</12-x-1>
 <12-x-1>\ekdsubsep {\selectlanguage {english}ū\,+} \getsiglum {N3}</12-x-1>
-<12-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}hataḥ śaktyā} \getsiglum {emend} (cf.\,VM)\ekdsep </12-x-1>
+<12-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}hataḥ śaktyā} \getsiglum {emend} \texteng {(cf.\,VM)}\ekdsep </12-x-1>
 <12-x-1>{\selectlanguage {english}hṛtaḥ śaktyā} \getsiglum {Jyo}</12-x-1>
 <12-x-1>\ekdsubsep {\selectlanguage {english}hatāchantkā} \getsiglum {N23}</12-x-1>
 <12-x-1>\ekdsubsep {\selectlanguage {english}haṭhāc chaktyā} \getsiglum {C6,V3,J7,N19,V15,V1,J10}</12-x-1>
@@ -1135,7 +1139,7 @@
 <13-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}yaḥ sāraḥ} \getsiglum {J7,V19,K3,J10,Jyo}\ekdsep </13-x-1>
 <13-x-1>{\selectlanguage {english}yaḥ sāra} \getsiglum {N23}</13-x-1>
 <13-x-1>\ekdsubsep {\selectlanguage {english}yat sāraṃ} \getsiglum {N3,C6,N19}</13-x-1>
-<13-x-1>\ekdsubsep {\selectlanguage {english}yaḥ sāraṃ tasmād idam [m]akurvīta nityayuktaḥ samāhitaḥ} (the same hemistich is inserted after \ref {III43})  \getsiglum {V3}</13-x-1>
+<13-x-1>\ekdsubsep {\selectlanguage {english}yaḥ sāraṃ tasmād idam [m]akurvīta nityayuktaḥ samāhitaḥ} \texteng {(the same hemistich is inserted after \ref {III43})}  \getsiglum {V3}</13-x-1>
 <13-x-1>\ekdsubsep {\selectlanguage {english}yaḥ samyak} \getsiglum {C7}</13-x-1>
 <13-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.45d}~}{\bfseries \selectlanguage {english}sā} \getsiglum {ceteri}\ekdsep </13-x-1>
 <13-x-1>{\selectlanguage {english}sa} \getsiglum {K3}</13-x-1>
@@ -1194,7 +1198,7 @@
 <14-x-1>\ekdsubsep {\selectlanguage {english}nirvyādhiḥ sa} \getsiglum {Jyo}</14-x-1>
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}komala} \getsiglum {ceteri}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}komale} \getsiglum {N23}</14-x-1>
-<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tanur} \getsiglum {C6,V3,J7,Gr3a,J10}\ekdsep </14-x-1>
+<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tanur} \getsiglum {J5,C6,V3,J7,Gr3a,J10}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}tanu} \getsiglum {N23}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}vapur} \getsiglum {N3,P11,N19,V15,V1,Jyo}</14-x-1>
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.47a}~}{\bfseries \selectlanguage {english}cumbantī} \getsiglum {ceteri}\ekdsep </14-x-1>
@@ -1206,7 +1210,7 @@
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.47b}~}{\bfseries \selectlanguage {english}sakṣārā} \getsiglum {ceteri}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}sākṣārā} \getsiglum {N3,V19,N19}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}sakṣāra} \getsiglum {J10}</14-x-1>
-<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kaṭukātha} \getsiglum {N3}\ekdsep </14-x-1>
+<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kaṭukātha} \getsiglum {N3,J5}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}kaṭukāmla} \getsiglum {J7,Gr3a,V15,Jyo}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}vaṭukāmla} \getsiglum {N23}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}kaṭukāsa} \getsiglum {V1}</14-x-1>
@@ -1219,7 +1223,7 @@
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sadṛśī} \getsiglum {ceteri}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}sādṛśī} \getsiglum {V19}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}sadṛśīṃ} \getsiglum {J7}</14-x-1>
-<14-x-1>\ekdsubsep {\selectlanguage {english}sadṛśā} \getsiglum {N3,V1}</14-x-1>
+<14-x-1>\ekdsubsep {\selectlanguage {english}sadṛśā} \getsiglum {N3,J5,V1}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}lavaṇā} \getsiglum {N19,V15}</14-x-1>
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}madhvājya} \getsiglum {ceteri}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}madhvādya} \getsiglum {V3,J10}</14-x-1>
@@ -1227,7 +1231,7 @@
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tulyā} \getsiglum {ceteri}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}tulyāṃ} \getsiglum {V3}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}tulyaṃ} \getsiglum {J10}</14-x-1>
-<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tha vā} \getsiglum {J5,Gr2,Gr3a}\ekdsep </14-x-1>
+<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}thavā} \getsiglum {J5,Gr2,Gr3a}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}tathā} \getsiglum {N3,C6,V3,N19,V1,J10,Jyo}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}savā} \getsiglum {V15}</14-x-1>
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.47c}~}{\bfseries \selectlanguage {english}jarāntakaraṇaṃ} \getsiglum {ceteri}\ekdsep </14-x-1>
@@ -1245,11 +1249,11 @@
 <14-x-1>{\selectlanguage {english}amarakṣam} \getsiglum {N23}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}aramatvam} \getsiglum {V3}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}iha siddhir} \getsiglum {Gr3a}</14-x-1>
-<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}guṇavat} \getsiglum {N3,P11,V1}\ekdsep </14-x-1>
+<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}guṇavat} \getsiglum {N3,J5,P11,V1}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}guṇāvat} \getsiglum {V15}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}guṇitaṃ} \getsiglum {C6,V3,Gr2,V19,N19,J10,Jyo}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}guṇitā} \getsiglum {K3,C7}</14-x-1>
-<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}siddhāṅganā} \getsiglum {C6,P11,K3,C7,V1,N19,V15,J10,Jyo}\ekdsep </14-x-1>
+<14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}siddhāṅganā} \getsiglum {J5,C6,P11,K3,C7,V1,N19,V15,J10,Jyo}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}siddhāṅgaṇā} \getsiglum {N3,V3,N23,V19}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}siddhāṅgānā} \getsiglum {J7}</14-x-1>
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}karṣaṇam} \getsiglum {ceteri}\ekdsep </14-x-1>
@@ -1270,14 +1274,14 @@
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}nirālamba} \getsiglum {V3,V1,Jyo}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}nirālambaś} \getsiglum {J7,Gr3a}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}nirāśambaś} \getsiglum {N23}</14-x-1>
-<14-x-1>\ekdsubsep {\selectlanguage {english}nirālambo} \getsiglum {C6,N19,V15}</14-x-1>
+<14-x-1>\ekdsubsep {\selectlanguage {english}nirālambo} \getsiglum {J5,C6,N19,V15}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}nirālambaṃ} \getsiglum {J10}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}°laṃbo deva} \getsiglum {N3}</14-x-1>
 <14-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.48d}~}{\bfseries \selectlanguage {english}ekā} \getsiglum {N3,C6,V3,N19,V1,J10,Jyo}\ekdsep </14-x-1>
 <14-x-1>{\selectlanguage {english}caikā} \getsiglum {Gr3a}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}cakā} \getsiglum {N23}</14-x-1>
 <14-x-1>\ekdsubsep {\selectlanguage {english}caiṣā} \getsiglum {J7}</14-x-1>
-<14-x-1>\ekdsubsep {\selectlanguage {english}hy ekā} \getsiglum {V15}</14-x-1>
+<14-x-1>\ekdsubsep {\selectlanguage {english}hy ekā} \getsiglum {J5,V15}</14-x-1>
 <15-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.48*1a}~}{\bfseries \selectlanguage {english}suṣiraṃ} \getsiglum {Jyo}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}sukhiraṃ} \getsiglum {J10}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}suciraṃ} \getsiglum {V3}</15-x-1>
@@ -1286,25 +1290,26 @@
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.48*1c}~}{\bfseries \selectlanguage {english}tiṣṭhate} \getsiglum {Jyo}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}tiṣṭhaṃti} \getsiglum {V3}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}tiṣṭhaṃtī} \getsiglum {J10}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.49a}~}{\bfseries \selectlanguage {english}pātāle yad} \getsiglum {Gr2,N19,V15,V1}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}pātālād yad} \getsiglum {C6}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}yat prāleyaṃ} \getsiglum {V3,Jyo}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}yat prāleya} \getsiglum {J10}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}viśati} \getsiglum {C6,Gr2}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}vita} \getsiglum {V1}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}vitanta} \getsiglum {V15}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}inaya} \getsiglum {N19}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}cāpihita} \getsiglum {V3}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}pihita} \getsiglum {J10}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}prahita} \getsiglum {Jyo}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}suṣiraṃ} \getsiglum {V15,Jyo}\ekdsep </15-x-1>
+<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.49a}~}{\bfseries \selectlanguage {english}pātāle yad viśati} \getsiglum {Gr2}\ekdsep </15-x-1>
+<15-x-1>{\selectlanguage {english}pātālād yad viśati} \getsiglum {C6}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}pātāle yadvitaya} \getsiglum {J11}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}pātāle yadvitanta} \getsiglum {V15}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}pātāle yadinaya} \getsiglum {N19}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}pātāle yadvita} \getsiglum {V1}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}yat prāleyaṃ cāpihita} \getsiglum {V3}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}yat prāleyaṃ pihita} \getsiglum {J5}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}yat prāleya pihita} \getsiglum {J10}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}yat prāleyaṃ prahita} \getsiglum {Jyo}</15-x-1>
+<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}suṣiraṃ} \getsiglum {V15,J11,Jyo}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}suśiraṃ} \getsiglum {C6}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}sukhiraṃ} \getsiglum {V3,Gr2,J10}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}sukhire} \getsiglum {J5}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}sukhīraṃ} \getsiglum {N19}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}stu[v]imaṃ/me} \getsiglum {V1}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}mūle tad asti} \getsiglum {C6}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}mūle yad asti} \getsiglum {J7}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}mūle tad asmin} \getsiglum {N19,V15}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}mūle yad astī} \getsiglum {J5}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}mūle tad asmin} \getsiglum {N19,V15,J11}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}mūle pakṣasti} \getsiglum {N23}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}mūlad} \getsiglum {V1}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}mūrddhyataḥthyaṃ} \getsiglum {V3}</15-x-1>
@@ -1312,11 +1317,14 @@
 <15-x-1>\ekdsubsep {\selectlanguage {english}mūrdhāntarasthaṃ} \getsiglum {Jyo}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.49b}~}{\bfseries \selectlanguage {english}tattvaṃ caitat} \getsiglum {C6}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}tadvac caitat} \getsiglum {Gr2,N19}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}tadvac caitā} \getsiglum {J11}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}taddac caitat} \getsiglum {V15}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}tasmiṃs tattvaṃ} \getsiglum {V3,J10,Jyo}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}tasmitvaṃ} \getsiglum {J5}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}asmi[ṃ]s tatvaṃ yat} \getsiglum {V1}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sudhīs} \getsiglum {ceteri}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}sudhās} \getsiglum {N23}</15-x-1>
+<15-x-1>{\selectlanguage {english}sudhī} \getsiglum {J11}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}sudhās} \getsiglum {N23}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tan mukhaṃ} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}tat sukhaṃ} \getsiglum {C6}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}nimnagānām} \getsiglum {ceteri}\ekdsep </15-x-1>
@@ -1324,9 +1332,9 @@
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.49c}~}{\bfseries \selectlanguage {english}candrāt sāraḥ} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}candrasāro} \getsiglum {V1}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}candrā sāraḥ} \getsiglum {V15}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}candrāt sāraṃ} \getsiglum {C6}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}candrāt sāraṃ} \getsiglum {J5,C6}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}candraḥ sāraḥ} \getsiglum {N19}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sravati} \getsiglum {ceteri}\ekdsep </15-x-1>
+<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sravati/śravati} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}grasati} \getsiglum {P11}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}rapati} \getsiglum {N23}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}[sra]vaṃtyai} \getsiglum {V1}</15-x-1>
@@ -1343,7 +1351,7 @@
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}badhnīyāt} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}cha\,\_\,yāt} \getsiglum {N23}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V15}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sukaraṇamṛdā} \getsiglum {C6}\ekdsep </15-x-1>
+<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sukaraṇamṛdā} \getsiglum {J5,C6,J11}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}pakaraṇamṛdā} \getsiglum {N19}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}kakaraṇam amṛtaṃ} \getsiglum {V1}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}sukaraṇam atho} \getsiglum {V3,J10}</15-x-1>
@@ -1355,12 +1363,12 @@
 <15-x-1>{\selectlanguage {english}nāmarthā} \getsiglum {N23}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V15}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kāya} \getsiglum {C6,V3,Gr2,N19,J10,Jyo}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}kārya} \getsiglum {V1}</15-x-1>
+<15-x-1>{\selectlanguage {english}kārya} \getsiglum {J5,V1,J11}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V15}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.50}~}{\bfseries \selectlanguage {english}mūlabandhaḥ} \getsiglum {J7,Gr3a}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}atha mūlabandhaḥ} \getsiglum {N3,C6,V3,N19,J14,V1,J10,Jyo}</15-x-1>
+<15-x-1>{\selectlanguage {english}atha mūlabandhaḥ} \getsiglum {N3,C6,V3,N19,V1,J10,Jyo}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}atha mūle bandhaḥ} \getsiglum {C7}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N23}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N23,J11}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.50a}~}{\bfseries \selectlanguage {english}pārṣṇi} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}pādima} \getsiglum {N23}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.50b}~}{\bfseries \selectlanguage {english}ākuñcayed} \getsiglum {ceteri}\ekdsep </15-x-1>
@@ -1374,17 +1382,17 @@
 <15-x-1>\ekdsubsep {\selectlanguage {english}'yam iṣyate} \getsiglum {C6,V3}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}mayiṣyate} \getsiglum {N3}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}'bhidhīyate} \getsiglum {Jyo}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.51a}~}{\bfseries \selectlanguage {english}adhogatim} \getsiglum {GrB,V1,Jyo}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}adhogatam} \getsiglum {N3,Gr2,Gr3a,N19,J14,J10}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}apānaṃ vai} \getsiglum {N3,C6,Gr2,N19,J10}\ekdsep </15-x-1>
+<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.51a}~}{\bfseries \selectlanguage {english}adhogatim} \getsiglum {GrB,J11,V1,Jyo}\ekdsep </15-x-1>
+<15-x-1>{\selectlanguage {english}adhogatam} \getsiglum {N3,Gr2,Gr3a,N19,J10}</15-x-1>
+<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}apānaṃ vai} \getsiglum {N3,C6,Gr2,N19,J11,J10}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}apānaṃ vā} \getsiglum {Jyo}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}apānaṃ ca} \getsiglum {V3}</15-x-1>
-<15-x-1>\ekdsubsep {\selectlanguage {english}apānaṃ tu} \getsiglum {Gr3a,J14}</15-x-1>
+<15-x-1>\ekdsubsep {\selectlanguage {english}apānaṃ tu} \getsiglum {Gr3a}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}apānaivam} \getsiglum {V1}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.51b}~}{\bfseries \selectlanguage {english}ūrdhvagaṃ} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}mūrddhagaṃ} \getsiglum {N3}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}vidyūrdhagaṃ} \getsiglum {V3}</15-x-1>
-<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}balāt} \getsiglum {N3,C6,V3,J14,V1,J10,Jyo}\ekdsep </15-x-1>
+<15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}balāt} \getsiglum {N3,C6,V3,J11,V1,J10,Jyo}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}haṭhāt} \getsiglum {Gr2,Gr3a,N19}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.51c}~}{\bfseries \selectlanguage {english}ākuñcanena} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}ākuñcya tena} \getsiglum {J10}</15-x-1>
@@ -1393,57 +1401,57 @@
 <15-x-1>\ekdsubsep {\selectlanguage {english}te} \getsiglum {K3}</15-x-1>
 <15-x-1>\ekdsubsep {\selectlanguage {english}tu} \getsiglum {C6}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}prāhur} \getsiglum {ceteri}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}grāhyaṃ} \getsiglum {N19}</15-x-1>
+<15-x-1>{\selectlanguage {english}grāhyaṃ} \getsiglum {N19,J11}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.51d}~}{\bfseries \selectlanguage {english}mūlabandhaṃ} \getsiglum {ceteri}\ekdsep </15-x-1>
 <15-x-1>{\selectlanguage {english}mūlabandho} \getsiglum {J10}</15-x-1>
 <15-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tu} \getsiglum {C6,P11,Gr2,Gr3a}\ekdsep </15-x-1>
-<15-x-1>{\selectlanguage {english}hi} \getsiglum {N3,V3,N19,J14,V1,J10,Jyo}</15-x-1>
+<15-x-1>{\selectlanguage {english}hi} \getsiglum {N3,V3,N19,J11,V1,J10,Jyo}</15-x-1>
 <16-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.52a}~}{\bfseries \selectlanguage {english}gudaṃ} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}gulpha} \getsiglum {N19}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}pārṣṇi°} \getsiglum {C6}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}pārṣṇyā tu} \getsiglum {N3,V3,Gr3a,J10,Jyo}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}pārśnī tu} \getsiglum {J7}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}pādarmyāṃ tu} \getsiglum {N23}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}pārṣṇyā ca} \getsiglum {N19,V1}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}ca pārṣṇinā°} \getsiglum {J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}pārṣṇyā ca} \getsiglum {N19,J11,V1}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}°nā gudam} \getsiglum {C6}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saṃpīḍya} \getsiglum {ceteri}\ekdsep </16-x-1>
-<16-x-1>{\selectlanguage {english}āpīḍya} \getsiglum {C6,J14}</16-x-1>
-<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.52b}~}{\bfseries \selectlanguage {english}vāyum ā°} \getsiglum {N3,C6,V3,Gr2,J14,V1,J10,Jyo}\ekdsep </16-x-1>
-<16-x-1>{\selectlanguage {english}vāyunā} \getsiglum {N19}</16-x-1>
+<16-x-1>{\selectlanguage {english}āpīḍya} \getsiglum {C6}</16-x-1>
+<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.52b}~}{\bfseries \selectlanguage {english}vāyum ā°} \getsiglum {N3,C6,V3,Gr2,V1,J10,Jyo}\ekdsep </16-x-1>
+<16-x-1>{\selectlanguage {english}vāyunā} \getsiglum {N19,J11}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}yonim ā°} \getsiglum {Gr3a}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}balāt} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}balat} \getsiglum {J7}</16-x-1>
-<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.52c}~}{\bfseries \selectlanguage {english}yathā} \getsiglum {N3,C6,V3,N19,J14,V1,J10,Jyo}\ekdsep </16-x-1>
+<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.52c}~}{\bfseries \selectlanguage {english}yathā} \getsiglum {N3,C6,V3,N19,J11,V1,J10,Jyo}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}tathā} \getsiglum {Gr2,Gr3a}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.53a}~}{\bfseries \selectlanguage {english}nādabindū} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}nādabindu} \getsiglum {N3,V3,N19,J10}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}tathā binduḥ} \getsiglum {J14}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.53b}~}{\bfseries \selectlanguage {english}caikatām} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}caikatā} \getsiglum {C6,N19}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}cakataṃ} \getsiglum {N23}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}caikataḥ} \getsiglum {V3}</16-x-1>
-<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.53c}~}{\bfseries \selectlanguage {english}saṃsiddhiṃ} \getsiglum {N3,C6,V3,J7,V19,K3,V1,Jyo}\ekdsep </16-x-1>
-<16-x-1>{\selectlanguage {english}saṃsiddhir} \getsiglum {N23,C7,N19,J14}</16-x-1>
+<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.53c}~}{\bfseries \selectlanguage {english}saṃsiddhiṃ} \getsiglum {N3,C6,V3,J7,V19,K3,J11,V1,Jyo}\ekdsep </16-x-1>
+<16-x-1>{\selectlanguage {english}saṃsiddhir} \getsiglum {N23,C7,N19}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}saṃsiddhyaiḥ} \getsiglum {J10}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.53d}~}{\bfseries \selectlanguage {english}yacchato} \getsiglum {V3,Jyo}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}yakṣyato} \getsiglum {C6}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}yichato} \getsiglum {N3}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}gacchato} \getsiglum {Gr3a,N19}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}gacchate} \getsiglum {J7,J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}gacchate} \getsiglum {J7}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}gacchatā} \getsiglum {N23}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}gacchata°} \getsiglum {J11}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}prāpnoty e°} \getsiglum {V1}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}pamāta} \getsiglum {J10}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}nātra} \getsiglum {ceteri}\ekdsep </16-x-1>
-<16-x-1>{\selectlanguage {english}°va na} \getsiglum {V1}</16-x-1>
+<16-x-1>{\selectlanguage {english}°sya na} \getsiglum {J11}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}°va na} \getsiglum {V1}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}tra na} \getsiglum {J10}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.54a}~}{\bfseries \selectlanguage {english}°yor aikyaṃ} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}°yor aikya} \getsiglum {N23}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}°yor aikye} \getsiglum {J10}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}°yoś caikyaṃ} \getsiglum {K3}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}°yor ekyāt} \getsiglum {J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}°yor aikyāt} \getsiglum {J11}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.54b}~}{\bfseries \selectlanguage {english}kṣayo} \getsiglum {ceteri}\ekdsep </16-x-1>
-<16-x-1>{\selectlanguage {english}kṣayān} \getsiglum {N23}</16-x-1>
+<16-x-1>{\selectlanguage {english}kṣayān} \getsiglum {N23,J11}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.54d}~}{\bfseries \selectlanguage {english}bandhanāt} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}bandhataḥ} \getsiglum {V19}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.55a}~}{\bfseries \selectlanguage {english}apāne} \getsiglum {ceteri}\ekdsep </16-x-1>
@@ -1455,10 +1463,9 @@
 <16-x-1>\ekdsubsep {\selectlanguage {english}ūrdhvage jāte} \getsiglum {Jyo}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.55b}~}{\bfseries \selectlanguage {english}saṃprāpte} \getsiglum {C6,P11,Gr2,Gr3a,N19}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}saṃyāte} \getsiglum {V3}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}prayāte} \getsiglum {N3,J5,V1,J10,Jyo}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}prajāte} \getsiglum {J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}prayāte} \getsiglum {N3,J5,J11,V1,J10,Jyo}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vahnimaṇḍalaṃ} \getsiglum {N3,V3,Jyo}\ekdsep </16-x-1>
-<16-x-1>{\selectlanguage {english}vahnimaṇḍale} \getsiglum {C6,Gr2,Gr3a,N19,J14,V1}</16-x-1>
+<16-x-1>{\selectlanguage {english}vahnimaṇḍale} \getsiglum {C6,Gr2,Gr3a,N19,J11,V1}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}nābhimaṇḍalaṃ} \getsiglum {J10}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.55c}~}{\bfseries \selectlanguage {english}tadānala} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}tadānale} \getsiglum {N19}</16-x-1>
@@ -1468,7 +1475,7 @@
 <16-x-1>{\selectlanguage {english}baṃdhane vāyunāhatā} \getsiglum {Gr3a}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}kriyate vāyunāhatāḥ} \getsiglum {J10}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}jāyate vāyunāhatā} \getsiglum {Jyo}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}vāyunā vardhate hi sā} \getsiglum {J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}vāyunā vardhate hatā} \getsiglum {J11}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}vāyunā preritā tathā} \getsiglum {V1}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.56a}~}{\bfseries \selectlanguage {english}tato} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}yātā} \getsiglum {V1}</16-x-1>
@@ -1476,80 +1483,75 @@
 <16-x-1>{\selectlanguage {english}yāto} \getsiglum {V1,Jyo}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}yāte} \getsiglum {J10}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}yāmau} \getsiglum {N3}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}jātau} \getsiglum {J7,Gr3a,J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}jātau} \getsiglum {J7,Gr3a,J11}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}jātā} \getsiglum {N23}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}jāto} \getsiglum {V3}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}vahnim} \getsiglum {N19}</16-x-1>
-<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vahnyapānau} \getsiglum {J7,Gr3a,J14,V1,Jyo}\ekdsep </16-x-1>
+<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vahnyapānau} \getsiglum {J7,Gr3a,J11,V1,Jyo}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}vahnipānau} \getsiglum {N3}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}vahniyonau} \getsiglum {J10}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}bāhyapānau} \getsiglum {C6}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}baṃdhapānau} \getsiglum {N23}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}vardhapānai} \getsiglum {V3}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}apānai ca} \getsiglum {N19}</16-x-1>
-<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.56b}~}{\bfseries \selectlanguage {english}prāṇam uṣṇa} \getsiglum {G4,C6,N19,Jyo}\ekdsep </16-x-1>
+<16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.56b}~}{\bfseries \selectlanguage {english}prāṇam uṣṇa} \getsiglum {G4,C6,N19,J11,Jyo}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}prāṇam uṣma} \getsiglum {V3,J7}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}prāṇamura} \getsiglum {N23}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}prāṇamukta} \getsiglum {V19,C7,J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}prāṇamukta} \getsiglum {V19,C7}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}prāṇamuktaṃ} \getsiglum {K3}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}prāṇamūla} \getsiglum {N3,J5,V1,J10}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}svarūpakam} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}svarūpakaḥ} \getsiglum {J10}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}svarūpakau} \getsiglum {J14,V1}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}svarūpakau} \getsiglum {V1}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}svarūpavat} \getsiglum {C7}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.56c}~}{\bfseries \selectlanguage {english}tenātyanta} \getsiglum {Gr2,Gr3a,V1,Jyo}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}tenātyantaṃ} \getsiglum {N3}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}tenābhyanta} \getsiglum {V3}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}tenābhyantaḥ} \getsiglum {J10}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}tenāyaṃna} \getsiglum {C6}</16-x-1>
-<16-x-1>\ekdsubsep {\selectlanguage {english}tatotyanta} \getsiglum {J14}</16-x-1>
+<16-x-1>\ekdsubsep {\selectlanguage {english}tatotyantaṃ} \getsiglum {J11}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}tailābhyaṃtaḥ} \getsiglum {N19}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}pradīptas tu} \getsiglum {ceteri}\ekdsep </16-x-1>
-<16-x-1>{\selectlanguage {english}pradīpas tu} \getsiglum {V1}</16-x-1>
+<16-x-1>{\selectlanguage {english}pradīpas tu} \getsiglum {J11,V1}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}pradīpāsau} \getsiglum {N19}</16-x-1>
 <16-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.56d}~}{\bfseries \selectlanguage {english}jvalano dehajas tathā} \getsiglum {ceteri}\ekdsep </16-x-1>
 <16-x-1>{\selectlanguage {english}jvalato dehatas tadā} \getsiglum {C6}</16-x-1>
 <16-x-1>\ekdsubsep {\selectlanguage {english}kuto dehakṣayas tadā} \getsiglum {J10}</16-x-1>
-<17-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.57b}~}{\bfseries \selectlanguage {english}saṃtaptā} \getsiglum {N3,C6,V3,Gr2,J14,V1,J10,Jyo}\ekdsep </17-x-1>
+<17-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.57b}~}{\bfseries \selectlanguage {english}saṃtaptā} \getsiglum {N3,C6,V3,Gr2,J11,V1,J10,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}satataṃ} \getsiglum {Gr3a,N19}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saṃprabudhyate} \getsiglum {N3,C6,Gr2,J14,J10,Jyo}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saṃprabudhyate} \getsiglum {N3,C6,Gr2,J11,J10,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}saṃprabudhyati} \getsiglum {V1}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}sa prabudhyate} \getsiglum {V3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}sā prabuddhyate} \getsiglum {K3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}sā prabodhyate} \getsiglum {C7}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}saṃprabodhyate} \getsiglum {N19}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}sānubodhyate} \getsiglum {V19}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.57c}~}{\bfseries \selectlanguage {english}daṇḍāhatā bhujaṅgīva} \getsiglum {ceteri}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}yathā daṃḍāhato bhogī} \getsiglum {J14}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.57d}~}{\bfseries \selectlanguage {english}niśvasya} \getsiglum {N3,P11,Jyo}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}niḥśvasya} \getsiglum {J14}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}viśvasya} \getsiglum {V3,V1,J10}</17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.57d}~}{\bfseries \selectlanguage {english}niśvasya} \getsiglum {N3,P11,J11,Jyo}\ekdsep </17-x-1>
+<17-x-1>{\selectlanguage {english}viśvasya} \getsiglum {V3,V1,J10}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}niścayam} \getsiglum {K3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}niścayād} \getsiglum {C7}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}niścitam} \getsiglum {Gr2,V19,N19}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ṛjutāṃ vrajet} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}rujutāṃ vṛjet} \getsiglum {N3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}rijutām iyāt} \getsiglum {J10}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.58a}~}{\bfseries \selectlanguage {english}praviṣṭeva} \getsiglum {N3,Gr2,V19,N19,V1,Jyo}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.58a}~}{\bfseries \selectlanguage {english}praviṣṭeva} \getsiglum {N3,Gr2,V19,N19,J11,V1,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}praviṣṭe ca} \getsiglum {C6}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}praviṣṭaṃ ca} \getsiglum {V3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}praviṣṭaś ca} \getsiglum {J10}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}praviṣṭe pa°} \getsiglum {J14}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {Gr3a}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tato} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}to} \getsiglum {N23}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}°vane} \getsiglum {J14}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {Gr3a}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.58b}~}{\bfseries \selectlanguage {english}brahma} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}tha\,\_} \getsiglum {N23}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {Gr3a}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}nāḍyantaraṃ} \getsiglum {ceteri}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}nāḍyāntaraṃ} \getsiglum {C6}</17-x-1>
+<17-x-1>{\selectlanguage {english}nāḍyāntaraṃ} \getsiglum {C6,J11}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}nāḍyantare} \getsiglum {J10}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {Gr3a}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.58c}~}{\bfseries \selectlanguage {english}tasmān} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}tato} \getsiglum {K3}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}nityaṃ} \getsiglum {ceteri}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}\skm {n }nityaṃ} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}nityo} \getsiglum {N19}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.59}~}{\bfseries \selectlanguage {english}atha uḍḍiyānabandhaḥ} \getsiglum {N23}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}atha uḍḍiyānaṃ bandhaḥ} \getsiglum {J10}</17-x-1>
@@ -1560,19 +1562,19 @@
 <17-x-1>\ekdsubsep {\selectlanguage {english}athoḍḍīyāṇaṃ} \getsiglum {N3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}athoḍḍiyāṇaṃ} \getsiglum {V3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}athoḍiyānaṃ} \getsiglum {C6}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}athoḍḍīyānabandhaḥ} \getsiglum {C7,J14}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}athoḍḍīyānabandhaḥ} \getsiglum {C7}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}athoḍyāṇabaṃdhaḥ} \getsiglum {V1}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V19}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V19,J11}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.59a}~}{\bfseries \selectlanguage {english}baddho} \getsiglum {N3,C6,V3,J7,V19,K3,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}bandho} \getsiglum {C7,N19}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}ūrdhvo} \getsiglum {V1,J10}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}ūrdhvaṃ} \getsiglum {J14}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}ūrdhvā} \getsiglum {J11}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}vidrā} \getsiglum {N23}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}yena suṣumṇāyāṃ} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}kṣitaḥ suṣumṇāyāḥ} \getsiglum {J10}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.59b}~}{\bfseries \selectlanguage {english}prāṇas} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}prāṇam} \getsiglum {C6,N19,V1}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tūḍḍīyate} \getsiglum {N3,J7,V19,J14,J10,Jyo}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tūḍḍīyate} \getsiglum {N3,J7,V19,J11,J10,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}tūḍiyate} \getsiglum {V3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}tudīyate} \getsiglum {N23}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}tūḍūyate} \getsiglum {K3}</17-x-1>
@@ -1585,16 +1587,15 @@
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.59c}~}{\bfseries \selectlanguage {english}tasmād} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}tasmātu} \getsiglum {J7}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}tasmāc ca} \getsiglum {J10}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}uḍḍīyanākhyo} \emph {m.c.} \getsiglum {V19,C7,Jyo}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}uḍḍīyanākhyo} \texteng {\emph {m.c.}} \getsiglum {V19,C7,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}uḍḍiyānākhyo} \getsiglum {J7,J10}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍiyāṇākhyo} \getsiglum {V1}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uddiyānākhyo} \getsiglum {N23}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇākhyo} \getsiglum {N19}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyanākhye} \getsiglum {N3}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyanākhye} \getsiglum {N3,J11}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāṇākhye} \getsiglum {V3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍiyānākhyaṃ} \getsiglum {C6}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyamāno} \getsiglum {K3}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyabandho} \getsiglum {J14}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}'yaṃ} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}sau} \getsiglum {K3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}tad} \getsiglum {C6}</17-x-1>
@@ -1603,7 +1604,7 @@
 <17-x-1>{\selectlanguage {english}samudāhṛtaṃ} \getsiglum {C6,V3,N19}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.60a}~}{\bfseries \selectlanguage {english}uḍḍīnaṃ} \getsiglum {Gr3a,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}uḍīṇaṃ} \getsiglum {V3}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}uḍyānaṃ} \getsiglum {C6,J14}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}uḍyānaṃ} \getsiglum {C6,J11}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍyāṇaṃ} \getsiglum {N3,J7}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍiyānaṃ} \getsiglum {N23,J10}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍiyāṇaṃ} \getsiglum {V1}</17-x-1>
@@ -1612,78 +1613,76 @@
 <17-x-1>{\selectlanguage {english}kṛyate} \getsiglum {J7}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}kṛte} \getsiglum {N19}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.60b}~}{\bfseries \selectlanguage {english}aviśrāntaṃ} \getsiglum {C6,V3,Gr3a,N19,V1,J10,Jyo}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}aviśrāṃta} \getsiglum {N3,P11}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}aviśrānto} \getsiglum {J7,J14}</17-x-1>
+<17-x-1>{\selectlanguage {english}aviśrāṃta} \getsiglum {N3,J5,P11}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}aviśrānto} \getsiglum {J7,J11}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}aviśrāntā} \getsiglum {N23}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.60c}~}{\bfseries \selectlanguage {english}uḍḍiyānaṃ} \getsiglum {Gr2,J10}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}uḍḍīyānaṃ} \getsiglum {Gr3a,Jyo}</17-x-1>
+<17-x-1>{\selectlanguage {english}uḍḍīyānaṃ} \getsiglum {Gr3a,J11,Jyo}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇaṃ} \getsiglum {N3,N19,V1}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāṇaṃ} \getsiglum {V3,J14}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāṇaṃ} \getsiglum {V3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍiyānaṃ} \getsiglum {C6}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}eva} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}evaṃ} \getsiglum {V19}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}evaḥ} \getsiglum {N19}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.60d}~}{\bfseries \selectlanguage {english}tatra} \getsiglum {N3,C6,V3,Gr2,N19,J14,V1,Jyo}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.60d}~}{\bfseries \selectlanguage {english}tatra} \getsiglum {N3,C6,V3,Gr2,N19,J11,V1,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}kṣetra} \getsiglum {J10}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}mūla} \getsiglum {Gr3a}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vidhīyate} \getsiglum {J5,C6,J7}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vidhīyate} \getsiglum {J5,C6,J7,J11}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}'bhidhīyate} \getsiglum {ceteri}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}nigadyate} \getsiglum {N23}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.61a}~}{\bfseries \selectlanguage {english}udare} \getsiglum {ceteri}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}udaraṃ} \getsiglum {J14}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}udarāt} \getsiglum {V3}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}paścimaṃ} \getsiglum {C6,J7,C7,J14,V1,Jyo}\ekdsep </17-x-1>
+<17-x-1>{\selectlanguage {english}udarāt} \getsiglum {V3}</17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}paścimaṃ} \getsiglum {J5,C6,J7,C7,V1,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}paścima} \getsiglum {N3,N23,J10}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}paścime} \getsiglum {V3,V19,K3,N19}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tānaṃ} \getsiglum {C6,Gr2,V19,C7,V1,J10,Jyo}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}tāṇaṃ} \getsiglum {N3,K3,N19,J14}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}paścime} \getsiglum {V3,V19,K3,N19,J11}</17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tānaṃ} \getsiglum {C6,Gr2,V19,C7,J11,V1,J10,Jyo}\ekdsep </17-x-1>
+<17-x-1>{\selectlanguage {english}tāṇaṃ} \getsiglum {N3,J5,K3,N19}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}bhāge} \getsiglum {V3}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.61b}~}{\bfseries \selectlanguage {english}ūrdhvaṃ} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}ūrdhve} \getsiglum {J10}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ca} \getsiglum {ceteri}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}tu} \getsiglum {N19,J10}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.61c}~}{\bfseries \selectlanguage {english}uḍḍiyāno} \getsiglum {Gr2,V19,J10}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}uḍḍīyāno} \getsiglum {K3,C7,Jyo}</17-x-1>
+<17-x-1>{\selectlanguage {english}uḍḍīyāno} \getsiglum {K3,C7,J11,Jyo}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍiyāṇo} \getsiglum {V1}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇo} \getsiglum {N3,N19}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}uḍīyāno} \getsiglum {C6}</17-x-1>
-<17-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāṇo} \getsiglum {J14}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V3}</17-x-1>
-<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}asau} \getsiglum {N3,C6,Gr2,N19,J14,V1,J10,Jyo}\ekdsep </17-x-1>
+<17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}asau} \getsiglum {N3,C6,Gr2,N19,J11,V1,J10,Jyo}\ekdsep </17-x-1>
 <17-x-1>{\selectlanguage {english}asam} \getsiglum {C7}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}ayaṃ} \getsiglum {V19,K3}</17-x-1>
 <17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V3}</17-x-1>
 <17-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.61d}~}{\bfseries \selectlanguage {english}kesarī} \getsiglum {ceteri}\ekdsep </17-x-1>
-<17-x-1>{\selectlanguage {english}\om } \getsiglum {V3}</17-x-1>
+<17-x-1>{\selectlanguage {english}khecarī} \getsiglum {J11}</17-x-1>
+<17-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V3}</17-x-1>
 <18-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.62a}~}{\bfseries \selectlanguage {english}uḍḍiyānaṃ} \getsiglum {Gr2,V19,J10}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}uḍḍiyāṇaṃ} \getsiglum {V1}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyānaṃ} \getsiglum {K3,C7,Jyo}</18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyānaṃ} \getsiglum {K3,C7,J11,Jyo}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇaṃ} \getsiglum {N3,N19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}uḍiyānaṃ} \getsiglum {C6}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāṇaṃ} \getsiglum {V3}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}uḍāyāṇaṃ} \getsiglum {J14}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sahajaṃ} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}yaḥ sahate} \getsiglum {J7}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.62b}~}{\bfseries \selectlanguage {english}guruṇā} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}gurūṇāṃ} \getsiglum {V3}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sadā} \getsiglum {N3,C6,V3,N19,V1,J10,Jyo}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}yathā} \getsiglum {Gr2,Gr3a,J14}</18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sadā} \getsiglum {N3,C6,V3,N19,J11,V1,J10,Jyo}\ekdsep </18-x-1>
+<18-x-1>{\selectlanguage {english}yathā} \getsiglum {Gr2,Gr3a}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.62c}~}{\bfseries \selectlanguage {english}abhyased/-set} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}abhyāsen} \getsiglum {N23}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}abhyāsāt} \getsiglum {V3}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}abhyāsa°} \getsiglum {C6}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}astatandras tu} \textless \ astatadras tu \getsiglum {N3}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}astatandras tu} \texteng {\textless \ °tadras tu} \getsiglum {N3,J5}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}asya taṃtrasya} \getsiglum {N19}</18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}asya taṃtraṃ tu} \getsiglum {J11}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}tad atandras tu} \getsiglum {J7,Gr3a}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}na taṃdras tu} \getsiglum {N23}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}°taḥ svatantras tu} \getsiglum {C6}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}yo hy atandras} \getsiglum {V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}satataṃ yas tu} \getsiglum {V3,J10,Jyo}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}aniśaṃ yogī} \getsiglum {J14}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.62d}~}{\bfseries \selectlanguage {english}vṛddho} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}vṛddhā} \getsiglum {N23}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}taruṇo bhavet} \getsiglum {N3,P11,V3,N19,V1,J10}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}taruṇāyate} \getsiglum {C6,Gr2,Gr3a,J14,Jyo}</18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}taruṇo bhavet} \getsiglum {N3,J5,P11,V3,N19,V1,J10}\ekdsep </18-x-1>
+<18-x-1>{\selectlanguage {english}taruṇāyate} \getsiglum {C6,Gr2,Gr3a,J11,Jyo}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.63a}~}{\bfseries \selectlanguage {english}\ante nābher \add }</18-x-1>
 <18-x-1>{\selectlanguage {english}pāṭhāntaram} \getsiglum {C6}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}nābher} \getsiglum {ceteri}\ekdsep </18-x-1>
@@ -1692,108 +1691,102 @@
 <18-x-1>{\selectlanguage {english}adho vāpi} \getsiglum {Gr3a}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}adhaḥkāya} \getsiglum {V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}avasthāpya} \getsiglum {C6}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.63b}~}{\bfseries \selectlanguage {english}tānaṃ} \getsiglum {C6,Gr2,Gr3a,J10,Jyo}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}tāṇaṃ} \getsiglum {N3,P11,V3,N19,J14,V1}</18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.63b}~}{\bfseries \selectlanguage {english}tānaṃ} \getsiglum {C6,Gr2,Gr3a,J11,J10,Jyo}\ekdsep </18-x-1>
+<18-x-1>{\selectlanguage {english}tāṇaṃ} \getsiglum {N3,P11,V3,N19,V1}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}prayatnataḥ} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}ca yatnataḥ} \getsiglum {J10}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.63c}~}{\bfseries \selectlanguage {english}ṣaṇmāsam} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}yogī sam°} \getsiglum {V1,J10}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}abhyasan} \getsiglum {N3,P11,Gr2,J10}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}abhyasen} \getsiglum {V3,K3,C7,N19,J14,V1,Jyo}</18-x-1>
+<18-x-1>{\selectlanguage {english}abhyasen} \getsiglum {V3,K3,C7,N19,J11,V1,Jyo}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}abhyaseni} \getsiglum {V19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}ca samabhyān} \getsiglum {C6}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.63d}~}{\bfseries \selectlanguage {english}jayaty eva na saṃśayaḥ} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}mūlaṃ jayaty asaṃśayaḥ} \getsiglum {C6}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}jayati nātra vicāraṇā} \getsiglum {J14}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.64a}~}{\bfseries \selectlanguage {english}vajrāsane} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}vajrāsanau} \getsiglum {N23}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}vajrāsanaṃ} \getsiglum {N3}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.64b}~}{\bfseries \selectlanguage {english}karābhyāṃ dhārayed dṛḍham} (dhārayad \getsiglum {J10}) \getsiglum {ceteri}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.64b}~}{\bfseries \selectlanguage {english}karābhyāṃ dhārayed dṛḍham} \texteng {(dhārayad \getsiglum {J10})} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}karābhyā dhārayaṃ dṛḍhaṃ} \getsiglum {V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}karābhyāṃ kāraye dṛḍhaṃ} \getsiglum {N3}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}karā\,\_\,sandhāraye dṛḍhe} \getsiglum {N23}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.64c}~}{\bfseries \selectlanguage {english}deśa} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}deśe} \getsiglum {N19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}deśaṃ} \getsiglum {N3}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}samīpe ca} \getsiglum {N3,C6,V3,Gr2,J14,V1,J10,Jyo}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}samīpe ca} \getsiglum {N3,C6,V3,Gr2,J11,V1,J10,Jyo}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}samīpaṃ ca} \getsiglum {K3,C7,N19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}samīpaṃ tu} \getsiglum {V19}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.64d}~}{\bfseries \selectlanguage {english}kandaṃ} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}kaṃdhaṃ} \getsiglum {V19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}skandaṃ} \getsiglum {C7}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}gudaṃ} \getsiglum {J14}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tatra} \getsiglum {C6,Gr2,Gr3a,N19,J14,Jyo}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tatra} \getsiglum {C6,Gr2,Gr3a,N19,J11,Jyo}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}tacca} \getsiglum {V3,J10}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}tava} \getsiglum {N3}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}tasya} \getsiglum {V1}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}prapīḍayet} \getsiglum {C6,Gr2,Gr3a,N19,J14,Jyo}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}prapīḍayet} \getsiglum {C6,Gr2,Gr3a,N19,J11,Jyo}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}prapīḍyate} \getsiglum {N3,V3,V1,J10}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.65a}~}{\bfseries \selectlanguage {english}paścimaṃ tānam} \getsiglum {ceteri}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}paścimaṃ tāṇam} \getsiglum {P11,J14,V1}</18-x-1>
+<18-x-1>{\selectlanguage {english}paścimaṃ tāṇam} \getsiglum {P11,V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}paścimatāṇam} \getsiglum {N3,V3}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}udare} \getsiglum {N3,C6,V3,J7,Gr3a,J14}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}udare} \getsiglum {N3,C6,V3,J7,Gr3a,J11}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}udara} \getsiglum {N23}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}udaraṃ} \getsiglum {N19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}upari} \getsiglum {V1,J10}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.65b}~}{\bfseries \selectlanguage {english}kārayed} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}pīḍayed} \getsiglum {J10}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dhṛdaye {\crux }gale\crux } \getsiglum {N3,C6,V3,J7,V1,J10}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dhṛdaye {\crux }gale\crux } \getsiglum {N3,C6,V3,J7,J11,V1,J10}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}dhṛdaye gataiḥ} \getsiglum {N23}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}udare hṛdi} \getsiglum {V19}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}cibukaṃ hṛdi} \getsiglum {C7,J14}</18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}cibukaṃ hṛdi} \getsiglum {C7}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}cibukaṃ hṛdā} \getsiglum {K3}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}vṛddhidaṃ śanaiḥ} \getsiglum {N19}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.65c}~}{\bfseries \selectlanguage {english}śanair yathā} \getsiglum {ceteri}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}śanair yataḥ} \getsiglum {J14}</18-x-1>
+<18-x-1>{\selectlanguage {english}śanair [yato]} \getsiglum {J11}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N23}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}prāṇas} \getsiglum {N3,V3,Gr3a,V1}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}prāṇaḥ} \getsiglum {J14}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}prāṇās} \getsiglum {Gr2}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}prāṇaṃ} \getsiglum {C6,N19}</18-x-1>
+<18-x-1>{\selectlanguage {english}prāṇās} \getsiglum {Gr2}</18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}prāṇaṃ} \getsiglum {C6,N19,J11}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}prāṇo} \getsiglum {J10}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.65d}~}{\bfseries \selectlanguage {english}tunda} \getsiglum {N3,C6,J7,V19,K3,N19}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}tuda} \getsiglum {V3,V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}taṃda} \getsiglum {N23}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}tadā} \getsiglum {C7}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}nāḍī} \getsiglum {J10}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}skaṃda} \getsiglum {J14}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saṃdhiṃ} \getsiglum {N3,P11,Gr2,V19,C7,J14,V1}\ekdsep </18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}ūrddhva} \getsiglum {J11}</18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saṃdhiṃ} \getsiglum {N3,P11,Gr2,V19,C7,J11,V1}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}saṃdhi} \getsiglum {V3,N19,J10}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}siṃddhiṃ} \getsiglum {K3}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}siddhiṃ} \getsiglum {C6}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}na} \getsiglum {N3,C6,V3,Gr2,N19,V1}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}na} \getsiglum {N3,C6,V3,Gr2,N19,J11,V1}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}ca} \getsiglum {Gr3a}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}ni°} \getsiglum {J10}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}nir°} \getsiglum {J14}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.66b}~}{\bfseries \selectlanguage {english}uttamo} \getsiglum {ceteri}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}uttamas} \getsiglum {J14}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}uttamaṃ} \getsiglum {N19}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}hy uḍḍiyānakaḥ} \getsiglum {Gr2,Gr3a,J10,Jyo}\ekdsep </18-x-1>
+<18-x-1>{\selectlanguage {english}uttamaṃ} \getsiglum {N19}</18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}hy uḍḍiyānakaḥ} \getsiglum {Gr2,Gr3a,J11,J10,Jyo}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}hy uḍḍiyāṇakaḥ} \getsiglum {V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}hy uḍḍīyāṇakaḥ} \getsiglum {N3}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}hy uḍḍīyāṇakaṃ} \getsiglum {N19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}hy uḍiyānakaḥ} \getsiglum {C6}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}hy uḍiyāṇakaḥ} \getsiglum {V3}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}tūḍiyānakaḥ} \getsiglum {J14}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.66c}~}{\bfseries \selectlanguage {english}uḍḍiyāne} \getsiglum {Gr2,V19,J10,Jyo}\ekdsep </18-x-1>
-<18-x-1>{\selectlanguage {english}uḍḍīyāne} \getsiglum {K3,C7}</18-x-1>
+<18-x-1>{\selectlanguage {english}uḍḍīyāne} \getsiglum {K3,C7,J11}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}uḍḍīyāṇe} \getsiglum {N3,N19}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}uḍḍiyāṇe} \getsiglum {V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāne} \getsiglum {C6}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāṇe} \getsiglum {V3,J14}</18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}uḍiyāṇe} \getsiglum {V3}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dṛḍhe} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}kṛte} \getsiglum {Gr2,Gr3a}</18-x-1>
 <18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bandhe} \getsiglum {ceteri}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}baddhe} \getsiglum {C6}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.66d}~}{\bfseries \selectlanguage {english}muktiḥ} \getsiglum {N3,P11,V3,N19,J10,Jyo}\ekdsep </18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.66d}~}{\bfseries \selectlanguage {english}muktiḥ} \getsiglum {N3,P11,V3,N19,J11,J10,Jyo}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}muktiṃ} \getsiglum {V1}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}mūlaṃ} \getsiglum {C6,Gr2,Gr3a,J14}</18-x-1>
-<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}svābhāvikī} \getsiglum {N3,P11,V3,N19,Jyo}\ekdsep </18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}mūlaṃ} \getsiglum {C6,Gr2,Gr3a}</18-x-1>
+<18-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}svābhāvikī} \getsiglum {N3,P11,V3,N19,J11,Jyo}\ekdsep </18-x-1>
 <18-x-1>{\selectlanguage {english}svābhāvakī} \getsiglum {J10}</18-x-1>
-<18-x-1>\ekdsubsep {\selectlanguage {english}svābhāvikaṃ} \getsiglum {C6,Gr3a,J14,V1}</18-x-1>
+<18-x-1>\ekdsubsep {\selectlanguage {english}svābhāvikaṃ} \getsiglum {C6,Gr3a,V1}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}svabhāvikaṃ} \getsiglum {J7}</18-x-1>
 <18-x-1>\ekdsubsep {\selectlanguage {english}bhāvikaṃ} \getsiglum {N23}</18-x-1>
-<19-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.67}~}{\bfseries \selectlanguage {english}atha jālandharabandhaḥ} \getsiglum {C6,C7,J14,V1,J10,Jyo}\ekdsep </19-x-1>
+<19-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.67}~}{\bfseries \selectlanguage {english}atha jālandharabandhaḥ} \getsiglum {C6,C7,J11,V1,J10,Jyo}\ekdsep </19-x-1>
 <19-x-1>{\selectlanguage {english}jālandharabandhaḥ} \getsiglum {J7,K3}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}atha nāśaṃdharabandhaḥ} \getsiglum {N23}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}atha jālaṃdharībaṃdhaḥ} \getsiglum {N19}</19-x-1>
@@ -1812,14 +1805,14 @@
 <19-x-1>\ekdsubsep {\selectlanguage {english}amṛtākṣayakārakaḥ} \getsiglum {V19}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}amṛtakṣayakārakaḥ} \getsiglum {C7}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}amṛtākṣarakārakaḥ} \getsiglum {K3}</19-x-1>
-<19-x-1>\ekdsubsep {\selectlanguage {english}mṛtyor mṛtyuḥ paro mataḥ} (mṛtaḥ \getsiglum {N23})  \getsiglum {Gr2}</19-x-1>
+<19-x-1>\ekdsubsep {\selectlanguage {english}mṛtyor mṛtyuḥ paro mataḥ} \texteng {(mṛtaḥ \getsiglum {N23})}  \getsiglum {Gr2}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}mṛtyumātaṃgakesarī} \getsiglum {C6}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}jarāmṛtyuvināśakaḥ} \getsiglum {V1,J10,Jyo}</19-x-1>
 <19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.68a}~}{\bfseries \selectlanguage {english}badhnāti hi} \getsiglum {N3,C6,V3,N19,V15,V1,J10,Jyo}\ekdsep </19-x-1>
 <19-x-1>{\selectlanguage {english}badhnāti ha} \getsiglum {N23}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}badhnātīha} \getsiglum {Gr3a}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}badhnātīhṛ} \getsiglum {J7}</19-x-1>
-<19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}śirā} (sirā \getsiglum {Jyo}) \getsiglum {C6,J7,V19,J10,Jyo}\ekdsep </19-x-1>
+<19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}śirā} \texteng {(sirā \getsiglum {Jyo})} \getsiglum {C6,J7,V19,J10,Jyo}\ekdsep </19-x-1>
 <19-x-1>{\selectlanguage {english}śiro} \getsiglum {V3,N23,K3,C7,N19,V15,V1}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}śilā} \getsiglum {N3}</19-x-1>
 <19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}jālam} \getsiglum {ceteri}\ekdsep </19-x-1>
@@ -1839,7 +1832,7 @@
 <19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.70a}~}{\bfseries \selectlanguage {english}saṃkocanenaiva} \getsiglum {ceteri}\ekdsep </19-x-1>
 <19-x-1>{\selectlanguage {english}saṃkocane dehe} \getsiglum {V1}</19-x-1>
 <19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.70b}~}{\bfseries \selectlanguage {english}dve nāḍyau} \getsiglum {N3,P11,J7,Gr3a,V15,J10,Jyo}\ekdsep </19-x-1>
-<19-x-1>{\selectlanguage {english}dvau nāḍyau} \getsiglum {N19} \getsiglum {J7}\postcorr </19-x-1>
+<19-x-1>{\selectlanguage {english}dvau nāḍyau} \getsiglum {N19} \texteng {\getsiglum {J7}\postcorr }</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}dvināḍyau} \getsiglum {C6}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}\_\,nā\,\_} \getsiglum {N23}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}nāḍyau ca} \getsiglum {V1}</19-x-1>
@@ -1847,7 +1840,7 @@
 <19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}stambhayed} \getsiglum {N3,C6,V15,V1,J10,Jyo}\ekdsep </19-x-1>
 <19-x-1>{\selectlanguage {english}stambhite} \getsiglum {Gr2,Gr3a,N19}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}\gap } \getsiglum {V3}</19-x-1>
-<19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dṛḍhaṃ} \getsiglum {N3,V1,J10,Jyo}\ekdsep </19-x-1>
+<19-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dṛḍhaṃ} \getsiglum {N3,J5,V1,J10,Jyo}\ekdsep </19-x-1>
 <19-x-1>{\selectlanguage {english}dhruvam} \getsiglum {P11,Gr2,V19,C7,N19}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}dhruve} \getsiglum {K3}</19-x-1>
 <19-x-1>\ekdsubsep {\selectlanguage {english}dhṛvaṃ} \getsiglum {V15}</19-x-1>
@@ -1895,7 +1888,7 @@
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}baddhvā} \getsiglum {ceteri}\ekdsep </20-x-1>
 <20-x-1>{\selectlanguage {english}baddhā} \getsiglum {N19}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {J10}</20-x-1>
-<20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.73d}~}{\bfseries \selectlanguage {english}paścimaṃ} \getsiglum {C6,Gr2,Gr3a,N19,V1}\ekdsep </20-x-1>
+<20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.73d}~}{\bfseries \selectlanguage {english}paścimaṃ} \getsiglum {J5,C6,Gr2,Gr3a,N19,V1}\ekdsep </20-x-1>
 <20-x-1>{\selectlanguage {english}paścimāṃ} \getsiglum {V3}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}paścimā} \getsiglum {N3,V15}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {J10}</20-x-1>
@@ -1906,26 +1899,27 @@
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.74a}~}{\bfseries \selectlanguage {english}anenaiva vidhānena} \getsiglum {ceteri}\ekdsep </20-x-1>
 <20-x-1>{\selectlanguage {english}brahmasthānasthito rodhaḥ} \getsiglum {J10}</20-x-1>
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.74b}~}{\bfseries \selectlanguage {english}prayāti} \getsiglum {Gr2,V15,V1,J10,Jyo}\ekdsep </20-x-1>
-<20-x-1>{\selectlanguage {english}sevayet} \getsiglum {N3,C6,V3,V19,C7}</20-x-1>
+<20-x-1>{\selectlanguage {english}sevayet} \getsiglum {N3,J5,C6,V3,V19,C7}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}[s]e[vay]e[t]} \getsiglum {K3}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}vaśayet} \getsiglum {N19}</20-x-1>
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}pavano layam} \getsiglum {V3,J7,V15,V1,J10,Jyo}\ekdsep </20-x-1>
 <20-x-1>{\selectlanguage {english}pavano lagaṃ} \getsiglum {N23}</20-x-1>
-<20-x-1>\ekdsubsep {\selectlanguage {english}pavanālayam} \getsiglum {N3,C6,K3,N19}</20-x-1>
+<20-x-1>\ekdsubsep {\selectlanguage {english}pavanālayam} \getsiglum {N3,J5,C6,K3,N19}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}pavanānalam} \getsiglum {C7}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}paścimānalaṃ} \getsiglum {V19}</20-x-1>
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.74c}~}{\bfseries \selectlanguage {english}mṛtyur} \getsiglum {N3,C6,V3,J7,C7,N19,V15,V1,J10,Jyo}\ekdsep </20-x-1>
 <20-x-1>{\selectlanguage {english}mṛtyu} \getsiglum {V19,K3}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}mṛtyuṃ} \getsiglum {N23}</20-x-1>
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.74d}~}{\bfseries \selectlanguage {english}jarārogādikaṃ} \getsiglum {Gr2,K3,C7,N19,V1,Jyo}\ekdsep </20-x-1>
-<20-x-1>{\selectlanguage {english}jarārogādikas} \getsiglum {N3}</20-x-1>
-<20-x-1>\ekdsubsep {\selectlanguage {english}jarārogādi kā} \getsiglum {C6,V3}</20-x-1>
+<20-x-1>{\selectlanguage {english}jarārogādikā} \getsiglum {J5,C6,V3}</20-x-1>
+<20-x-1>\ekdsubsep {\selectlanguage {english}jarārogādikas} \getsiglum {N3}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}jarāmohādikaṃ} \getsiglum {V15}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}jvaro rogādikas} \getsiglum {V19}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}nāsya jarādikaṃ} \getsiglum {J10}</20-x-1>
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tathā} \getsiglum {ceteri}\ekdsep </20-x-1>
-<20-x-1>{\selectlanguage {english}tadā} \getsiglum {N3}</20-x-1>
+<20-x-1>{\selectlanguage {english}vyathā} \getsiglum {J5}</20-x-1>
 <20-x-1>\ekdsubsep {\selectlanguage {english}kathā} \getsiglum {C6,V3}</20-x-1>
+<20-x-1>\ekdsubsep {\selectlanguage {english}tadā} \getsiglum {N3}</20-x-1>
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.75}~}{\bfseries \selectlanguage {english}atha} \getsiglum {N3,C6,V3,N23,C7,N19,V15,V1,J10}\ekdsep </20-x-1>
 <20-x-1>{\selectlanguage {english}\om } \getsiglum {J7,Gr3a,Jyo}</20-x-1>
 <20-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}viparītakaraṇī} \getsiglum {C6,V3,Gr2,K3,V15,V1,J10}\ekdsep </20-x-1>
@@ -2078,12 +2072,10 @@
 <21-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}asādhāraṇa} \getsiglum {K3}\ekdsep </21-x-1>
 <21-x-1>{\selectlanguage {english}asādhāraṇaṃ} \getsiglum {V19}</21-x-1>
 <21-x-1>\ekdsubsep {\selectlanguage {english}asāraṇa} \getsiglum {C7}</21-x-1>
-<22-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.82}~}{\bfseries \selectlanguage {english}atha vajrolī} \getsiglum {ceteri}\ekdsep </22-x-1>
-<22-x-1>{\selectlanguage {english}read after \emph {vinā} of the next line} \getsiglum {C6,J10}</22-x-1>
-<22-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.82b}~}{\bfseries \selectlanguage {english}yogoktair} \getsiglum {C6,V3,J7,V19,V1,J10,Jyo}\ekdsep </22-x-1>
+<22-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.82b}~}{\bfseries \selectlanguage {english}yogoktair} \getsiglum {C6,V3,J7,V19,V1,J10,Jyo}\ekdsep </22-x-1>
 <22-x-1>{\selectlanguage {english}yogokair} \getsiglum {N23}</22-x-1>
 <22-x-1>\ekdsubsep {\selectlanguage {english}yogoktar} \getsiglum {N19}</22-x-1>
-<22-x-1>\ekdsubsep {\selectlanguage {english}yogokta} \getsiglum {V15}</22-x-1>
+<22-x-1>\ekdsubsep {\selectlanguage {english}yogokta} \getsiglum {J5,V15}</22-x-1>
 <22-x-1>\ekdsubsep {\selectlanguage {english}yogoktaṃ} \getsiglum {N3}</22-x-1>
 <22-x-1>\ekdsubsep {\selectlanguage {english}niyamair} \getsiglum {C7}</22-x-1>
 <22-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}niyamair vinā} \getsiglum {ceteri}\ekdsep </22-x-1>
@@ -2153,7 +2145,7 @@
 <22-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}prakurvīta} \getsiglum {ceteri}\ekdsep </22-x-1>
 <22-x-1>{\selectlanguage {english}prakurvaṃti} \getsiglum {C6,J10}</22-x-1>
 <22-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.86a}~}{\bfseries \selectlanguage {english}nāryā} \getsiglum {C6,Gr2,V19,C7,N19,V15}\ekdsep </22-x-1>
-<22-x-1>{\selectlanguage {english}nārī} \getsiglum {Jyo}</22-x-1>
+<22-x-1>{\selectlanguage {english}nārī} \getsiglum {J5,Jyo}</22-x-1>
 <22-x-1>\ekdsubsep {\selectlanguage {english}māryā} \getsiglum {N3}</22-x-1>
 <22-x-1>\ekdsubsep {\selectlanguage {english}bhāryā} \getsiglum {V3,V1,J10}</22-x-1>
 <22-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhage} \getsiglum {ceteri}\ekdsep </22-x-1>
@@ -2276,7 +2268,7 @@
 <23-x-1>\ekdsubsep {\selectlanguage {english}darśinām} \getsiglum {J10,Jyo}</23-x-1>
 <23-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.91c}~}{\bfseries \selectlanguage {english}sidhyeta} \getsiglum {P11,V3,N23,V19,N19,V15,V1}\ekdsep </23-x-1>
 <23-x-1>{\selectlanguage {english}siddheta} \getsiglum {J7}</23-x-1>
-<23-x-1>\ekdsubsep {\selectlanguage {english}vai sidhyen} (but sidhyeta in mss?)  \getsiglum {Jyo}</23-x-1>
+<23-x-1>\ekdsubsep {\selectlanguage {english}vai sidhyen} \texteng {(but sidhyeta in mss?)}  \getsiglum {Jyo}</23-x-1>
 <23-x-1>\ekdsubsep {\selectlanguage {english}siddhet} \getsiglum {J10}</23-x-1>
 <23-x-1>\ekdsubsep {\selectlanguage {english}siddhānāṃ} \getsiglum {C6}</23-x-1>
 <23-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.91d}~}{\bfseries \selectlanguage {english}śālinām} \getsiglum {C6,V3,Gr2,V19,V15,V1,Jyo}\ekdsep </23-x-1>
@@ -2402,7 +2394,7 @@
 <25-x-1>\ekdsubsep {\selectlanguage {english}yo} \getsiglum {J7,J10}</25-x-1>
 <25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}piben} \getsiglum {ceteri}\ekdsep </25-x-1>
 <25-x-1>{\selectlanguage {english}piban} \getsiglum {C7}</25-x-1>
-<25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.96b}~}{\bfseries \selectlanguage {english}nasyaṃ kurvan} (naśyaṃ \getsiglum {G4,N19,V15}) \getsiglum {G4,C6,V3,V19,N19,V15,Jyo}\ekdsep </25-x-1>
+<25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.96b}~}{\bfseries \selectlanguage {english}nasyaṃ kurvan} \texteng {(naśyaṃ \getsiglum {G4,N19,V15})} \getsiglum {G4,C6,V3,V19,N19,V15,Jyo}\ekdsep </25-x-1>
 <25-x-1>{\selectlanguage {english}na saṃkurvan} \getsiglum {C7}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}nasyaṃ kuryād} \getsiglum {J5,V1}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}tasya kuryā} \getsiglum {J7}</25-x-1>
@@ -2411,7 +2403,7 @@
 <25-x-1>{\selectlanguage {english}vajrolī cā} \getsiglum {V3,N19,V15,V1}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}vajrolīm a} \getsiglum {J7,J10,Jyo}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}vajrolī ka} \getsiglum {C6}</25-x-1>
-<25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhyaset seyam} \getsiglum {V3}\ekdsep </25-x-1>
+<25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}°bhyaset seyam} \getsiglum {V3}\ekdsep </25-x-1>
 <25-x-1>{\selectlanguage {english}bhyasec ceyam} \getsiglum {V19,C7,V15}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}bhyasec ceya} \getsiglum {N19}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}bhyasen nityaṃ} \getsiglum {V1}</25-x-1>
@@ -2441,7 +2433,7 @@
 <25-x-1>\ekdsubsep {\selectlanguage {english}vajrolī} \getsiglum {C6}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}vajroḷi} \getsiglum {V15}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}saṃyoge} \getsiglum {J10}</25-x-1>
-<25-x-1>\ekdsubsep {\selectlanguage {english}\om } (\ref {III97}d--\ref {III101}a om. prob. by eye-skip)  \getsiglum {N23}</25-x-1>
+<25-x-1>\ekdsubsep {\selectlanguage {english}\om } \texteng {(\ref {III97}d--\ref {III101}a om. prob. by eye-skip)}  \getsiglum {N23}</25-x-1>
 <25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}sā hi} \getsiglum {V3}\ekdsep </25-x-1>
 <25-x-1>{\selectlanguage {english}saha} \getsiglum {C6,J7,N19}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}sāpi} \getsiglum {V19,V15,V1,Jyo}</25-x-1>
@@ -2490,7 +2482,7 @@
 <25-x-1>\ekdsubsep {\selectlanguage {english}prayacchataḥ} \getsiglum {Jyo}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}prayacchati} \getsiglum {C6}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N23}</25-x-1>
-<25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.100a}~}{\bfseries \selectlanguage {english}rakṣed ākuñcanenordhvaṃ} \getsiglum {Gr1r} (rakṣed ākuṃbhanonordhaṃ \getsiglum {J5}, rakṣaṇe kuṃcanenorddhva \getsiglum {N24}, \textit {damaged} \getsiglum {G4})\ekdsep </25-x-1>
+<25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.100a}~}{\bfseries \selectlanguage {english}rakṣed ākuñcanenordhvaṃ} \getsiglum {Gr1r} \texteng {(rakṣed ākuṃbhanonordhaṃ \getsiglum {J5}, rakṣaṇe kuṃcanenorddhva \getsiglum {N24}, \textit {damaged} \getsiglum {G4})}\ekdsep </25-x-1>
 <25-x-1>{\selectlanguage {english}rakṣed ākuñcanād ūrdhvaṃ} \getsiglum {Jyo}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}mehenākuñcanād ūrdhvaṃ} \getsiglum {J7}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}meḍhrām ākuṃcanād ūrdhvaṃ } \getsiglum {J10}</25-x-1>
@@ -2503,7 +2495,7 @@
 <25-x-1>\ekdsubsep {\selectlanguage {english}atītānāṃ gatiṃ} \getsiglum {N19}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N23}</25-x-1>
 <25-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.100d}~}{\bfseries \selectlanguage {english}khecarī ca} \getsiglum {ceteri}\ekdsep </25-x-1>
-<25-x-1>{\selectlanguage {english}khecarī} (one syllable missing)  \getsiglum {V19}</25-x-1>
+<25-x-1>{\selectlanguage {english}khecarī} \texteng {(one syllable missing)}  \getsiglum {V19}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}khecarīṃ la°} \getsiglum {C7}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}khecaraś ca} \getsiglum {J10}</25-x-1>
 <25-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {N23}</25-x-1>
@@ -2533,7 +2525,7 @@
 <26-x-1>{\selectlanguage {english}bhoga} \getsiglum {C6,C7,N19,V15,V1}</26-x-1>
 <26-x-1>\ekdsubsep {\selectlanguage {english}yoga} \getsiglum {V19}</26-x-1>
 <26-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}bhukte} \getsiglum {emend}\ekdsep </26-x-1>
-<26-x-1>{\selectlanguage {english}bhukti} \getsiglum {V3} \getsiglum {V19}\postcorr ?</26-x-1>
+<26-x-1>{\selectlanguage {english}bhukti} \getsiglum {V3} \texteng {\getsiglum {V19}\postcorr ?}</26-x-1>
 <26-x-1>\ekdsubsep {\selectlanguage {english}mukte} \getsiglum {N19}</26-x-1>
 <26-x-1>\ekdsubsep {\selectlanguage {english}mukti} \getsiglum {V19,C7,V1,J10}</26-x-1>
 <26-x-1>\ekdsubsep {\selectlanguage {english}yukto} \getsiglum {V15}</26-x-1>
@@ -2597,7 +2589,7 @@
 <26-x-1>\ekdsubsep {\selectlanguage {english}nadvāraṃ} \getsiglum {V19}</26-x-1>
 <26-x-1>\ekdsubsep {\selectlanguage {english}tedvāraṃ} \getsiglum {K3}</26-x-1>
 <27-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.105a}~}{\bfseries \selectlanguage {english}kandordhvaṃ} \getsiglum {Gr2,N19,V15}\ekdsep </27-x-1>
-<27-x-1>{\selectlanguage {english}kandordhve} (kandho° \getsiglum {V19}\antecorr )  \getsiglum {V19,C7,V1,J10,Jyo}</27-x-1>
+<27-x-1>{\selectlanguage {english}kandordhve} \texteng {(kandho° \getsiglum {V19}\antecorr )}  \getsiglum {V19,C7,V1,J10,Jyo}</27-x-1>
 <27-x-1>\ekdsubsep {\selectlanguage {english}kandorddha} \getsiglum {V3}</27-x-1>
 <27-x-1>\ekdsubsep {\selectlanguage {english}kaṃṭhorddhaṃ} \getsiglum {C6}</27-x-1>
 <27-x-1>\ekdsubsep {\selectlanguage {english}kuṇḍovvo} \getsiglum {K3}</27-x-1>
@@ -2679,7 +2671,7 @@
 <28-x-1>\ekdsubsep {\selectlanguage {english}pṛṣṭisthitasyaiva} \getsiglum {V3}</28-x-1>
 <28-x-1>\ekdsubsep {\selectlanguage {english}avasthitasya} \getsiglum {J10}</28-x-1>
 <28-x-1>\ekdsubsep {\selectlanguage {english}avasthitā caiva} \getsiglum {Jyo}</28-x-1>
-<28-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}phaṇāvatī sā} (kaṇā° \getsiglum {N23}) \getsiglum {ceteri}\ekdsep </28-x-1>
+<28-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}phaṇāvatī sā} \texteng {(kaṇā° \getsiglum {N23})} \getsiglum {ceteri}\ekdsep </28-x-1>
 <28-x-1>{\selectlanguage {english}phaṇāvatīva sā} \getsiglum {C7}</28-x-1>
 <28-x-1>\ekdsubsep {\selectlanguage {english}phaṇāryayāṃtīyaṃ} \getsiglum {J10}</28-x-1>
 <28-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.110b}~}{\bfseries \selectlanguage {english}prātaś ca sāyaṃ} \getsiglum {ceteri}\ekdsep </28-x-1>
@@ -2736,7 +2728,7 @@
 <28-x-1>{\selectlanguage {english}ca} \getsiglum {V15,J10,Jyo}</28-x-1>
 <28-x-1>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {V1}</28-x-1>
 <28-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.112c}~}{\bfseries \selectlanguage {english}\ante kuryād \add }</28-x-1>
-<28-x-1>{\selectlanguage {english}sūryabhedāt} \getsiglum {N23,K3,C7} (as header \getsiglum {C7})</28-x-1>
+<28-x-1>{\selectlanguage {english}sūryabhedāt} \getsiglum {N23,K3,C7} \texteng {(as header \getsiglum {C7})}</28-x-1>
 <28-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}kuryād} \getsiglum {C6,V3,V1,J10,Jyo}\ekdsep </28-x-1>
 <28-x-1>{\selectlanguage {english}sūryād} \getsiglum {Gr2,V19,C7,N19,V15}</28-x-1>
 <28-x-1>\ekdsubsep {\selectlanguage {english}tathā} \getsiglum {K3}</28-x-1>
@@ -2785,7 +2777,7 @@
 <29-x-1>\ekdsubsep {\selectlanguage {english}'tidīrghīkṛteś} \getsiglum {J7}</29-x-1>
 <29-x-1>\ekdsubsep {\selectlanguage {english}tidīrghākṛtiś} \getsiglum {N19,J10}</29-x-1>
 <29-x-1>\ekdsubsep {\selectlanguage {english}tidīrghākṛtaś} \getsiglum {N23}</29-x-1>
-<29-x-1>\ekdsubsep {\selectlanguage {english}tirghīkṛtiś} (°kṛtaś \emph {pc}?)  \getsiglum {V19}</29-x-1>
+<29-x-1>\ekdsubsep {\selectlanguage {english}tirghīkṛtiś} \texteng {(°kṛtaś \emph {pc}?)}  \getsiglum {V19}</29-x-1>
 <29-x-1>\ekdsubsep {\selectlanguage {english}na dīrghīkṛtaḥ} \getsiglum {C6}</29-x-1>
 <29-x-1>\ekdsubsep {\selectlanguage {english}ca dīrghīkṛtaś} \getsiglum {C7}</29-x-1>
 <29-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.114b}~}{\bfseries \selectlanguage {english}candrāmbhaḥ} \getsiglum {C6,V15,V1,J10}\ekdsep </29-x-1>
@@ -2953,7 +2945,7 @@
 <30-x-1>{\selectlanguage {english}hitamitāśanaḥ} \getsiglum {V3,N23,V19,N19}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}hitamitāśanaṃ} \getsiglum {C6}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}hitamitāśanaiḥ} \getsiglum {V15}</30-x-1>
-<30-x-1>\ekdsubsep {\selectlanguage {english}mitahitāśinaḥ} (°śanaḥ \getsiglum {K3}\postcorr )  \getsiglum {K3,J10}</30-x-1>
+<30-x-1>\ekdsubsep {\selectlanguage {english}mitahitāśinaḥ} \texteng {(°śanaḥ \getsiglum {K3}\postcorr )}  \getsiglum {K3,J10}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}\illeg } \getsiglum {V1}</30-x-1>
 <30-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.121c}~}{\bfseries \selectlanguage {english}maṇḍalād} \getsiglum {C6,J7,K3,C7,N19,V15,Jyo}\ekdsep </30-x-1>
 <30-x-1>{\selectlanguage {english}maṃḍalā} \getsiglum {V3,N23,J10}</30-x-1>
@@ -2990,15 +2982,15 @@
 <30-x-1>\ekdsubsep {\selectlanguage {english}tad dhārayed} \getsiglum {N3}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}tāṃ dhārayed} \getsiglum {J10}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}dhārayed} \getsiglum {Jyo}</30-x-1>
-<30-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tūttamāṃge} \getsiglum {C6,V3,N19,V15}\ekdsep </30-x-1>
+<30-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}tūttamāṅge} \getsiglum {C6,V3,N19,V15}\ekdsep </30-x-1>
 <30-x-1>{\selectlanguage {english}cottamāṅge} \getsiglum {J7}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}cottamāṃga} \getsiglum {N23}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}uttamāṅge} \getsiglum {N3,J10}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}uttamāṅgeṣu} \getsiglum {Jyo}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}\illeg } \getsiglum {V1}</30-x-1>
 <30-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.122d}~}{\bfseries \selectlanguage {english}divya} \getsiglum {ceteri}\ekdsep </30-x-1>
-<30-x-1>{\selectlanguage {english}dīrgha} \getsiglum {C6,V3}</30-x-1>
-<30-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dṛṣṭipradāyakaṃ} \getsiglum {N3,C6,V3,N19,V15,V1}\ekdsep </30-x-1>
+<30-x-1>{\selectlanguage {english}dīrgha} \getsiglum {G4,C6,V3}</30-x-1>
+<30-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dṛṣṭipradāyakam} \getsiglum {N3,C6,V3,N19,V15,V1}\ekdsep </30-x-1>
 <30-x-1>{\selectlanguage {english}dṛṣṭipradāyinī} \getsiglum {Gr2}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}dṛṣṭipradāyinīṃ} \getsiglum {J10}</30-x-1>
 <30-x-1>\ekdsubsep {\selectlanguage {english}dṛṣṭiḥ prajāyate} \getsiglum {V1}</30-x-1>
@@ -3037,7 +3029,7 @@
 <31-x-1>{\selectlanguage {english}siddhānām} \getsiglum {V15,V1,J10}</31-x-1>
 <31-x-1>\ekdsubsep {\selectlanguage {english}siddhīnām} \getsiglum {C6,V3}</31-x-1>
 <31-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.124d}~}{\bfseries \selectlanguage {english}mahāsiddhipradāyinī} \getsiglum {N3,Gr2,Gr3a,N19,Jyo}\ekdsep </31-x-1>
-<31-x-1>{\selectlanguage {english}ekaikāpi kṣamaiva sā} \getsiglum {C6,V3,V15,V1,J10} (\getsiglum {V1} partly illegible)</31-x-1>
+<31-x-1>{\selectlanguage {english}ekaikāpi kṣamaiva sā} \getsiglum {C6,V3,V15,V1,J10} \texteng {(\getsiglum {V1} partly illegible)}</31-x-1>
 <31-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.125a}~}{\bfseries \selectlanguage {english}pṛthvī} \getsiglum {ceteri}\ekdsep </31-x-1>
 <31-x-1>{\selectlanguage {english}pṛthvīṃ} \getsiglum {J10}</31-x-1>
 <31-x-1>\ekdsubsep {\selectlanguage {english}siddhī} \getsiglum {V15}</31-x-1>
@@ -3073,7 +3065,7 @@
 <31-x-1>{\selectlanguage {english}yoginā} \getsiglum {C6}</31-x-1>
 <31-x-1>\ekdsubsep {\selectlanguage {english}yoginaṃ} \getsiglum {V3}</31-x-1>
 <31-x-1>\ekdsubsep {\selectlanguage {english}yoginaḥ} \getsiglum {J10}</31-x-1>
-<31-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.127c}~}{\bfseries \selectlanguage {english}āsana} \getsiglum {C6,V3,V19,K3,J10,Jyo}\ekdsep </31-x-1>
+<31-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.127c}~}{\bfseries \selectlanguage {english}āsana} \getsiglum {N3,C6,V3,V19,K3,J10,Jyo}\ekdsep </31-x-1>
 <31-x-1>{\selectlanguage {english}āsanaṃ} \getsiglum {Gr2,C7,N19,V15,V1}</31-x-1>
 <31-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}saṃyāma} \getsiglum {N3,N23,N19,V15,V1,Jyo}\ekdsep </31-x-1>
 <31-x-1>{\selectlanguage {english}saṃyama} \getsiglum {V3}</31-x-1>
@@ -3095,7 +3087,7 @@
 <32-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vinidrāṇāṃ} \getsiglum {ceteri}\ekdsep </32-x-1>
 <32-x-1>{\selectlanguage {english}hi mudrāṇāṃ} \getsiglum {J10}</32-x-1>
 <32-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.128b}~}{\bfseries \selectlanguage {english}rājayogaḥ} \getsiglum {Gr2,Gr3a}\ekdsep </32-x-1>
-<32-x-1>{\selectlanguage {english}rājayoga} \getsiglum {N3}</32-x-1>
+<32-x-1>{\selectlanguage {english}rājayoga} \getsiglum {N3,J5,G4}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}anuddhṛta} \getsiglum {V1}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}anuddhata} \getsiglum {V15}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}anudbhūta} \getsiglum {C6}</32-x-1>
@@ -3161,11 +3153,11 @@
 <32-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vañcanam} \getsiglum {Gr3a,Jyo}\ekdsep </32-x-1>
 <32-x-1>{\selectlanguage {english}vañcanāt} \getsiglum {Gr2}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}vañcakaḥ} \getsiglum {C6,V3,N19,V15,J10}</32-x-1>
-<32-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3.131}~}{\bfseries \selectlanguage {english}iti svātmārāma} \getsiglum {N23,V1}\ekdsep </32-x-1>
+<32-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {col}~}{\bfseries \selectlanguage {english}iti svātmārāma} \getsiglum {N23,V1}\ekdsep </32-x-1>
 <32-x-1>{\selectlanguage {english}iti śrīsvātmārāma} \getsiglum {V3}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}ti śrīsadgurusvātmārāma} \getsiglum {N3}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}ity ātmārāma} \getsiglum {J10}</32-x-1>
-<32-x-1>\ekdsubsep {\selectlanguage {english}iti śrīsahajānaṃdasaṃtānaciṃtāmaṇisvātmārāma} (ciṃtāmaṇinā \getsiglum {V15})  \getsiglum {J7,N19,V15}</32-x-1>
+<32-x-1>\ekdsubsep {\selectlanguage {english}iti śrīsahajānaṃdasaṃtānaciṃtāmaṇisvātmārāma} \texteng {(ciṃtāmaṇinā \getsiglum {V15})}  \getsiglum {J7,N19,V15}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}iti} \getsiglum {C6,Gr3a}</32-x-1>
 <32-x-1>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}yogīndra} \getsiglum {V3,Gr2,J10}\ekdsep </32-x-1>
 <32-x-1>{\selectlanguage {english}yogeṃdra} \getsiglum {N3}</32-x-1>
@@ -3183,4 +3175,4 @@
 <32-x-1>{\selectlanguage {english}tṛtīya upadeśaḥ} \getsiglum {V19}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}tṛtīyoyam upadeśaḥ} \getsiglum {K3,C7}</32-x-1>
 <32-x-1>\ekdsubsep {\selectlanguage {english}tṛtīyo dhyāyaḥ} \getsiglum {V1,J10}</32-x-1>
-<32-x-1>\ekdsubsep {\selectlanguage {english}caturthopadeśa} \getsiglum {N23} (ch. 3 ended with Vajrolī)</32-x-1>
+<32-x-1>\ekdsubsep {\selectlanguage {english}caturthopadeśa} \getsiglum {N23} \texteng (ch. 3 ended with Vajrolī)</32-x-1>

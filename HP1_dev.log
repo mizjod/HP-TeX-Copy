@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2023.1.16)  13 SEP 2023 11:16
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.5 Portable) (format=lualatex 2023.5.11)  10 OCT 2023 11:23
  restricted system commands enabled.
 **HP1_new.tex
 (./HP1_new.tex
@@ -7,11 +7,11 @@ Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
 ollection.
-luaotfload | conf : Root cache directory is "C:/Users/demoto/AppData/Local/MiKTe
-X/2.9/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "D:/miktex-portable/texmfs/data/luat
+ex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
-olved path "C:/Program Files MD/MiKTeX 2.9/tex/luatex/luaotfload/fontloader-2022
--10-03.lua".
+olved path "D:/miktex-portable/texmfs/install/tex/luatex/luaotfload/fontloader-2
+022-10-03.lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.120
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
@@ -19,8 +19,8 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "C:/Users/demoto/AppData/Local/MiKTe
-X/2.9/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "D:/miktex-portable/texmfs/data/luat
+ex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -38,12 +38,12 @@ Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'. L3 programm
-ing layer <2022-12-17>
+ing layer <2023-04-20>
 Inserting `tracingstacklevels' in `input_level_string'. (./PreambleNew.tex
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/memoir/memoir.cls"
+(D:/miktex-portable/texmfs/install/tex/latex/memoir/memoir.cls
 Document Class: memoir 2022/11/17 v3.7.19 configurable book, report, article do
 cument class
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/etoolbox/etoolbox.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count183
 )
@@ -53,7 +53,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \@memcnta=\count184
 \c@@memmarkcntra=\count185
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/iftex/iftex.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 \stockheight=\dimen139
@@ -61,10 +61,10 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \trimtop=\skip51
 \trimedge=\skip52
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/memoir/mem10.clo"
+(D:/miktex-portable/texmfs/install/tex/latex/memoir/mem10.clo
 File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
-luaotfload | db : Font names database loaded from C:/Users/demoto/AppData/Local/
-MiKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc.gz)
+luaotfload | db : Font names database loaded from D:/miktex-portable/texmfs/data
+/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \binding=\skip53
 \spinemargin=\skip54
 \foremargin=\skip55
@@ -153,8 +153,8 @@ MiKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \midPoemTitleskip=\skip114
 \afterPoemTitleskip=\skip115
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/array.sty"
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+(D:/miktex-portable/texmfs/install/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen146
 \ar@mcellbox=\box51
 \extrarowheight=\dimen147
@@ -163,13 +163,13 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \backup@length=\skip117
 \ar@cellbox=\box52
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/dcolumn.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/delarray.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/tools/delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/tools/tabularx.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen148
 \TX@old@table=\dimen149
@@ -329,7 +329,7 @@ LaTeX Info: Redefining \emph on input line 7663.
 \c@lastsheet=\count302
 \c@lastpage=\count303
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/textcase/textcase.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/textcase/textcase.sty
 Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
 )
@@ -394,38 +394,46 @@ Sidefoothsep and sidefootwidth: 7pt and 128pt
 Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/yafoot/fnpos.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/yafoot/fnpos.sty
 Package: fnpos 2018/09/03 v1.1 
 ) (./ekdosis.sty
 Package: ekdosis 2022/01/17 v1.5-dev Typesetting TEI xml-compliant critical edi
 tions
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv-opt/expkv-opt.sty"
-Package: expkv-opt 2021-04-04 v0.2 parse class and package options with expkv
+(D:/miktex-portable/texmfs/install/tex/latex/expkv-bundle/expkv-opt.sty
+Package: expkv-opt 2023-01-23 v1.0 parse class and package options with expkv
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/expkv/expkv.sty"
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv/expkv.tex"
-File: expkv.tex 2021-09-20 v1.9a an expandable key=val implementation
+(D:/miktex-portable/texmfs/install/tex/latex/expkv-bundle/expkv.sty
+(D:/miktex-portable/texmfs/install/tex/generic/expkv-bundle/expkv.tex
+File: expkv.tex 2023-01-23 v2.0 an expandable key=val implementation
 )
-Package: expkv 2021-09-20 v1.9a an expandable key=val implementation
+Package: expkv 2023-01-23 v2.0 an expandable key=val implementation
 ))
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/expkv-def/expkv-def.sty"
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv-def/expkv-def.tex"
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/expkv/expkv.tex")
-File: expkv-def.tex 2022-01-29 v0.9 a key-defining frontend for expkv
+(D:/miktex-portable/texmfs/install/tex/latex/expkv-bundle/expkv-def.sty
+(D:/miktex-portable/texmfs/install/tex/latex/expkv-bundle/expkv-pop.sty
+(D:/miktex-portable/texmfs/install/tex/generic/expkv-bundle/expkv-pop.tex
+(D:/miktex-portable/texmfs/install/tex/generic/expkv-bundle/expkv.tex)
+File: expkv-pop.tex 2023-01-23 v1.0 a prefix oriented parser
 )
-Package: expkv-def 2022-01-29 v0.9 a key-defining frontend for expkv
+Package: expkv-pop 2023-01-23 v1.0 a prefix oriented parser
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/lualatex/luacode/luacode.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/expkv-bundle/expkv-def.tex
+(D:/miktex-portable/texmfs/install/tex/generic/expkv-bundle/expkv-pop.tex
+(D:/miktex-portable/texmfs/install/tex/generic/expkv-bundle/expkv.tex))
+File: expkv-def.tex 2023-01-23 v1.0 a key-defining frontend for expkv
+)
+Package: expkv-def 2023-01-23 v1.0 a key-defining frontend for expkv
+)
+(D:/miktex-portable/texmfs/install/tex/lualatex/luacode/luacode.sty
 Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/iftex/ifluatex.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/luatex/luatexbase/luatexbase.sty"
+(D:/miktex-portable/texmfs/install/tex/luatex/luatexbase/luatexbase.sty
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
 
-("C:/Program Files MD/MiKTeX 2.9/tex/luatex/ctablestack/ctablestack.sty"
+(D:/miktex-portable/texmfs/install/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 \@catcodetablestackcnt=\count308
 )
@@ -435,7 +443,7 @@ Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 \luacode@lines=\toks24
 \luacode@table@soft=\catcodetable14
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/paracol/paracol.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/paracol/paracol.sty
 Package: paracol 2018/12/31 v1.35 
 \pcol@currcol=\count309
 \pcol@nextcol=\count310
@@ -463,8 +471,8 @@ Package: paracol 2018/12/31 v1.35
 \pcol@colorins=\insert247
 \pcol@everyvbox=\toks25
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/lineno/lineno.sty"
-Package: lineno 2022/07/30 line numbers on paragraphs v5.0
+(D:/miktex-portable/texmfs/install/tex/latex/lineno/lineno.sty
+Package: lineno 2023/01/19 line numbers on paragraphs v5.1
 \linenopenalty=\count319
 \output=\toks26
 \linenoprevgraf=\count320
@@ -479,36 +487,35 @@ Package: lineno 2022/07/30 line numbers on paragraphs v5.0
 \bframerule=\dimen194
 \bframesep=\dimen195
 \bframebox=\box62
-\linenoamsmath@ams@eqpen=\count326
-LaTeX Info: Redefining \\ on input line 3114.
+LaTeX Info: Redefining \\ on input line 3131.
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/trivfloat/trivfloat.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/trivfloat/trivfloat.sty
 Package: trivfloat 2009/04/23 v1.4 Quick floats in LaTeX
-\c@tfl@float@cnt=\count327
+\c@tfl@float@cnt=\count326
 LaTeX Info: Redefining \tfl@uppercase on input line 223.
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/refcount/refcount.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/ltxcmds/ltxcmds.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/infwarerr/infwarerr.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/zref/zref-user.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/zref/zref-user.sty
 Package: zref-user 2022-04-07 v2.34 Module user for zref (HO)
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/zref/zref-base.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/zref/zref-base.sty
 Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/kvsetkeys/kvsetkeys.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/kvdefinekeys/kvdefinekeys.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/pdftexcmds/pdftexcmds.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -516,94 +523,97 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks27
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/etexcmds/etexcmds.sty"
+(D:/miktex-portable/texmfs/install/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/auxhook/auxhook.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 ))
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/zref/zref-abspage.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/atbegshi-ltx.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count328
+\c@abspage=\count327
 Package zref Info: New property: abspage on input line 65.
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/ifoddpage/ifoddpage.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count329
+\c@checkoddpage=\count328
 LaTeX Info: Redefining \checkoddpage on input line 45.
 )
 \ekd@app@height=\dimen196
-\c@ekd@pb=\count330
-\c@ekd@lab=\count331
-\c@ekd@vpnum=\count332
+\c@ekd@pb=\count329
+\c@ekd@lab=\count330
+\c@ekd@vpnum=\count331
 \vwidth@val=\dimen197
 \ekdspace=\skip192
 )
 (./libertine.sty
 Package: libertine 2022/09/12 (Bob Tennent) Supports Libertine and Biolinum fon
 ts for all LaTeX engines.
- ("C:/Program Files MD/MiKTeX 2.9/tex/generic/iftex/ifxetex.sty"
+
+(D:/miktex-portable/texmfs/install/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) ("C:/Program Files MD/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty"
+)
+(D:/miktex-portable/texmfs/install/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/xkeyval/xkeyval.tex"
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/xkeyval/xkvutils.tex"
+(D:/miktex-portable/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(D:/miktex-portable/texmfs/install/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks28
 \XKV@tempa@toks=\toks29
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/xkeyval/keyval.tex"))
-\XKV@depth=\count333
+(D:/miktex-portable/texmfs/install/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count332
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/textcomp.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/fontspec/fontspec.sty"
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/l3packages/xparse/xparse.sty"
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty"
-Package: expl3 2022-12-17 L3 programming layer (loader) 
+(D:/miktex-portable/texmfs/install/tex/latex/fontspec/fontspec.sty
+(D:/miktex-portable/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+(D:/miktex-portable/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-04-20 L3 programming layer (loader) 
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/l3backend/l3backend-luatex.def"
-File: l3backend-luatex.def 2022-10-26 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count334
+(D:/miktex-portable/texmfs/install/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count333
+Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box63
 ))
-Package: xparse 2022-12-17 L3 Experimental document command parser
+Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/fontspec/fontspec-luatex.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count335
-\l__fontspec_language_int=\count336
-\l__fontspec_strnum_int=\count337
-\l__fontspec_tmp_int=\count338
-\l__fontspec_tmpa_int=\count339
-\l__fontspec_tmpb_int=\count340
-\l__fontspec_tmpc_int=\count341
-\l__fontspec_em_int=\count342
-\l__fontspec_emdef_int=\count343
-\l__fontspec_strong_int=\count344
-\l__fontspec_strongdef_int=\count345
+\l__fontspec_script_int=\count334
+\l__fontspec_language_int=\count335
+\l__fontspec_strnum_int=\count336
+\l__fontspec_tmp_int=\count337
+\l__fontspec_tmpa_int=\count338
+\l__fontspec_tmpb_int=\count339
+\l__fontspec_tmpc_int=\count340
+\l__fontspec_em_int=\count341
+\l__fontspec_emdef_int=\count342
+\l__fontspec_strong_int=\count343
+\l__fontspec_strongdef_int=\count344
 \l__fontspec_tmpa_dim=\dimen198
 \l__fontspec_tmpb_dim=\dimen199
 \l__fontspec_tmpc_dim=\dimen256
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/fontenc.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/fontspec/fontspec.cfg")))
+(D:/miktex-portable/texmfs/install/tex/latex/fontspec/fontspec.cfg)))
 
 Package fontspec Info: Font family 'LinLibertine(0)' created for font
 (fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
@@ -1034,37 +1044,37 @@ dflt;"
 LaTeX Info: Redefining \oldstylenums on input line 473.
 LaTeX Info: Redefining \liningnums on input line 474.
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinLibertine_R.tex")
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinBiolinum_R.tex")
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinBiolinum_K.tex")
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LinLibertine_I.tex")
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/libertine/LKey.tex"))
+(D:/miktex-portable/texmfs/install/tex/latex/libertine/LinLibertine_R.tex)
+(D:/miktex-portable/texmfs/install/tex/latex/libertine/LinBiolinum_R.tex)
+(D:/miktex-portable/texmfs/install/tex/latex/libertine/LinBiolinum_K.tex)
+(D:/miktex-portable/texmfs/install/tex/latex/libertine/LinLibertine_I.tex)
+(D:/miktex-portable/texmfs/install/tex/latex/libertine/LKey.tex))
 (./sanskrit-poetry.sty
 Package: sanskrit-poetry 2021/09/03 v0.3 sanskrit verse typesetting
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/xstring/xstring.sty"
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/xstring/xstring.tex"
-\integerpart=\count346
-\decimalpart=\count347
+(D:/miktex-portable/texmfs/install/tex/latex/xstring/xstring.sty
+(D:/miktex-portable/texmfs/install/tex/generic/xstring/xstring.tex
+\integerpart=\count345
+\decimalpart=\count346
 )
-Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 )
-\c@ekd@padanum=\count348
+\c@ekd@padanum=\count347
 \vnumskip=\skip193
-\c@saved@poemline=\count349
+\c@saved@poemline=\count348
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg"
+(D:/miktex-portable/texmfs/install/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 227.
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/graphics-def/luatex.def"
+(D:/miktex-portable/texmfs/install/tex/latex/graphics-def/luatex.def
 File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/graphics/mathcolor.ltx")
+(D:/miktex-portable/texmfs/install/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -1075,46 +1085,117 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/babel.sty"
-Package: babel 2022/12/26 3.84 The Babel package
+(D:/miktex-portable/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2023/04/18 3.88 The Babel package
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/luababel.def"
+(D:/miktex-portable/texmfs/install/tex/generic/babel/luababel.def
 \bbl@readstream=\read3
-\l@french=\language2
+\l@afrikaans=\language2
 Package babel Info: Non-standard hyphenation setup on input line 118.
-\l@german=\language3
-\l@sanskrit=\language4
+\l@ancientgreek=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@belarusian=\language7
+\l@bengali=\language8
+\l@bokmal=\language9
+\l@bulgarian=\language10
+\l@catalan=\language11
+\l@churchslavonic=\language12
+\l@classiclatin=\language13
+\l@coptic=\language14
+\l@croatian=\language15
+\l@czech=\language16
+\l@danish=\language17
+\l@dutch=\language18
+\l@esperanto=\language19
+\l@estonian=\language20
+\l@ethiopic=\language21
+\l@finnish=\language22
+\l@french=\language23
+\l@friulan=\language24
+\l@galician=\language25
+\l@georgian=\language26
+\l@german=\language27
+\l@greek=\language28
+\l@gujarati=\language29
+\l@hindi=\language30
+\l@hungarian=\language31
+\l@icelandic=\language32
+\l@indonesian=\language33
+\l@interlingua=\language34
+\l@irish=\language35
+\l@italian=\language36
+\l@kannada=\language37
+\l@kurmanji=\language38
+\l@latin=\language39
+\l@latvian=\language40
+\l@lithuanian=\language41
+\l@liturgicallatin=\language42
+\l@macedonian=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@mongolian=\language46
+\l@mongolianlmc=\language47
+\l@monogreek=\language48
+\l@ngerman=\language49
+\l@nynorsk=\language50
+\l@occitan=\language51
+\l@oriya=\language52
+\l@pali=\language53
+\l@panjabi=\language54
+\l@piedmontese=\language55
+\l@polish=\language56
+\l@portuguese=\language57
+\l@romanian=\language58
+\l@romansh=\language59
+\l@russian=\language60
+\l@sanskrit=\language61
+\l@serbian=\language62
+\l@serbianc=\language63
+\l@slovak=\language64
+\l@slovenian=\language65
+\l@spanish=\language66
+\l@swedish=\language67
+\l@swissgerman=\language68
+\l@tamil=\language69
+\l@telugu=\language70
+\l@thai=\language71
+\l@turkish=\language72
+\l@turkmen=\language73
+\l@ukenglish=\language74
+\l@ukrainian=\language75
+\l@uppersorbian=\language76
+\l@usenglishmax=\language77
+\l@welsh=\language78
 \babelcatcodetablenum=\catcodetable15
 \bbl@pattcodes=\catcodetable16
 )
-\babel@savecnt=\count350
+\babel@savecnt=\count349
 \U@D=\dimen257
-\l@unhyphenated=\language5
+\l@unhyphenated=\language79
 
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/luababel.def"
+(D:/miktex-portable/texmfs/install/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/arabi/bblopts.cfg"
+(D:/miktex-portable/texmfs/install/tex/latex/arabi/bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/babel-english/english.ldf"
+(D:/miktex-portable/texmfs/install/tex/latex/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'british' set to \l@english
-(babel)             (\language0). Reported on input line 82.
-Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
-(babel)             (\language0). Reported on input line 83.
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@english
-(babel)             (\language0). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@english
-(babel)             (\language0). Reported on input line 108.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language74). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language74). Reported on input line 108.
 ))
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/babel/locale/en/babel-english.tex"
+(D:/miktex-portable/texmfs/install/tex/generic/babel/locale/en/babel-english.te
+x
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (./babel-iast.sty
@@ -1122,18 +1203,18 @@ Package: babel-iast
 Package babel Info: Importing data for iast
 (babel)             from babel-sa-Deva.ini. Reported on input line 2.
 Package babel Info: Hyphen rules for 'iast' set to \l@sanskrit
-(babel)             (\language4). Reported on input line 2.
+(babel)             (\language61). Reported on input line 2.
 Inserting `Babel.hyphenate' in `hyphenate'.) (./TeX2Tei-Commands.tex)) (./MssNe
 wSigla.tex
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/textgreek/textgreek.sty"
+(D:/miktex-portable/texmfs/install/tex/latex/textgreek/textgreek.sty
 Package: textgreek 2011/10/09 v0.7 Greek symbols in text
 Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
 input line 39.
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/greek-fontenc/lgrenc.def"
+(D:/miktex-portable/texmfs/install/tex/latex/greek-fontenc/lgrenc.def
 File: lgrenc.def 2023-08-15 2.4 LGR Greek font encoding definitions
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/greek-fontenc/greek-fontenc.def"
+(D:/miktex-portable/texmfs/install/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2023-08-15 2.4 Common Greek font encoding definitions
 ))
 Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
@@ -1162,20 +1243,8 @@ tlig;+tnum;+lnum;
 (babel)             these families, consider redefining them with \babelfont.
 (babel)             Reported on input line 5.
 
-luaotfload | cache : Lookup cache loaded from C:/Users/demoto/AppData/Local/MiKT
-eX/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
-
-Package fontspec Info: Could not resolve font "AdishilaSan/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "AdishilaSan/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "AdishilaSan/I" (it probably
-(fontspec)             doesn't exist).
-
+luaotfload | cache : Lookup cache loaded from D:/miktex-portable/texmfs/data/lua
+tex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: Font family 'AdishilaSan(0)' created for font
 (fontspec)             'AdishilaSan' with options
@@ -1189,13 +1258,26 @@ rer=Harfbuzz,Scale=1.5].
 (fontspec)             <->s*[1.5]"AdishilaSan:mode=harf;script=deva;language=df
 lt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.5]"AdishilaSan/B:mode=harf;script=deva;language=
+dflt;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.5]"AdishilaSan/I:mode=harf;script=deva;language=
+dflt;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1.5]"AdishilaSan/BI:mode=harf;script=deva;language
+=dflt;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
 (Font)              scaled to size 15.0pt on input line 8.
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.tex
-" UTF-8 Sanskrit hyphenation patterns
-("C:/Program Files MD/MiKTeX 2.9/tex/generic/hyph-utf8/patterns/tex/hyph-sa.tex
-")))
+
+(D:/miktex-portable/texmfs/install/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.t
+ex UTF-8 Sanskrit hyphenation patterns
+(D:/miktex-portable/texmfs/install/tex/generic/hyph-utf8/patterns/tex/hyph-sa.t
+ex)))
 \openout1 = HP1_new.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1209,7 +1291,7 @@ LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 8.
- ("C:/Program Files MD/MiKTeX 2.9/tex/latex/base/ts1cmr.fd"
+ (D:/miktex-portable/texmfs/install/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 28.
@@ -1223,12 +1305,12 @@ LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
 8.
 
-("C:/Program Files MD/MiKTeX 2.9/tex/latex/cbfonts-fd/lgrcmr.fd"
+(D:/miktex-portable/texmfs/install/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 28.
-\c@ekdapparatus=\count351
-\c@loadepth=\count352
+\c@ekdapparatus=\count350
+\c@loadepth=\count351
 \cftbeforeekdapparatusskip=\skip194
 \cftekdapparatusindent=\skip195
 \cftekdapparatusnumwidth=\skip196
@@ -1301,34 +1383,32 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/b/n on input line 2
 8.
 
-("C:/Program Files MD/MiKTeX 2.9/tex/context/base/mkii/supp-pdf.mkii"
+(D:/miktex-portable/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count353
+\scratchcounter=\count352
 \scratchdimen=\dimen258
 \scratchbox=\box64
-\nofMPsegments=\count354
-\nofMParguments=\count355
+\nofMPsegments=\count353
+\nofMParguments=\count354
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count356
+\MPscratchCnt=\count355
 \MPscratchDim=\dimen259
-\MPnumerator=\count357
-\makeMPintoPDFobject=\count358
+\MPnumerator=\count356
+\makeMPintoPDFobject=\count357
 \everyMPtoPDFconversion=\toks31
 )
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 2196.
+(Font)              scaled to size 12.0pt on input line 2197.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 8.0pt on input line 1.
-
-
-LaTeX Font Warning: Font shape `TU/AdishilaSan(0)/b/n' undefined
-(Font)              using `TU/AdishilaSan(0)/m/n' instead on input line 1.
-
+LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
 LaTeX Font Info:    Trying to load font information for LGR+LinLibertine(0) on 
 input line 1.
 LaTeX Font Info:    No file LGRLinLibertine(0).fd. on input line 1.
+
 
 LaTeX Font Warning: Font shape `LGR/LinLibertine(0)/m/n' undefined
 (Font)              using `LGR/cmr/m/n' instead on input line 1.
@@ -1343,29 +1423,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
-LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 2196.
+(Font)              scaled to size 7.0pt on input line 2197.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2196.
+(Font)              <7> on input line 2197.
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 10.5pt on input line 2196.
+(Font)              scaled to size 10.5pt on input line 2197.
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 2196.
+(Font)              scaled to size 9.0pt on input line 2197.
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 13.5pt on input line 2196.
+(Font)              scaled to size 13.5pt on input line 2197.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 2196.
-[1{C:/Users/demoto/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}
+(Font)              scaled to size 9.0pt on input line 2197.
+[1{D:/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}
 
-]
-[2]
-Underfull \hbox (badness 1028) in paragraph at lines 1--2196
+] [2]
+Underfull \hbox (badness 1028) in paragraph at lines 1--2197
 [][][]\TU/LinLibertine(0)/b/n/8 13a [][][]al-pad-vāram arandhra[] \TU/LinLiber
-tine(0)/m/n/8 cett.\TU/AdishilaSan(0)/b/n/8 ] []\TU/LinLibertine(0)/m/n/8 ākalp
+tine(0)/m/n/8 cett.\TU/AdishilaSan(0)/m/n/8 ] []\TU/LinLibertine(0)/m/n/8 ākalp
 advā<<ra>>raṃdhra[] \LGR/LinLibertine(0)/m/n/8 g$[][]$ []\TU/LinLibertine(0)
 /m/n/8 al-pad-vāram aruṃ<<dha>>[] \LGR/LinLibertine(0)/m/n/8 e$[][]$
  []
@@ -1375,9 +1452,9 @@ Missing character: There is no ° (U+00B0) in font AdishilaSan:mode=harf;script=
 deva;language=dflt;+tlig;!
 ] [8] [9] [10] [11] [12] [13] [14]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 2206.
+(Font)              <9> on input line 2207.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 2210.
+(Font)              scaled to size 9.0pt on input line 2211.
  [15] (./HP1_new.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1385,25 +1462,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25085 strings out of 478381
+ 25476 strings out of 478263
  156265,1977958 words of node,token memory allocated
  62531 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 167 glue, 3 kern, 7875 glyph, 1723 attribute, 187 g
 lue_spec, 862 attribute_list, 2 write nodes
-   avail lists: 2:5515,3:1489,4:196,5:364,6:46,7:5825,8:2,9:1082,10:29,11:412
- 44648 multiletter control sequences out of 65536+600000
- 91 fonts using 17920623 bytes
- 92i,12n,113p,12090b,963s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linlibertine
-_ri.otf><//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linl
-ibertine_rb.otf><C:/Users/demoto/AppData/Local/Microsoft/Windows/Fonts/adishilas
-an.ttf><//?/c:/program files md/miktex 2.9/fonts/opentype/public/libertine/linli
-bertine_r.otf><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn060
-0.pfb><C:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0800.pfb><C
-:/Program Files MD/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn0900.pfb>
-Output written on HP1_new.pdf (15 pages, 206664 bytes).
+   avail lists: 2:5515,3:1489,4:196,5:365,6:47,7:5823,8:2,9:1082,10:29,11:414
+ 45132 multiletter control sequences out of 65536+600000
+ 98 fonts using 19802023 bytes
+ 92i,12n,113p,12090b,963s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/miktex-portable/texmfs/install/fonts/opentype/public/libertine/LinLibertine_
+RI.otf><D:/miktex-portable/texmfs/install/fonts/opentype/public/libertine/LinLib
+ertine_RB.otf><C:/WINDOWS/Fonts/adishilasan.ttf><D:/miktex-portable/texmfs/insta
+ll/fonts/opentype/public/libertine/LinLibertine_R.otf><D:/miktex-portable/texmfs
+/install/fonts/type1/public/cbgreek/grmn0600.pfb><D:/miktex-portable/texmfs/inst
+all/fonts/type1/public/cbgreek/grmn0800.pfb><D:/miktex-portable/texmfs/install/f
+onts/type1/public/cbgreek/grmn0900.pfb>
+Output written on HP1_new.pdf (15 pages, 207059 bytes).
 
-PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
