@@ -16,14 +16,14 @@
 \makeFNbottom
 
 \usepackage[teiexport=tidy,poetry=verse]{ekdosis}
-\usepackage{libertine} % for Oberleaf version
+\usepackage{libertine}
 \usepackage{sanskrit-poetry}
 \usepackage{xcolor}
 
 \usepackage[english]{babel}
 \usepackage{babel-iast,xparse,xcolor}
 \babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.5]{AdishilaSan}
-%\babelfont[english]{rm}[Scale=0.9]{Adobe Text Pro} % to be deleted for TranslComm in Oberleaf
+%\babelfont[english]{rm}[Scale=0.9]{Adobe Text Pro}
 \babeltags{dev = iast}
 \babeltags{eng = english}
 
@@ -45,7 +45,7 @@
 	rule=\rule{0.7in}{0.4pt},
 	]
 
-\DeclareShorthand{conj}{\texteng{\emph{conj.}}}{ego}
+%\DeclareShorthand{conj}{\texteng{\emph{conj.}}}{ego}
 \DeclareShorthand{emend}{\texteng{\emph{em.}}}{ego}
 
 \setlength{\vrightskip}{-10pt}
@@ -202,3 +202,4 @@
 \def\marmas{\texteng{\textsuperscript{\#}} }
 \def\crux{\texteng{\textsuperscript{\textdagger}}}
 
+\newcommand{\teimute}[1]{#1}
