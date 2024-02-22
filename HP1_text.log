@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.11.28)  29 NOV 2023 09:51
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.11.28)  19 FEB 2024 14:04
  restricted system commands enabled.
 **HP1_text.tex
 (./HP1_text.tex
@@ -1441,7 +1441,7 @@ kii
 \everyMPtoPDFconversion=\toks33
 )
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 2210.
+(Font)              scaled to size 12.0pt on input line 2218.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
@@ -1473,21 +1473,21 @@ LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/b/n' will be
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 2210.
+(Font)              scaled to size 7.0pt on input line 2218.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2210.
+(Font)              <7> on input line 2218.
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 10.5pt on input line 2210.
+(Font)              scaled to size 10.5pt on input line 2218.
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 2210.
+(Font)              scaled to size 9.0pt on input line 2218.
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 13.5pt on input line 2210.
+(Font)              scaled to size 13.5pt on input line 2218.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 2210.
+(Font)              scaled to size 9.0pt on input line 2218.
 [1{C:/Users/demoto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ] [2]
-Underfull \hbox (badness 1028) in paragraph at lines 1--2210
+Underfull \hbox (badness 1028) in paragraph at lines 1--2218
 [][][]\TU/LinLibertine(0)/b/n/8 13a [][][]al-pad-vāram arandhra[] \TU/LinLiber
 tine(0)/m/n/8 cett.\TU/AdishilaSan(0)/b/n/8 ] []\TU/LinLibertine(0)/m/n/8 ākalp
 advā<<ra>>raṃdhra[] \LGR/LinLibertine(0)/m/n/8 g$[][]$ []\TU/LinLibertine(0)
@@ -1499,10 +1499,10 @@ Missing character: There is no ° (U+00B0) in font AdishilaSan:mode=harf;script=
 deva;language=dflt;+tlig;family=rm;!
 ] [8] [9] [10] [11]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 2210.
+(Font)              <9> on input line 2218.
  [12] [13] [14]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 2224.
+(Font)              scaled to size 9.0pt on input line 2232.
  [15] (./HP1_text.aux)
  ***********
 LaTeX2e <2023-11-01>
@@ -1515,14 +1515,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25640 strings out of 476598
+ 25644 strings out of 476598
  156265,1977958 words of node,token memory allocated
- 62568 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 167 glue, 3 kern, 7876 glyph, 1733 attribute, 187 g
-lue_spec, 867 attribute_list, 2 write nodes
-   avail lists: 1:1,2:5422,3:1488,4:192,5:371,6:47,7:5700,8:2,9:1114,10:29,11:41
+ 62567 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 167 glue, 3 kern, 7875 glyph, 1735 attribute, 187 g
+lue_spec, 868 attribute_list, 2 write nodes
+   avail lists: 1:1,2:5422,3:1502,4:192,5:369,6:46,7:5706,8:2,9:1126,10:29,11:41
 2
- 47240 multiletter control sequences out of 65536+600000
+ 47244 multiletter control sequences out of 65536+600000
  91 fonts using 17920623 bytes
  90i,12n,115p,11821b,999s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/demoto/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertine/L
@@ -1533,7 +1533,7 @@ s/opentype/public/libertine/LinLibertine_R.otf><C:/Users/demoto/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/cbgreek/grmn0600.pfb><C:/Users/demoto/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn0800.pfb><C:/Users/demoto/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn0900.pfb>
-Output written on HP1_text.pdf (15 pages, 209982 bytes).
+Output written on HP1_text.pdf (15 pages, 210449 bytes).
 
 PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
